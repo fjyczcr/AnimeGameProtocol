@@ -1,4 +1,4 @@
-// Dumped by zcr with BinaryParallax on 2026-11-14
+// Dumped by zcr with BinaryParallax on 2026-11-22
 // game version: CNRELWin7.2.0
 // source: static metadata + serializer code
 
@@ -26,12 +26,6 @@ message AACADOLMPPC {
 	repeated uint32 BLLOGKDJFGK = 5; // Offset: 0x20
 	int32 LDLIEKOAFBP = 12; // Offset: 0x28
 	uint32 OJPFPILNCIC = 13; // Offset: 0x2C
-}
-
-// CmdId: - | MergeFrom: - | WriteTo: -
-message AACGFGDPACO {
-	// Fields
-	// !! no tag for BPOMMNJOBKO (NCKOJEOGIIC)  // Offset: 0x20
 }
 
 // CmdId: - | MergeFrom: 0xD448700 | WriteTo: 0xD4483B0
@@ -694,14 +688,6 @@ message ACIFELOPHOJ {
 	uint32 NBDGINFCIIK = 7; // Offset: 0x18
 	GNFIMFALMLM BBAODGPBJLN = 15; // Offset: 0x1C
 	AGLMEPAHJGD FDPFACPLJNE = 9; // Offset: 0x20
-}
-
-// CmdId: - | MergeFrom: 0xA81C460 | WriteTo: 0xA81BEE0
-message ACJCIIPJLCD {
-	// Fields
-	uint32 NLNJDCDLHHE = 1; // Offset: 0x18
-	uint32 MHAIENEPEIP = 12; // Offset: 0x1C
-	uint32 MMLPICELLIF = 11; // Offset: 0x20
 }
 
 // CmdId: - | MergeFrom: 0xA4F5A80 | WriteTo: 0xA4F5830
@@ -1409,6 +1395,13 @@ message AFCGHOHABAK {
 
 // CmdId: - | MergeFrom: 0x12B2F8C0 | WriteTo: 0x12B2FE20
 message AFCNHJCPNHM {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xBD0EEB0 | WriteTo: 0xBD0ECA0
+	message LCOKNHPEEEB {
+		// Fields
+		int32 PMICOGBINHE = 1; // Offset: 0x18
+	}
+
 	// Fields
 	bytes MBIOMBKBFJM = 5; // Offset: 0x18
 	LCOKNHPEEEB PCPPKLAOBHE = 4; // Offset: 0x20
@@ -1995,15 +1988,6 @@ message AGMGPEFLKIJ {
 	}
 }
 
-// CmdId: - | MergeFrom: 0x89338A0 | WriteTo: 0x8933510
-message AGNHNGOLJMD {
-	// Fields
-	repeated NJBEOKEDFIJ PPGONCCAPFJ = 3; // Offset: 0x18
-	repeated CKOIALJPCCC GAECIBOCHJL = 4; // Offset: 0x20
-	PBECBAEJAHC PKJBPNOLHJH = 2; // Offset: 0x28
-	int64 FOMKGAIGOMP = 1; // Offset: 0x30
-}
-
 // CmdId: 8657 | MergeFrom: 0x8C9D600 | WriteTo: -
 message AGNLLPBMDEC {
 	// Fields
@@ -2355,6 +2339,22 @@ message AHLADPKIGFD {
 
 // CmdId: - | MergeFrom: 0x13859740 | WriteTo: 0x138590B0
 message AHLBKJJBHOC {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x9A01700 | WriteTo: 0x9A015E0
+	message IMOHOGHMJEN {
+		// Nested Messages
+		// CmdId: - | MergeFrom: 0x12B55F50 | WriteTo: 0x12B55B90
+		message FJAABDKFGPO {
+			// Fields
+			uint64 APLDKBGKGHO = 2; // Offset: 0x18
+			bool OLJKFLNEMLO = 3; // Offset: 0x20
+			uint64 ANKEOLKBECN = 1; // Offset: 0x28
+		}
+
+		// Fields
+		repeated FJAABDKFGPO CLHPPMPINFP = 1; // Offset: 0x18
+	}
+
 	// Fields
 	string JPDDCAAGEMJ = 3; // Offset: 0x18
 	string BILCCNNIBJC = 6; // Offset: 0x20
@@ -2542,12 +2542,6 @@ message AIEDLHOJPDI {
 	// Fields
 	uint32 EGICOFHBOIL = 15; // Offset: 0x18
 	uint32 ICGJGDNDIBB = 11; // Offset: 0x1C
-}
-
-// CmdId: - | MergeFrom: - | WriteTo: -
-message AIEJKBOAIAJ {
-	// Fields
-	// !! no tag for POFFCNONNKD (AACGFGDPACO)  // Offset: 0x20
 }
 
 // CmdId: - | MergeFrom: 0x8CAD5B0 | WriteTo: 0x8CACD30
@@ -3088,6 +3082,19 @@ message AKDPFFIFDOG {
 
 // CmdId: - | MergeFrom: 0xC976620 | WriteTo: 0xC976590
 message AKEDCAPDJOF {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x831E8D0 | WriteTo: 0x831E0C0
+	message BBIBJOHIFMN {
+		// Fields
+		string DLMPFJLIDKI = 6; // Offset: 0x18
+		string FHBJNPFOKGI = 3; // Offset: 0x20
+		GIPGNPEJCDC EKKAEOHJOCP = 5; // Offset: 0x28
+		string FDOGDFLKJBL = 4; // Offset: 0x30
+		uint64 AAIDJOLBBEI = 2; // Offset: 0x38
+		bool BJNFCKACLHE = 1; // Offset: 0x40
+		uint32 KIPLJJDPFDD = 7; // Offset: 0x44
+	}
+
 	// Fields
 	repeated BBIBJOHIFMN MFIOGNOGLBH = 1; // Offset: 0x18
 }
@@ -3393,6 +3400,14 @@ message ALBPHHPFFKO {
 
 // CmdId: 29554 | MergeFrom: 0x8CC0B00 | WriteTo: -
 message ALDHICBCIIA {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x10972700 | WriteTo: 0x109723F0
+	message DFBJBMGMLPG {
+		// Fields
+		bool AOCOJCFLGLN = 9; // Offset: 0x18
+		uint32 AAIDJOLBBEI = 3; // Offset: 0x1C
+	}
+
 	// Fields
 	repeated DFBJBMGMLPG DKCLONEEBBJ = 9; // Offset: 0x18
 }
@@ -3523,12 +3538,6 @@ message ALJMIECNHLD {
 message ALJPHADPDGL {
 	// Fields
 	uint32 JPGHMHALJGJ = 3; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0xF5E21F0 | WriteTo: 0xF5E20D0
-message ALKFHPHCJFD {
-	// Fields
-	repeated GMBCDEOLLKH KOIEJOHNIPI = 11; // Offset: 0x18
 }
 
 // CmdId: - | MergeFrom: 0x10976CC0 | WriteTo: 0x10976F70
@@ -3852,13 +3861,6 @@ message AMKHMGIFHFB {
 	repeated LPJMPANFNDG LOOIEGJCOOJ = 3; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0x144ABBF0 | WriteTo: 0x144AB8E0
-message AMKNDHINLNM {
-	// Fields
-	uint32 FCMBJEFDPDB = 7; // Offset: 0x18
-	bool JPJKPMFBMCL = 11; // Offset: 0x1C
-}
-
 // CmdId: 7148 | MergeFrom: 0x72E4A40 | WriteTo: -
 message AMLBKINONLL {
 	// Fields
@@ -3867,16 +3869,6 @@ message AMLBKINONLL {
 	repeated uint32 NJNODIFAKMB = 3; // Offset: 0x28
 	repeated uint32 OFBJCGEPBKA = 5; // Offset: 0x30
 	int32 LDLIEKOAFBP = 2; // Offset: 0x38
-}
-
-// CmdId: - | MergeFrom: 0xA839550 | WriteTo: 0xA838FC0
-message AMLKBLPCBKM {
-	// Fields
-	string FHBJNPFOKGI = 2; // Offset: 0x18
-	CFHPGBGNKOL FHJONLDIBKA = 3; // Offset: 0x20
-	bool HOCLMBEMJPL = 5; // Offset: 0x24
-	bool CMIOAAAJFGD = 4; // Offset: 0x25
-	uint64 AAIDJOLBBEI = 1; // Offset: 0x28
 }
 
 // CmdId: 7006 | MergeFrom: 0x8CCAAD0 | WriteTo: -
@@ -4334,12 +4326,6 @@ message ANPNCGFPLFF {
 	}
 }
 
-// CmdId: - | MergeFrom: - | WriteTo: -
-message ANPOJOJJPKE {
-	// Fields
-	// !! no tag for EINFIEIPLFA (HCHHJGFNEHI)  // Offset: 0x20
-}
-
 // CmdId: - | MergeFrom: 0xC9A99F0 | WriteTo: 0xC9A9CC0
 message AOABOCNBNBH {
 	// Fields
@@ -4410,6 +4396,14 @@ message AODNMLAGAKE {
 
 // CmdId: - | MergeFrom: 0x12B7B090 | WriteTo: 0x12B7B6E0
 message AOEKLOLHACA {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xDA4D3D0 | WriteTo: 0xDA4D180
+	message DNEOBFINMGO {
+		// Fields
+		repeated PNMGOGLHAIF NIJHIAGPCHG = 2; // Offset: 0x18
+		uint64 AAIDJOLBBEI = 1; // Offset: 0x20
+	}
+
 	// Fields
 	bytes MBIOMBKBFJM = 5; // Offset: 0x18
 	string JPDDCAAGEMJ = 3; // Offset: 0x20
@@ -5502,7 +5496,7 @@ message BBECFDMDFJC {
 	uint32 CMAFDGGJDNK = 2; // Offset: 0x8C
 	uint32 OHHFLAOMMEC = 941; // Offset: 0x90
 	uint32 MCCMGLDOECH = 10; // Offset: 0x94
-	bytes NOEEBKJAFAG = 8; // Offset: 0x98
+	ILGABKBIAIE NOEEBKJAFAG = 8; // Offset: 0x98
 	uint32 JEPBJIIEFOM = 157; // Offset: 0x9C
 	uint32 PKGEAAKBCNC = 1; // Offset: 0xA0
 	uint32 IOLBHNOIGJN = 5; // Offset: 0xA4
@@ -5562,18 +5556,6 @@ message BBHKMECPOEI {
 message BBHNFKAGKHI {
 	// Fields
 	uint32 NBDGINFCIIK = 6; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0x831E8D0 | WriteTo: 0x831E0C0
-message BBIBJOHIFMN {
-	// Fields
-	string DLMPFJLIDKI = 6; // Offset: 0x18
-	string FHBJNPFOKGI = 3; // Offset: 0x20
-	GIPGNPEJCDC EKKAEOHJOCP = 5; // Offset: 0x28
-	string FDOGDFLKJBL = 4; // Offset: 0x30
-	uint64 AAIDJOLBBEI = 2; // Offset: 0x38
-	bool BJNFCKACLHE = 1; // Offset: 0x40
-	uint32 KIPLJJDPFDD = 7; // Offset: 0x44
 }
 
 // CmdId: - | MergeFrom: 0xC9C2800 | WriteTo: 0xC9C2A10
@@ -5806,7 +5788,7 @@ message BCDPCNLLCGF {
 // CmdId: - | MergeFrom: 0xA578070 | WriteTo: 0xA577FA0
 message BCEDCHOFMGP {
 	// Fields
-	GBKOPEINDIH HHLHCODKHDM = 1; // Offset: 0x18
+	JNDNBBPMCNF.GBKOPEINDIH HHLHCODKHDM = 1; // Offset: 0x18
 }
 
 // CmdId: - | MergeFrom: 0x1171A3B0 | WriteTo: 0x117196D0
@@ -6332,6 +6314,14 @@ message BCNIPKAJKIC {
 
 // CmdId: - | MergeFrom: 0x12BA5300 | WriteTo: 0x12BA4590
 message BCOAKJCCGKJ {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x9E08F00 | WriteTo: 0x9E08CC0
+	message MGFKKBLOENO {
+		// Fields
+		repeated KIBGGJCHBFK BCOOEGCDHKK = 1; // Offset: 0x18
+		string FBLKPHOCBIK = 2; // Offset: 0x20
+	}
+
 	// Fields
 	string JPDDCAAGEMJ = 3; // Offset: 0x18
 	string BILCCNNIBJC = 6; // Offset: 0x20
@@ -6363,6 +6353,20 @@ message BCPEHOACIDK {
 
 // CmdId: - | MergeFrom: 0xFE0D8E0 | WriteTo: 0xFE0D1A0
 message BCPLMBHJANB {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x12BA8E10 | WriteTo: 0x12BA8D00
+	message FFBCBOPKEKP {
+		// Fields
+		repeated uint32 LADLNFAJOCM = 15; // Offset: 0x18
+	}
+
+	// CmdId: - | MergeFrom: 0xDA777F0 | WriteTo: 0xDA775A0
+	message FHKDNFNPPMD {
+		// Fields
+		string FHBJNPFOKGI = 4; // Offset: 0x18
+		bool OOPGHCJDHHH = 11; // Offset: 0x20
+	}
+
 	oneof FLPGMLOFAKP {
 		FFBCBOPKEKP set_tag_op = 131; // Offset: 0x18
 		FHKDNFNPPMD set_level_name_op = 787; // Offset: 0x18
@@ -6585,13 +6589,6 @@ message BDKPHKPCAMO {
 	uint32 AAIDJOLBBEI = 12; // Offset: 0x1C
 }
 
-// CmdId: - | MergeFrom: 0xF21B8A0 | WriteTo: 0xF21B4F0
-message BDKPPNIMOOH {
-	// Fields
-	uint32 OLBGFLGJBCI = 4; // Offset: 0x18
-	uint32 KDHAOJFJFIP = 1; // Offset: 0x1C
-}
-
 // CmdId: - | MergeFrom: 0xDA85D10 | WriteTo: 0xDA86540
 message BDLFOHHLJKG {
 	// Fields
@@ -6733,16 +6730,6 @@ message BEABFIFCOOL {
 	uint32 MNJIICNNAJH = 5; // Offset: 0x2C
 }
 
-// CmdId: - | MergeFrom: 0x8F52050 | WriteTo: 0x8F518C0
-message BEADOCICIMB {
-	// Fields
-	repeated HEAGADFEFBI JGECGMPNGBD = 7; // Offset: 0x18
-	uint32 PBMDMJMEPJK = 2; // Offset: 0x20
-	uint32 NEBKFCHLIJP = 3; // Offset: 0x24
-	bool IHJEGENOPEE = 14; // Offset: 0x28
-	uint32 PGDFOLLCMCD = 12; // Offset: 0x2C
-}
-
 // CmdId: 21877 | MergeFrom: - | WriteTo: 0xC145BE0
 message BEALJKINJBN {
 	// Fields
@@ -6802,6 +6789,14 @@ message BECACKEKICF {
 
 // CmdId: 28678 | MergeFrom: 0x8717B50 | WriteTo: -
 message BECKHNJMHAF {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x12BB0DF0 | WriteTo: 0x12BB0A20
+	message IKNJJHAAIOE {
+		// Fields
+		int32 LDLIEKOAFBP = 7; // Offset: 0x18
+		uint32 PJAJDHBBMGB = 1; // Offset: 0x1C
+	}
+
 	// Fields
 	repeated IKNJJHAAIOE LHCAGCICOAI = 14; // Offset: 0x18
 	int32 LDLIEKOAFBP = 4; // Offset: 0x20
@@ -6906,13 +6901,6 @@ message BEHBPPFNNJH {
 	uint32 NBMDJDJJDMF = 7; // Offset: 0x30
 }
 
-// CmdId: - | MergeFrom: 0x13D7C610 | WriteTo: 0x13D7C300
-message BEIAMFCCAPM {
-	// Fields
-	bool KEDLCEFHLLF = 2; // Offset: 0x18
-	uint32 BBCENEIONJO = 1; // Offset: 0x1C
-}
-
 // CmdId: 2703 | MergeFrom: - | WriteTo: 0x871B2A0
 message BEIDDPCBEOP {
 	// Fields
@@ -7000,20 +6988,6 @@ message BELIICOOIEI {
 	uint32 DFOPHHDNOGA = 2; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0x136B78A0 | WriteTo: 0x136B70D0
-message BELKBLNCFNK {
-	// Fields
-	DHMHJKOJDHO BCMMICHPMEG = 8; // Offset: 0x18
-	repeated JHBCDMAPPLJ JHFOAAFHION = 7; // Offset: 0x20
-	LIJOGODNBLD HGPODLIBAJA = 4; // Offset: 0x28
-	KOPNJHPCAJO AGFHJFPNBPB = 2; // Offset: 0x30
-	EPJFFGJBJDH CBGOFCDONNO = 5; // Offset: 0x38
-	repeated string KACJAMJINJE = 10; // Offset: 0x40
-	repeated AAFGNJIHPIK ODKADMJJMJG = 11; // Offset: 0x48
-	OKDCDKGGFAJ CBEHPGKHOKP = 9; // Offset: 0x50
-	uint64 AAIDJOLBBEI = 1; // Offset: 0x58
-}
-
 // CmdId: - | MergeFrom: 0xE3E1E80 | WriteTo: 0xE3E2290
 message BELLGDAFADG {
 	// Fields
@@ -7033,6 +7007,13 @@ message BELNDEHPJGP {
 
 // CmdId: - | MergeFrom: 0x140450F0 | WriteTo: 0x14044980
 message BEMEPOJLOGM {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x123B4AD0 | WriteTo: 0x123B4900
+	message OCANIFCKENO {
+		// Fields
+		uint32 OLBGFLGJBCI = 6; // Offset: 0x18
+	}
+
 	oneof GDBAICELECI {
 		OCANIFCKENO unpair_op = 12; // Offset: 0x18
 	}
@@ -7851,6 +7832,23 @@ message BGPMNAOGKBF {
 
 // CmdId: - | MergeFrom: 0xA930C50 | WriteTo: 0xA930850
 message BGPOICEHGOO {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xFE27350 | WriteTo: 0xFE27230
+	message DIAIIIJOGAM {
+		// Fields
+		repeated BGDCNKAKGHI DNMICOCKFFL = 13; // Offset: 0x18
+	}
+
+	// CmdId: - | MergeFrom: - | WriteTo: -
+	message HJPIHHPIFHG {
+	}
+
+	// CmdId: - | MergeFrom: 0x7DFC480 | WriteTo: 0x7DFC2B0
+	message PPNFADGLEGK {
+		// Fields
+		uint32 LLHEBIHGDAE = 1; // Offset: 0x18
+	}
+
 	oneof CNEMOHIABEG {
 		HJPIHHPIFHG add_signal = 2; // Offset: 0x18
 		DIAIIIJOGAM refresh_seed = 9; // Offset: 0x18
@@ -9001,6 +8999,15 @@ message BJOENODEOHA {
 
 // CmdId: 9887 | MergeFrom: - | WriteTo: 0x12F974D0
 message BJOFFIIFCFK {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xCDC80A0 | WriteTo: 0xCDC7BE0
+	message NEFLEBOBAAB {
+		oneof FLPGMLOFAKP {
+			uint32 mist_trial_avatar_id = 6; // Offset: 0x18
+			uint64 formal_avatar_guid = 1; // Offset: 0x18
+		}
+	}
+
 	// Fields
 	repeated NEFLEBOBAAB MFBDBOAMKJN = 1; // Offset: 0x18
 	repeated uint32 MKIGFGOCFGA = 7; // Offset: 0x20
@@ -9696,12 +9703,6 @@ message BLLIGOICJOK {
 	repeated HHBGCGCDLMP DNIEBKNDCPJ = 1; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0xB3100B0 | WriteTo: 0xB30FEE0
-message BLMGJOJJMDO {
-	// Fields
-	uint32 OJCDHEEOJIC = 3; // Offset: 0x18
-}
-
 // CmdId: 1715 | MergeFrom: - | WriteTo: 0xB91C310
 message BLMHBFFMICO {
 	// Fields
@@ -10251,6 +10252,14 @@ message BNAAPIIPKLF {
 
 // CmdId: 28019 | MergeFrom: 0xB923470 | WriteTo: -
 message BNAGGIBOBEE {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xB923B70 | WriteTo: 0xB9237C0
+	message JAGMJEAKDCL {
+		// Fields
+		uint32 HKFJOKDMPBI = 12; // Offset: 0x18
+		uint32 PJAJDHBBMGB = 9; // Offset: 0x1C
+	}
+
 	// Fields
 	repeated JAGMJEAKDCL PLPNCLOFNIC = 11; // Offset: 0x18
 	int32 LDLIEKOAFBP = 8; // Offset: 0x20
@@ -10606,13 +10615,6 @@ message BOBFLKFFKCJ {
 message BOBGCDEPDGE {
 }
 
-// CmdId: - | MergeFrom: 0xE814B20 | WriteTo: 0xE814850
-message BOBNHPEMOCC {
-	// Fields
-	BGDCNKAKGHI HHAFHFEPLPD = 7; // Offset: 0x18
-	uint32 ANKEOLKBECN = 15; // Offset: 0x20
-}
-
 // CmdId: - | MergeFrom: 0x110D8360 | WriteTo: 0x110D8BC0
 message BODCOIGBCPN {
 	// Fields
@@ -10759,12 +10761,6 @@ message BOLEHDDEHKG {
 	repeated FNIPCEECOGN LKJLLOCJNGK = 1; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0xB46F710 | WriteTo: 0xB46F5F0
-message BOLOHENDHJJ {
-	// Fields
-	repeated OFPABDCJLHP ENONLOFDEHA = 1; // Offset: 0x18
-}
-
 // CmdId: 21831 | MergeFrom: - | WriteTo: 0xD17F9E0
 message BOMLJKGHHOE {
 	// Fields
@@ -10778,12 +10774,6 @@ message BOMNCFGGKDH {
 	// Fields
 	repeated uint32 PHMIGMOKJCK = 12; // Offset: 0x18
 	uint32 JODLPAKADLB = 3; // Offset: 0x20
-}
-
-// CmdId: - | MergeFrom: 0x13B060A0 | WriteTo: 0x13B05F80
-message BOMPKPCPHPL {
-	// Fields
-	repeated OEOHFDCIIBC CLHPPMPINFP = 1; // Offset: 0x18
 }
 
 // CmdId: - | MergeFrom: 0x9412D80 | WriteTo: 0x9412B30
@@ -11696,6 +11686,13 @@ message CBDMFBFGLCB {
 
 // CmdId: - | MergeFrom: 0x11B228A0 | WriteTo: 0x11B23020
 message CBEDLKGJAOF {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x7EA7F50 | WriteTo: 0x7EA7E40
+	message FGKIPNBODCL {
+		// Fields
+		repeated uint64 AAIDJOLBBEI = 1; // Offset: 0x18
+	}
+
 	// Fields
 	string JPDDCAAGEMJ = 3; // Offset: 0x18
 	bytes MBIOMBKBFJM = 5; // Offset: 0x20
@@ -11929,12 +11926,6 @@ message CCAOOFEKGHB {
 	repeated HEAGADFEFBI LOOIEGJCOOJ = 8; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: - | WriteTo: -
-message CCBJNNJAKIM {
-	// Fields
-	// !! no tag for PIBEPOHBBEG (DBFJNNPDOKN)  // Offset: 0x20
-}
-
 // CmdId: 28284 | MergeFrom: 0x1110FC60 | WriteTo: -
 message CCBMDHOFFDO {
 	// Fields
@@ -12128,15 +12119,6 @@ message CCLCGGALHJO {
 	uint32 BNFDJHEIHHP = 3; // Offset: 0x20
 }
 
-// CmdId: - | MergeFrom: 0x10B0D5E0 | WriteTo: 0x10B0CF70
-message CCLFADDKCJE {
-	// Fields
-	JOCFDGNABEJ MMLPICELLIF = 7; // Offset: 0x18
-	uint32 HEJGKMPNNIM = 4; // Offset: 0x1C
-	uint32 NLNJDCDLHHE = 9; // Offset: 0x20
-	uint32 MHAIENEPEIP = 12; // Offset: 0x24
-}
-
 // CmdId: - | MergeFrom: 0x7EADD60 | WriteTo: 0x7EAE2A0
 message CCNBFCHKAKD {
 	// Fields
@@ -12245,12 +12227,6 @@ message CDBCDMEFEIO {
 message CDBJABMLBDA {
 }
 
-// CmdId: - | MergeFrom: 0xFC969A0 | WriteTo: 0xFC96790
-message CDBJJIKOIPD {
-	// Fields
-	int32 JGMKPLELKFL = 1; // Offset: 0x18
-}
-
 // CmdId: - | MergeFrom: 0xAD2E320 | WriteTo: 0xAD2EDB0
 message CDCICDDHBEO {
 	// Fields
@@ -12264,12 +12240,6 @@ message CDCICDDHBEO {
 	bool FKCFIMHGLGI = 12; // Offset: 0x50
 	uint32 NOEEBKJAFAG = 3; // Offset: 0x54
 	MBNMJPAONML MACNMKHPIMF = 2; // Offset: 0x58
-}
-
-// CmdId: - | MergeFrom: 0x88E0B20 | WriteTo: 0x88E0950
-message CDCNEKMCIKM {
-	// Fields
-	uint32 PGMEIJHLDBI = 1; // Offset: 0x18
 }
 
 // CmdId: 6791 | MergeFrom: 0xA234EB0 | WriteTo: -
@@ -12942,6 +12912,14 @@ message CENJADODAGH {
 
 // CmdId: - | MergeFrom: 0xA2BB3B0 | WriteTo: 0xA2BAF50
 message CENNMEMOBEL {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xE814B20 | WriteTo: 0xE814850
+	message BOBNHPEMOCC {
+		// Fields
+		BGDCNKAKGHI HHAFHFEPLPD = 7; // Offset: 0x18
+		uint32 ANKEOLKBECN = 15; // Offset: 0x20
+	}
+
 	// Fields
 	repeated uint32 EKBKOBDCKOE = 11; // Offset: 0x18
 	repeated BOBNHPEMOCC HGOAIIDHDMN = 9; // Offset: 0x20
@@ -13609,6 +13587,15 @@ message CGJJKDGGAOD {
 
 // CmdId: - | MergeFrom: 0xD1CB5A0 | WriteTo: 0xD1CB7A0
 message CGJNBFHLABI {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x8B564C0 | WriteTo: 0x8B56130
+	message JHGHPBKNOEL {
+		// Fields
+		repeated EIAFKKFAHBA CLHPPMPINFP = 2; // Offset: 0x18
+		bool MJKIDOBCCIA = 3; // Offset: 0x20
+		uint64 AAIDJOLBBEI = 1; // Offset: 0x28
+	}
+
 	// Fields
 	JHGHPBKNOEL PCPPKLAOBHE = 4; // Offset: 0x18
 	string HFMHBICJHNH = 2; // Offset: 0x20
@@ -13616,15 +13603,6 @@ message CGJNBFHLABI {
 	string JPDDCAAGEMJ = 3; // Offset: 0x30
 	string BILCCNNIBJC = 6; // Offset: 0x38
 	int32 MJPDGPKAOGB = 1; // Offset: 0x40
-}
-
-// CmdId: - | MergeFrom: 0x9B7B730 | WriteTo: 0x9B7B080
-message CGKKKNHIMMA {
-	// Fields
-	uint64 IPPDEHFEPHI = 4; // Offset: 0x18
-	uint32 JEIIOJDBOEE = 12; // Offset: 0x20
-	uint32 OIFOGAIDDNN = 6; // Offset: 0x24
-	uint32 NFHEPLAGPHD = 8; // Offset: 0x28
 }
 
 // CmdId: - | MergeFrom: 0x102D94C0 | WriteTo: 0x102D93F0
@@ -13891,12 +13869,28 @@ message CHJPEGODJII {
 
 // CmdId: 2018 | MergeFrom: - | WriteTo: 0x102E0BD0
 message CHLPCJOLCKB {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x8B62200 | WriteTo: 0x8B61FA0
+	message HKIEJAGGKID {
+		// Fields
+		string MKHJKMHCKDF = 4; // Offset: 0x18
+		uint64 JKJBAOEKNKE = 7; // Offset: 0x20
+	}
+
+	// CmdId: - | MergeFrom: 0x1114E360 | WriteTo: 0x1114E240
+	message IPNOCBNFGAM {
+		// Fields
+		bytes DGNMHHNGDCA = 3; // Offset: 0x18
+	}
+
 	// Fields
 	uint32 NBDGINFCIIK = 6; // Offset: 0x24
-	// unresolved (oneof HBJFILEBGGP, type unknown): text = 5;
-	// unresolved (oneof HBJFILEBGGP, type unknown): icon = 7;
-	// unresolved (oneof HBJFILEBGGP, type unknown): beyond_costume_share_code = 13;
-	// unresolved (oneof HBJFILEBGGP, type unknown): beyond_level_share = 11;
+	oneof HBJFILEBGGP {
+		string text = 5; // Offset: 0x18
+		uint32 icon = 7; // Offset: 0x18
+		IPNOCBNFGAM beyond_costume_share_code = 13; // Offset: 0x18
+		HKIEJAGGKID beyond_level_share = 11; // Offset: 0x18
+	}
 }
 
 // CmdId: 25464 | MergeFrom: 0x7EDCA00 | WriteTo: -
@@ -14009,13 +14003,6 @@ message CIBNBKLCALF {
 	// Fields
 	repeated uint64 PIDCNPCLBCE = 10; // Offset: 0x18
 	uint32 LGGEJDELBJE = 2; // Offset: 0x20
-}
-
-// CmdId: - | MergeFrom: 0x8D282E0 | WriteTo: 0x8D27F30
-message CICBDFKNFBB {
-	// Fields
-	uint32 OLBGFLGJBCI = 6; // Offset: 0x18
-	uint32 KDHAOJFJFIP = 9; // Offset: 0x1C
 }
 
 // CmdId: - | MergeFrom: 0xEA4D040 | WriteTo: 0xEA4D840
@@ -14523,17 +14510,6 @@ message CJMECOIJGLC {
 message CJMLBHDOHGM {
 }
 
-// CmdId: - | MergeFrom: 0xE56E450 | WriteTo: 0xE56D940
-message CJMNGEOHLGM {
-	// Fields
-	uint32 EPBMJOOFNEG = 9; // Offset: 0x18
-	uint32 JPKOINPDNAL = 10; // Offset: 0x1C
-	uint32 CPFHAFCPIFP = 8; // Offset: 0x20
-	uint32 POGOCJNAOIM = 4; // Offset: 0x24
-	uint32 EPJJGGHIGNO = 12; // Offset: 0x28
-	uint32 KKFPAIHIJNN = 13; // Offset: 0x2C
-}
-
 // CmdId: - | MergeFrom: 0x11D028E0 | WriteTo: 0x11D02290
 message CJNDDHOGKLO {
 	// Fields
@@ -14592,6 +14568,22 @@ message CJPBHCJJLPC {
 
 // CmdId: - | MergeFrom: 0x97BF5B0 | WriteTo: 0x97BFFF0
 message CKBCLGNKAOJ {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xC798F40 | WriteTo: 0xC798560
+	message OPLLFDENECB {
+		// Fields
+		HDDOPECENAF AOIGKFJIMLN = 4; // Offset: 0x18
+		FLFGGHMOAIK OHCANNMPPLO = 9; // Offset: 0x20
+		EGKMDIMFHMC MGIBLEKCNOP = 2; // Offset: 0x28
+		FBGOMEJGKFM HKHOJKKJHME = 3; // Offset: 0x30
+		ONLADJEKBJI LEIKFDLHEKM = 1; // Offset: 0x38
+		MKEOAAHGAFM BDGIFFNIJMF = 10; // Offset: 0x40
+		NBOPBILPMDN LJHCBLFFAHM = 8; // Offset: 0x48
+		bool FPGHDNHOPDC = 5; // Offset: 0x50
+		bool CGACMKMMKFE = 6; // Offset: 0x51
+		bool FOOLJKAIOPG = 7; // Offset: 0x52
+	}
+
 	// Fields
 	OPLLFDENECB PCPPKLAOBHE = 4; // Offset: 0x18
 	string HFMHBICJHNH = 2; // Offset: 0x20
@@ -14796,6 +14788,21 @@ message CKKMFLHKICF {
 
 // CmdId: 21554 | MergeFrom: 0xBB252F0 | WriteTo: -
 message CKLEODEABMF {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x11D08AB0 | WriteTo: 0x11D07830
+	message GKLPAGEHPEN {
+		oneof AEGNKHHCECK {
+			GILCBAFBDGB init_info = 937; // Offset: 0x18
+			NLJLBDFLADP new_member = 1753; // Offset: 0x18
+			GKKKOOPIFFH member_leave_info = 397; // Offset: 0x18
+			NLJLBDFLADP new_captain = 1480; // Offset: 0x18
+			NLJLBDFLADP new_member_info = 1571; // Offset: 0x18
+			JBCHBNKONMM new_config_info = 1253; // Offset: 0x18
+			CCCOFEJBFOJ dungeon_info = 1217; // Offset: 0x18
+			bool is_in_new_beyond_room = 1534; // Offset: 0x18
+		}
+	}
+
 	// Fields
 	repeated GKLPAGEHPEN IKCNEIPHPFB = 15; // Offset: 0x18
 	uint64 DIOPBEFMPBO = 13; // Offset: 0x20
@@ -14890,13 +14897,6 @@ message CKOGALLAGEJ {
 	// Fields
 	JKGBFJHGKCJ GJKHFBKBMDO = 1; // Offset: 0x18
 	JKGBFJHGKCJ PIFDENABHNO = 2; // Offset: 0x20
-}
-
-// CmdId: - | MergeFrom: 0x96D8120 | WriteTo: 0x96D7D70
-message CKOIALJPCCC {
-	// Fields
-	uint32 KOCFLGMCFJF = 2; // Offset: 0x18
-	uint32 PJAJDHBBMGB = 1; // Offset: 0x1C
 }
 
 // CmdId: - | MergeFrom: 0xEA5C850 | WriteTo: 0xEA5C780
@@ -15060,11 +15060,6 @@ message CLDMDCNMHFD {
 // CmdId: 6111 | MergeFrom: - | WriteTo: 0x11D0D750
 message CLDMHKFEDHE {
 	// Nested Enums
-	enum INNGNDKCAEP {
-		INNGNDKCAEP_OPTION_NONE = 0;
-		INNGNDKCAEP_OPTION_NORMAL = 1;
-		INNGNDKCAEP_OPTION_FIRST_CAN_GO = 2;
-	}
 	enum CLMDCJAJCNE {
 		CLMDCJAJCNE_CLASSIC = 0;
 		CLMDCJAJCNE_TENDENCY = 1;
@@ -15075,6 +15070,11 @@ message CLDMHKFEDHE {
 		DEHEJFDABCO_ALL = 0;
 		DEHEJFDABCO_AIR = 1;
 		DEHEJFDABCO_WATER = 2;
+	}
+	enum INNGNDKCAEP {
+		INNGNDKCAEP_OPTION_NONE = 0;
+		INNGNDKCAEP_OPTION_NORMAL = 1;
+		INNGNDKCAEP_OPTION_FIRST_CAN_GO = 2;
 	}
 	// Fields
 	BGDCNKAKGHI JMBCAIOIJHH = 9; // Offset: 0x18
@@ -16281,6 +16281,13 @@ message COPMOAGFEFJ {
 
 // CmdId: - | MergeFrom: 0xA310C80 | WriteTo: 0xA3114F0
 message CPAEIANHLMN {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x1439D740 | WriteTo: 0x1439D600
+	message HBDCIKLANNM {
+		// Fields
+		uint64 AAIDJOLBBEI = 1; // Offset: 0x18
+	}
+
 	// Fields
 	HBDCIKLANNM PCPPKLAOBHE = 4; // Offset: 0x18
 	string HFMHBICJHNH = 2; // Offset: 0x20
@@ -16584,16 +16591,6 @@ message DAEMBFKGMMH {
 	JEEFPMKFGBL PCPPKLAOBHE = 1; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0x143A66D0 | WriteTo: 0x143A5F90
-message DAFGJJADODD {
-	// Fields
-	NMANFNGNPBP HHLHCODKHDM = 2; // Offset: 0x18
-	CDDIAPFNPGG FJCLAOHLBGL = 3; // Offset: 0x20
-	EJBKDPOGMBB CBBMIMCMNEO = 5; // Offset: 0x28
-	bool AJDMHCONIAB = 1; // Offset: 0x30
-	uint64 AMLBGPGIJBD = 4; // Offset: 0x38
-}
-
 // CmdId: - | MergeFrom: 0xBB4DB60 | WriteTo: 0xBB4D670
 message DAFJAFKCNFC {
 	// Fields
@@ -16604,6 +16601,42 @@ message DAFJAFKCNFC {
 
 // CmdId: - | MergeFrom: 0x111AD1A0 | WriteTo: 0x111ACD60
 message DAGAIMGBKCA {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x143A66D0 | WriteTo: 0x143A5F90
+	message DAFGJJADODD {
+		// Fields
+		NMANFNGNPBP HHLHCODKHDM = 2; // Offset: 0x18
+		CDDIAPFNPGG FJCLAOHLBGL = 3; // Offset: 0x20
+		EJBKDPOGMBB CBBMIMCMNEO = 5; // Offset: 0x28
+		bool AJDMHCONIAB = 1; // Offset: 0x30
+		uint64 AMLBGPGIJBD = 4; // Offset: 0x38
+	}
+
+	// CmdId: - | MergeFrom: 0xAF0D6F0 | WriteTo: 0xAF0D2B0
+	message DOFBLNELFCH {
+		// Fields
+		NMANFNGNPBP HHLHCODKHDM = 2; // Offset: 0x18
+		IADOIMHIOIB GOEJKDLLJFN = 3; // Offset: 0x20
+		uint64 AMLBGPGIJBD = 4; // Offset: 0x28
+		bool AJDMHCONIAB = 1; // Offset: 0x30
+	}
+
+	// CmdId: - | MergeFrom: 0x97FDCB0 | WriteTo: 0x97FD7C0
+	message EJBKDPOGMBB {
+		// Fields
+		uint32 MCBDPCEADCO = 2; // Offset: 0x18
+		uint32 CKIDKGLDJFF = 1; // Offset: 0x1C
+		uint64 OFHIEKJIOCE = 3; // Offset: 0x20
+	}
+
+	// CmdId: - | MergeFrom: 0x143A6F70 | WriteTo: 0x143A6C30
+	message NMANFNGNPBP {
+		// Fields
+		string FHBJNPFOKGI = 2; // Offset: 0x18
+		GIPGNPEJCDC MCNBALALEFM = 3; // Offset: 0x20
+		uint64 AAIDJOLBBEI = 1; // Offset: 0x28
+	}
+
 	// Fields
 	DOFBLNELFCH AHONDNNLGJI = 1; // Offset: 0x18
 	DAFGJJADODD ALICOJOGCNJ = 2; // Offset: 0x20
@@ -16830,12 +16863,6 @@ message DAPIKIHAGEF {
 	LKPPFOODLNE FILGDKEKCLO = 6; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0xB74D180 | WriteTo: 0xB74CFB0
-message DAPJCDHKNEG {
-	// Fields
-	uint32 LLHEBIHGDAE = 9; // Offset: 0x18
-}
-
 // CmdId: 21622 | MergeFrom: - | WriteTo: 0x9802670
 message DBACFEAADMN {
 	// Fields
@@ -16870,6 +16897,24 @@ message DBBFFJGOIEP {
 
 // CmdId: 29975 | MergeFrom: 0x98033D0 | WriteTo: -
 message DBBIBOMOCCL {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xC7D1400 | WriteTo: 0xC7D0D10
+	message FGAENEJDFNI {
+		// Fields
+		repeated IEGGDJJDLGI LAJHLJGOMPH = 14; // Offset: 0x18
+		repeated uint32 DBHIHOMHLHL = 5; // Offset: 0x20
+		repeated uint32 NPPHCJJCKEH = 6; // Offset: 0x28
+		bool DPJBMEDJEAK = 12; // Offset: 0x30
+		uint32 PONIMKJNHPC = 9; // Offset: 0x34
+		uint32 EEEMOBABPMO = 13; // Offset: 0x38
+	}
+
+	// CmdId: - | MergeFrom: 0x731CDD0 | WriteTo: 0x731CCC0
+	message LDJNEMGKFCP {
+		// Fields
+		repeated uint32 NOAAKEBKBDC = 9; // Offset: 0x18
+	}
+
 	// Fields
 	EPFKPEGEGKE FKAJHDJOHAE = 6; // Offset: 0x20
 	uint32 ADCBJEKMNED = 15; // Offset: 0x24
@@ -16945,12 +16990,6 @@ message DBFEMFBNFKE {
 	int32 LDLIEKOAFBP = 1; // Offset: 0x24
 }
 
-// CmdId: - | MergeFrom: - | WriteTo: -
-message DBFJNNPDOKN {
-	// Fields
-	// !! no tag for AGANGOCJKEM (HCHHJGFNEHI)  // Offset: 0x20
-}
-
 // CmdId: - | MergeFrom: 0x143B0750 | WriteTo: 0x143B01A0
 message DBGAGKEMDLJ {
 	// Fields
@@ -16997,16 +17036,16 @@ message DBHHLGELJBN {
 
 // CmdId: - | MergeFrom: 0x11D685C0 | WriteTo: 0x11D68680
 message DBHICIGJEOC {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x7323560 | WriteTo: 0x7323160
+	message PDLEOAELFLJ {
+		// Fields
+		int32 LCIHMJAOAGE = 2; // Offset: 0x18
+		int32 DFFMDAMGKLF = 3; // Offset: 0x1C
+	}
+
 	// Fields
 	repeated PDLEOAELFLJ BLDKGCODKMI = 1; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0xBC7F160 | WriteTo: 0xBC7EC80
-message DBHKCKJPCCF {
-	// Fields
-	bool LFIPKLNNKGG = 5; // Offset: 0x18
-	uint32 JPDDCAAGEMJ = 11; // Offset: 0x1C
-	uint32 KMOPHDPDFOI = 12; // Offset: 0x20
 }
 
 // CmdId: - | MergeFrom: 0x10326220 | WriteTo: 0x10325E50
@@ -17320,13 +17359,6 @@ message DCDBLACLIKF {
 	}
 }
 
-// CmdId: - | MergeFrom: 0x14256D10 | WriteTo: 0x14256960
-message DCDCMEEBLPM {
-	// Fields
-	uint32 OLBGFLGJBCI = 4; // Offset: 0x18
-	uint32 AANCEPCPHKJ = 1; // Offset: 0x1C
-}
-
 enum DCDMKNPFCMH {
 	DCDMKNPFCMH_NONE = 0;
 	DCDMKNPFCMH_LEVEL = 1;
@@ -17593,6 +17625,14 @@ message DDAHLEDABKF {
 
 // CmdId: - | MergeFrom: 0x143C4730 | WriteTo: 0x143C4130
 message DDAKIDBHOBJ {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x136619B0 | WriteTo: 0x13661710
+	message KKDOLJIPMCF {
+		// Fields
+		int64 IGGMPAPFLCD = 1; // Offset: 0x18
+		int64 ENCACKMPDAI = 2; // Offset: 0x20
+	}
+
 	// Fields
 	KKDOLJIPMCF PCPPKLAOBHE = 4; // Offset: 0x18
 	string BILCCNNIBJC = 6; // Offset: 0x20
@@ -18098,16 +18138,6 @@ message DEKGJMOOKHC {
 	int32 LDLIEKOAFBP = 2; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0xEF484E0 | WriteTo: 0xEF47D00
-message DEKHFGIHCJL {
-	// Fields
-	uint64 AJOCIEEGAIG = 14; // Offset: 0x18
-	uint32 JEIIOJDBOEE = 12; // Offset: 0x20
-	uint32 OIFOGAIDDNN = 6; // Offset: 0x24
-	uint32 NFHEPLAGPHD = 13; // Offset: 0x28
-	uint64 IPPDEHFEPHI = 3; // Offset: 0x30
-}
-
 enum DEKHNJIJDJJ {
 	DEKHNJIJDJJ_UGC_VOTE_NONE = 0;
 	DEKHNJIJDJJ_UGC_VOTE_POSITIVE = 1;
@@ -18318,13 +18348,6 @@ message DFBBGJEBJNC {
 message DFBDNDKCBJM {
 	// Fields
 	uint32 KHMMLLBMHPN = 1; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0x10972700 | WriteTo: 0x109723F0
-message DFBJBMGMLPG {
-	// Fields
-	bool AOCOJCFLGLN = 9; // Offset: 0x18
-	uint32 AAIDJOLBBEI = 3; // Offset: 0x1C
 }
 
 // CmdId: - | MergeFrom: 0x1366E4F0 | WriteTo: 0x1366E880
@@ -18573,14 +18596,6 @@ message DFOGMEINCFD {
 	bool FKDIMGNCOHB = 10; // Offset: 0x24
 }
 
-// CmdId: - | MergeFrom: 0x12274CA0 | WriteTo: 0x122747E0
-message DFPLPBLIEEK {
-	// Fields
-	map<uint32, uint32> ALNBHHEJLKP = 1; // Offset: 0x18
-	uint32 MNBPLFPCJLG = 3; // Offset: 0x20
-	uint32 PGDAIKELICG = 2; // Offset: 0x24
-}
-
 // CmdId: 6109 | MergeFrom: - | WriteTo: 0xBB88C90
 message DGBLIGENNNM {
 	// Fields
@@ -18696,8 +18711,6 @@ message DGFDFJFKFKA {
 // CmdId: - | MergeFrom: 0xF88A580 | WriteTo: 0xF88C470
 message DGFJIEDFDPB {
 	// Fields
-	// !! no tag for MJENFMPFIMO (GOJIHPDAEGC)  // Offset: 0x18
-	// !! no tag for AGDFBHNDDGD (System.Action)  // Offset: 0x28
 	INIEGDOKJFH BICMMLKCOIB = 2; // Offset: 0x30
 	EGKCOBDNAKD HGNICLOBBEN = 1; // Offset: 0x3C
 	oneof FLPGMLOFAKP {
@@ -19131,6 +19144,14 @@ message DHKKDNDGELH {
 		GAPMBKMHDPG_SETTLE_REASON_ALL_DIE = 3;
 		GAPMBKMHDPG_SETTLE_REASON_FAIL = 4;
 	}
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xA366580 | WriteTo: 0xA3661A0
+	message NJKOGGMLCDA {
+		// Fields
+		int32 FHHICBEALMN = 1; // Offset: 0x18
+		uint32 BNIOPDFNOBH = 11; // Offset: 0x1C
+	}
+
 	// Fields
 	repeated uint32 DFMPOPOPHKE = 15; // Offset: 0x18
 	repeated NJKOGGMLCDA FJLPDCAHANN = 6; // Offset: 0x20
@@ -19207,12 +19228,6 @@ message DHOFCHHGIFF {
 message DHOKJCJIDBG {
 	// Fields
 	repeated PHEDJCKOHFK BNJKCHONGGE = 1; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0xFE27350 | WriteTo: 0xFE27230
-message DIAIIIJOGAM {
-	// Fields
-	repeated BGDCNKAKGHI DNMICOCKFFL = 13; // Offset: 0x18
 }
 
 // CmdId: 305 | MergeFrom: - | WriteTo: 0xBB9DAD0
@@ -20491,6 +20506,21 @@ message DMBNAJMBDPC {
 
 // CmdId: - | MergeFrom: 0xF8D22B0 | WriteTo: 0xF8D2C00
 message DMCBAHCKFGB {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x136B78A0 | WriteTo: 0x136B70D0
+	message BELKBLNCFNK {
+		// Fields
+		DHMHJKOJDHO BCMMICHPMEG = 8; // Offset: 0x18
+		repeated JHBCDMAPPLJ JHFOAAFHION = 7; // Offset: 0x20
+		LIJOGODNBLD HGPODLIBAJA = 4; // Offset: 0x28
+		KOPNJHPCAJO AGFHJFPNBPB = 2; // Offset: 0x30
+		EPJFFGJBJDH CBGOFCDONNO = 5; // Offset: 0x38
+		repeated string KACJAMJINJE = 10; // Offset: 0x40
+		repeated AAFGNJIHPIK ODKADMJJMJG = 11; // Offset: 0x48
+		OKDCDKGGFAJ CBEHPGKHOKP = 9; // Offset: 0x50
+		uint64 AAIDJOLBBEI = 1; // Offset: 0x58
+	}
+
 	// Fields
 	bytes MBIOMBKBFJM = 5; // Offset: 0x18
 	string JPDDCAAGEMJ = 3; // Offset: 0x20
@@ -20874,6 +20904,14 @@ message DNEBHIMFJEG {
 
 // CmdId: - | MergeFrom: 0x8C35050 | WriteTo: 0x8C33730
 message DNEGNBJNIHA {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xBBD8430 | WriteTo: 0xBBD8150
+	message EDDCJOBDINO {
+		// Fields
+		repeated uint32 MFCENHPKEHD = 13; // Offset: 0x18
+		uint32 KDBLHFFGAJL = 4; // Offset: 0x20
+	}
+
 	// Fields
 	JKNGEPBJGDB ELKJFECKJOP = 6; // Offset: 0x18
 	repeated JKNGEPBJGDB CFODPHOOBGN = 9; // Offset: 0x20
@@ -20896,13 +20934,6 @@ message DNEHLAAOMDC {
 	// Fields
 	repeated uint32 BLNNEKINKMD = 5; // Offset: 0x18
 	repeated uint32 BOFBCJAHLPA = 9; // Offset: 0x20
-}
-
-// CmdId: - | MergeFrom: 0xDA4D3D0 | WriteTo: 0xDA4D180
-message DNEOBFINMGO {
-	// Fields
-	repeated PNMGOGLHAIF NIJHIAGPCHG = 2; // Offset: 0x18
-	uint64 AAIDJOLBBEI = 1; // Offset: 0x20
 }
 
 // CmdId: - | MergeFrom: - | WriteTo: -
@@ -21235,15 +21266,6 @@ enum DOEKJAMOHNG {
 	DOEKJAMOHNG_ENTITY = 1;
 }
 
-// CmdId: - | MergeFrom: 0xAF0D6F0 | WriteTo: 0xAF0D2B0
-message DOFBLNELFCH {
-	// Fields
-	NMANFNGNPBP HHLHCODKHDM = 2; // Offset: 0x18
-	IADOIMHIOIB GOEJKDLLJFN = 3; // Offset: 0x20
-	uint64 AMLBGPGIJBD = 4; // Offset: 0x28
-	bool AJDMHCONIAB = 1; // Offset: 0x30
-}
-
 // CmdId: - | MergeFrom: 0xA3A7070 | WriteTo: 0xA3A73C0
 message DOFCONGFBHG {
 	// Fields
@@ -21572,18 +21594,6 @@ message DPEANHPNACP {
 	uint32 PHHHLEHELFD = 3; // Offset: 0x18
 	uint32 NENLNDMCBAP = 8; // Offset: 0x1C
 	uint32 JECCBLMOLKC = 12; // Offset: 0x20
-}
-
-// CmdId: - | MergeFrom: 0x12D55940 | WriteTo: 0x12D55090
-message DPECKFJNFLO {
-	// Fields
-	repeated FLMLGIKNGDC HGBBLGPJMOK = 9; // Offset: 0x18
-	repeated uint32 JFDEILGBNJE = 11; // Offset: 0x20
-	repeated uint32 ADODBJCAPJP = 15; // Offset: 0x28
-	bool EBMAOOGCALN = 13; // Offset: 0x30
-	uint32 AAIDJOLBBEI = 3; // Offset: 0x34
-	uint32 GEOHMHKBKIM = 4; // Offset: 0x38
-	uint32 DJCELAIEOLN = 7; // Offset: 0x3C
 }
 
 enum DPEEMIKKDPO {
@@ -22588,13 +22598,6 @@ message EDCMMPCGBNP {
 message EDDANIDNDGA {
 	// Fields
 	PPOGEGDIGBP OBMLFNPHNAP = 10; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0xBBD8430 | WriteTo: 0xBBD8150
-message EDDCJOBDINO {
-	// Fields
-	repeated uint32 MFCENHPKEHD = 13; // Offset: 0x18
-	uint32 KDBLHFFGAJL = 4; // Offset: 0x20
 }
 
 // CmdId: 24503 | MergeFrom: 0xC84FE00 | WriteTo: -
@@ -23758,6 +23761,21 @@ message EGLECGAPJFE {
 
 // CmdId: 21105 | MergeFrom: 0xC867890 | WriteTo: -
 message EGLENMLJIBN {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x144ABBF0 | WriteTo: 0x144AB8E0
+	message AMKNDHINLNM {
+		// Fields
+		uint32 FCMBJEFDPDB = 7; // Offset: 0x18
+		bool JPJKPMFBMCL = 11; // Offset: 0x1C
+	}
+
+	// CmdId: - | MergeFrom: 0xF938540 | WriteTo: 0xF938230
+	message IHHCGGKFFBE {
+		// Fields
+		uint32 PMJDDDPCBDA = 12; // Offset: 0x18
+		bool JPJKPMFBMCL = 14; // Offset: 0x1C
+	}
+
 	// Fields
 	IHHCGGKFFBE FBPIBMHOBMF = 8; // Offset: 0x18
 	AMKNDHINLNM BLGGILBMDOM = 11; // Offset: 0x20
@@ -23857,15 +23875,6 @@ message EGOMMOCDJHL {
 	uint32 BNFDJHEIHHP = 8; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0xB350340 | WriteTo: 0xB350050
-message EGPCCKHAGEB {
-	// Fields
-	MNMGKCHHDPJ ENLHKDBILOG = 4; // Offset: 0x18
-	repeated FGIJLNBFILL LHBAAJEMNJM = 3; // Offset: 0x20
-	repeated HDMAHCGDDJB KJFNIKGFECB = 2; // Offset: 0x28
-	repeated HDMAHCGDDJB MMLNHDCIOGM = 1; // Offset: 0x30
-}
-
 // CmdId: - | MergeFrom: 0xD353B30 | WriteTo: 0xD353D60
 message EGPDCAKPMKC {
 	// Fields
@@ -23919,13 +23928,6 @@ message EHCCKOFNHBD {
 	// Fields
 	uint32 NJAGFJINHMA = 13; // Offset: 0x18
 	uint32 AIDLKPEFGFE = 5; // Offset: 0x1C
-}
-
-// CmdId: - | MergeFrom: 0x114CAE80 | WriteTo: 0x114CAAD0
-message EHCOJALFMDH {
-	// Fields
-	uint32 KMOPHDPDFOI = 2; // Offset: 0x18
-	uint32 JPECNOKDFLN = 8; // Offset: 0x1C
 }
 
 // CmdId: 20423 | MergeFrom: - | WriteTo: 0x12AB73F0
@@ -24220,6 +24222,14 @@ message EHOOIFDBKGJ {
 
 // CmdId: - | MergeFrom: 0xC873C00 | WriteTo: 0xC874730
 message EIAFKKFAHBA {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x80D9220 | WriteTo: 0x80D8FD0
+	message POGKNHHPMML {
+		// Fields
+		repeated string GBPPAPMAOJP = 1; // Offset: 0x18
+		bool FPGHDNHOPDC = 2; // Offset: 0x20
+	}
+
 	// Fields
 	repeated string NDNPDDPKNBC = 13; // Offset: 0x18
 	BPOJJDILFPD OAIDMNPPJNP = 12; // Offset: 0x20
@@ -24371,6 +24381,13 @@ message EIHJODMPBDJ {
 
 // CmdId: - | MergeFrom: 0xF948180 | WriteTo: 0xF9478C0
 message EIHKAOGBCBA {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x1371FE30 | WriteTo: 0x1371FD20
+	message MCDCBPDPODB {
+		// Fields
+		string KHOFKKJEPMJ = 1; // Offset: 0x18
+	}
+
 	// Fields
 	bytes MBIOMBKBFJM = 2; // Offset: 0x18
 	string JPDDCAAGEMJ = 4; // Offset: 0x20
@@ -24675,14 +24692,6 @@ message EJBGJJAPGGC {
 enum EJBILHKKFPE {
 	EJBILHKKFPE_NORMAL = 0;
 	EJBILHKKFPE_TIER = 1;
-}
-
-// CmdId: - | MergeFrom: 0x97FDCB0 | WriteTo: 0x97FD7C0
-message EJBKDPOGMBB {
-	// Fields
-	uint32 MCBDPCEADCO = 2; // Offset: 0x18
-	uint32 CKIDKGLDJFF = 1; // Offset: 0x1C
-	uint64 OFHIEKJIOCE = 3; // Offset: 0x20
 }
 
 // CmdId: - | MergeFrom: 0x12AC29B0 | WriteTo: 0x12AC2D90
@@ -25017,6 +25026,14 @@ message EJPKJLDKBND {
 
 // CmdId: 29662 | MergeFrom: 0xB02B8C0 | WriteTo: -
 message EJPPAMAPDCG {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x11E32AF0 | WriteTo: 0x11E328F0
+	message JCPGFFCJGAA {
+		// Fields
+		HNAFCKKNKCN EOEHNBPEELL = 1; // Offset: 0x18
+		KOEOMFPFNKK APJJIIACFMC = 3; // Offset: 0x20
+	}
+
 	// Fields
 	repeated JCPGFFCJGAA JKPFIMEFBIP = 7; // Offset: 0x18
 	LNCLNICEHNA HPBIALPMAKN = 1; // Offset: 0x20
@@ -25096,13 +25113,6 @@ message EKECLGCLMIN {
 message EKEGMBMDDHB {
 	// Fields
 	int32 MHBKEHGJCEO = 1; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0xAD11060 | WriteTo: 0xAD10D60
-message EKFILGEBGNF {
-	// Fields
-	repeated uint32 ECKEFPGEGJN = 1; // Offset: 0x18
-	uint32 CNLCIBODPKN = 2; // Offset: 0x20
 }
 
 // CmdId: - | MergeFrom: 0x7436480 | WriteTo: 0x7434840
@@ -25259,14 +25269,6 @@ message EKJIPNONJLB {
 message EKJLBMOJLEH {
 	// Fields
 	repeated CFCGLHFHCCO HNDJPCNOJNN = 15; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0x93DA6A0 | WriteTo: 0x93DA330
-message EKKAOHFEIJH {
-	// Fields
-	repeated FGIJLNBFILL CLHPPMPINFP = 1; // Offset: 0x18
-	string NEMLEPPCKMG = 2; // Offset: 0x20
-	uint64 GKEOMLMJDBB = 3; // Offset: 0x28
 }
 
 // CmdId: 5191 | MergeFrom: - | WriteTo: 0xF977710
@@ -26273,13 +26275,6 @@ enum ELAIPJPOFDG {
 	ELAIPJPOFDG_CHIP = 2;
 }
 
-// CmdId: - | MergeFrom: 0x114E1660 | WriteTo: 0x114E1400
-message ELBDDHAOKBO {
-	// Fields
-	string MKHJKMHCKDF = 4; // Offset: 0x18
-	uint64 JKJBAOEKNKE = 7; // Offset: 0x20
-}
-
 // CmdId: - | MergeFrom: 0x144C8810 | WriteTo: 0x144C8A30
 message ELCCAAKNDHC {
 	// Fields
@@ -27010,6 +27005,15 @@ message ENDANKALCGB {
 
 // CmdId: - | MergeFrom: 0x104358C0 | WriteTo: 0x10435AC0
 message ENDDJIAHIGK {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xBC7F160 | WriteTo: 0xBC7EC80
+	message DBHKCKJPCCF {
+		// Fields
+		bool LFIPKLNNKGG = 5; // Offset: 0x18
+		uint32 JPDDCAAGEMJ = 11; // Offset: 0x1C
+		uint32 KMOPHDPDFOI = 12; // Offset: 0x20
+	}
+
 	// Fields
 	repeated DBHKCKJPCCF DPJGLAKPAPA = 3; // Offset: 0x18
 	bool GGNHCDDNGJH = 9; // Offset: 0x20
@@ -27627,14 +27631,6 @@ message EPGBFHGFPCI {
 	repeated OLDBGEDGCMG FJLJBOEKBLM = 1; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0xE547E10 | WriteTo: 0xE547900
-message EPGBKFJIJFB {
-	// Fields
-	repeated EIAFKKFAHBA CLHPPMPINFP = 1; // Offset: 0x18
-	uint32 DOCNDAEFFME = 2; // Offset: 0x20
-	bool HGDFCCCLEDE = 3; // Offset: 0x24
-}
-
 // CmdId: - | MergeFrom: 0xECFE810 | WriteTo: 0xECFEAF0
 message EPHKMAFEJDA {
 	// Fields
@@ -27683,19 +27679,6 @@ message EPJFFGJBJDH {
 	uint64 AAIDJOLBBEI = 1; // Offset: 0x18
 	bool KEJHGNHAKLM = 3; // Offset: 0x20
 	bool JNNJLAHDMIG = 2; // Offset: 0x21
-}
-
-// CmdId: - | MergeFrom: 0xA636BC0 | WriteTo: 0xA636360
-message EPJGFODFFGL {
-	// Fields
-	JKLAEALELFO KOCFLGMCFJF = 13; // Offset: 0x18
-	repeated uint32 HGFBPFCEACB = 10; // Offset: 0x20
-	NBLIFPOAFEO ANGEDNMEHNL = 12; // Offset: 0x28
-	bool PGAPEANOOGD = 11; // Offset: 0x30
-	bool IFLEMPMLLJE = 2; // Offset: 0x31
-	bool GBGJOPELMKE = 7; // Offset: 0x32
-	bool IOJFDILFGOM = 14; // Offset: 0x33
-	bool MLHANDEIPMN = 4; // Offset: 0x34
 }
 
 // CmdId: - | MergeFrom: - | WriteTo: -
@@ -29094,12 +29077,6 @@ message FDAOIANHEGC {
 	uint32 JPDDCAAGEMJ = 15; // Offset: 0x1C
 }
 
-// CmdId: - | MergeFrom: - | WriteTo: -
-message FDBCJBNEKLI {
-	// Fields
-	// !! no tag for AGANGOCJKEM (HCHHJGFNEHI)  // Offset: 0x20
-}
-
 // CmdId: - | MergeFrom: 0x12B0A1A0 | WriteTo: 0x12B0AB10
 message FDBFBIOEONO {
 	// Fields
@@ -29118,6 +29095,14 @@ message FDBGOIICNDF {
 
 // CmdId: 20354 | MergeFrom: - | WriteTo: 0xA451A50
 message FDBHKFKLGPP {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x144FEEA0 | WriteTo: 0x144FEAF0
+	message HHKPGOMNKMH {
+		// Fields
+		uint32 OCIDDOGGNOI = 8; // Offset: 0x18
+		uint32 DKIMEBNMJKI = 15; // Offset: 0x1C
+	}
+
 	// Fields
 	repeated HHKPGOMNKMH FAFAEGHBBOJ = 4; // Offset: 0x18
 }
@@ -29948,12 +29933,6 @@ message FFAMEIGNDOA {
 	float DACMFIDFIJA = 7; // Offset: 0x28
 }
 
-// CmdId: - | MergeFrom: 0x12BA8E10 | WriteTo: 0x12BA8D00
-message FFBCBOPKEKP {
-	// Fields
-	repeated uint32 LADLNFAJOCM = 15; // Offset: 0x18
-}
-
 // CmdId: 20489 | MergeFrom: - | WriteTo: 0xC91FDD0
 message FFBCOJLLHPM {
 	// Fields
@@ -30301,17 +30280,6 @@ message FGAELKBJNAA {
 	int32 LDLIEKOAFBP = 5; // Offset: 0x20
 }
 
-// CmdId: - | MergeFrom: 0xC7D1400 | WriteTo: 0xC7D0D10
-message FGAENEJDFNI {
-	// Fields
-	repeated IEGGDJJDLGI LAJHLJGOMPH = 14; // Offset: 0x18
-	repeated uint32 DBHIHOMHLHL = 5; // Offset: 0x20
-	repeated uint32 NPPHCJJCKEH = 6; // Offset: 0x28
-	bool DPJBMEDJEAK = 12; // Offset: 0x30
-	uint32 PONIMKJNHPC = 9; // Offset: 0x34
-	uint32 EEEMOBABPMO = 13; // Offset: 0x38
-}
-
 // CmdId: - | MergeFrom: 0x137ACFB0 | WriteTo: 0x137AD430
 message FGAINMGLGEO {
 	// Fields
@@ -30516,12 +30484,6 @@ message FGKFKKDECIL {
 	MNNDJGMEBPL OICKNFJMLDD = 1; // Offset: 0x34
 	uint64 PACJCALFNAO = 4; // Offset: 0x38
 	uint64 NIGCHCNDAHE = 7; // Offset: 0x40
-}
-
-// CmdId: - | MergeFrom: 0x7EA7F50 | WriteTo: 0x7EA7E40
-message FGKIPNBODCL {
-	// Fields
-	repeated uint64 AAIDJOLBBEI = 1; // Offset: 0x18
 }
 
 // CmdId: - | MergeFrom: 0xEDE79A0 | WriteTo: 0xEDE7630
@@ -30868,13 +30830,6 @@ message FHKCDGAADFO {
 	// Fields
 	bool ALKJMAOOAME = 5; // Offset: 0x18
 	int32 LDLIEKOAFBP = 11; // Offset: 0x1C
-}
-
-// CmdId: - | MergeFrom: 0xDA777F0 | WriteTo: 0xDA775A0
-message FHKDNFNPPMD {
-	// Fields
-	string FHBJNPFOKGI = 4; // Offset: 0x18
-	bool OOPGHCJDHHH = 11; // Offset: 0x20
 }
 
 // CmdId: - | MergeFrom: 0x11FEA290 | WriteTo: 0x11FEA060
@@ -31340,14 +31295,6 @@ message FIPOAEAFPGM {
 	uint32 BKHCIIHABLF = 8; // Offset: 0x20
 }
 
-// CmdId: - | MergeFrom: 0x12B55F50 | WriteTo: 0x12B55B90
-message FJAABDKFGPO {
-	// Fields
-	uint64 APLDKBGKGHO = 2; // Offset: 0x18
-	bool OLJKFLNEMLO = 3; // Offset: 0x20
-	uint64 ANKEOLKBECN = 1; // Offset: 0x28
-}
-
 // CmdId: 6323 | MergeFrom: 0xEE003B0 | WriteTo: -
 message FJAAPIKAEIP {
 	// Fields
@@ -31373,15 +31320,6 @@ message FJAJIGGMAJI {
 message FJBEPGMLCEB {
 	// Fields
 	DFBDNDKCBJM IPCIINFHAAN = 1; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0x12DBE770 | WriteTo: 0x12DBE510
-message FJBILHPDJDG {
-	// Fields
-	repeated NFDHINEFPMJ FHFFPELCCAN = 5; // Offset: 0x18
-	repeated GIPGNPEJCDC MGMPMNAOMBG = 1; // Offset: 0x20
-	repeated NFDHINEFPMJ GMGOACCABKK = 6; // Offset: 0x28
-	repeated NFDHINEFPMJ FIPFBBBDIPF = 4; // Offset: 0x30
 }
 
 // CmdId: - | MergeFrom: 0x1453BDE0 | WriteTo: 0x138A7D50
@@ -31674,6 +31612,20 @@ message FKBKIFHALFK {
 
 // CmdId: 6407 | MergeFrom: 0x1137E830 | WriteTo: -
 message FKBMCGEOCHC {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xA636BC0 | WriteTo: 0xA636360
+	message EPJGFODFFGL {
+		// Fields
+		JKLAEALELFO KOCFLGMCFJF = 13; // Offset: 0x18
+		repeated uint32 HGFBPFCEACB = 10; // Offset: 0x20
+		NBLIFPOAFEO ANGEDNMEHNL = 12; // Offset: 0x28
+		bool PGAPEANOOGD = 11; // Offset: 0x30
+		bool IFLEMPMLLJE = 2; // Offset: 0x31
+		bool GBGJOPELMKE = 7; // Offset: 0x32
+		bool IOJFDILFGOM = 14; // Offset: 0x33
+		bool MLHANDEIPMN = 4; // Offset: 0x34
+	}
+
 	// Fields
 	repeated EPJGFODFFGL JJJGEEPFGGF = 9; // Offset: 0x18
 }
@@ -31794,6 +31746,13 @@ message FKDHAMADMHL {
 
 // CmdId: - | MergeFrom: 0xD5D5D90 | WriteTo: 0xD5D6610
 message FKDHOBPKGPL {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xBDF4F20 | WriteTo: 0xBDF4E00
+	message NLOHCKJEABJ {
+		// Fields
+		repeated MPLHBDPLGDA CLHPPMPINFP = 1; // Offset: 0x18
+	}
+
 	// Fields
 	string BILCCNNIBJC = 6; // Offset: 0x18
 	string HFMHBICJHNH = 2; // Offset: 0x20
@@ -31805,6 +31764,22 @@ message FKDHOBPKGPL {
 
 // CmdId: - | MergeFrom: 0x74D97A0 | WriteTo: 0x74DA040
 message FKEGKDMDDII {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x8D282E0 | WriteTo: 0x8D27F30
+	message CICBDFKNFBB {
+		// Fields
+		uint32 OLBGFLGJBCI = 6; // Offset: 0x18
+		uint32 KDHAOJFJFIP = 9; // Offset: 0x1C
+	}
+
+	// CmdId: - | MergeFrom: 0xD5D7340 | WriteTo: 0xD5D6DA0
+	message GELFDONGMEO {
+		// Fields
+		int32 HANBICHHGOA = 11; // Offset: 0x18
+		uint32 OLBGFLGJBCI = 4; // Offset: 0x1C
+		uint32 KDHAOJFJFIP = 1; // Offset: 0x20
+	}
+
 	oneof GDBAICELECI {
 		GELFDONGMEO pair_op = 7; // Offset: 0x18
 		CICBDFKNFBB unpair_op = 1; // Offset: 0x18
@@ -32030,12 +32005,6 @@ message FKNBAPOPEAI {
 	uint32 FIAKEMOJBMG = 6; // Offset: 0x24
 }
 
-// CmdId: - | MergeFrom: - | WriteTo: -
-message FKNLIPGFAJF {
-	// Fields
-	// !! no tag for AGANGOCJKEM (HCHHJGFNEHI)  // Offset: 0x20
-}
-
 // CmdId: - | MergeFrom: 0x12001910 | WriteTo: 0x12001C70
 message FKOADHFOMIK {
 	// Fields
@@ -32056,12 +32025,6 @@ message FKONEPGJPJG {
 	int32 JCGPKLKCINE = 7; // Offset: 0x40
 	uint32 IONFMFPIKMH = 9; // Offset: 0x44
 	int32 CMACDPNAIAF = 4; // Offset: 0x48
-}
-
-// CmdId: - | MergeFrom: 0x9F141B0 | WriteTo: 0x9F13FE0
-message FKPEPENPHEA {
-	// Fields
-	uint32 LLHEBIHGDAE = 6; // Offset: 0x18
 }
 
 // CmdId: - | MergeFrom: 0xB1F1FA0 | WriteTo: 0xB1F2090
@@ -32315,19 +32278,6 @@ message FLMEBPHDDJF {
 message FLMKHGHAJPB {
 	// Fields
 	repeated PNAMPABNELB ICMABCGNFCI = 2; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0xCC9F4C0 | WriteTo: 0xCC9F3D0
-message FLMKHLEOHHO {
-	// Fields
-	JNJANEHBBIJ BPHKDBEAHCP = 1; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0xFBAC880 | WriteTo: 0xFBAC4D0
-message FLMLGIKNGDC {
-	// Fields
-	uint32 PJAJDHBBMGB = 2; // Offset: 0x18
-	uint32 BNIOPDFNOBH = 15; // Offset: 0x1C
 }
 
 // CmdId: - | MergeFrom: 0xA64AE20 | WriteTo: 0xA64AFE0
@@ -32671,12 +32621,6 @@ message FNAJFGAPLHG {
 	HKOMPHIDDBL OEPIJKJDEHO = 4; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0xADCC150 | WriteTo: 0xADCC040
-message FNBIGKGKIGM {
-	// Fields
-	string BFOFKNFHPJN = 1; // Offset: 0x18
-}
-
 // CmdId: 1151 | MergeFrom: - | WriteTo: 0x8200820
 message FNDCKCLAEPI {
 	// Fields
@@ -33010,6 +32954,20 @@ message FOFPOBIDCNN {
 
 // CmdId: - | MergeFrom: 0x8D448C0 | WriteTo: 0x8D44EA0
 message FOGBLLMEEAG {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x104E27F0 | WriteTo: 0x104E1AE0
+	message OCGGDHKCJOI {
+		// Fields
+		string BPDJEPAEMIF = 12; // Offset: 0x18
+		uint32 GECBAHPPMDI = 5; // Offset: 0x20
+		uint32 JCPNFEFNHCF = 10; // Offset: 0x24
+		uint32 CKMPIKBPFJP = 13; // Offset: 0x28
+		bool HCHGMEHPMKG = 14; // Offset: 0x2C
+		uint32 MHAIENEPEIP = 2; // Offset: 0x30
+		uint32 PJAJDHBBMGB = 9; // Offset: 0x34
+		uint32 NLNJDCDLHHE = 11; // Offset: 0x38
+	}
+
 	// Fields
 	repeated OCGGDHKCJOI PLPNCLOFNIC = 7; // Offset: 0x18
 	uint32 GMGPOJIGPAK = 6; // Offset: 0x20
@@ -33215,15 +33173,6 @@ message FONFEFDEDBJ {
 	float CCOGCAJEBDK = 1; // Offset: 0x30
 }
 
-// CmdId: - | MergeFrom: 0x12D624A0 | WriteTo: 0x12D61DF0
-message FONICNGFJBN {
-	// Fields
-	uint64 BBCMCPNEGOC = 6; // Offset: 0x18
-	uint32 FCNLKDJLPEL = 1; // Offset: 0x20
-	uint32 NBDGINFCIIK = 15; // Offset: 0x24
-	uint32 IKIJJCNHBNC = 4; // Offset: 0x28
-}
-
 // CmdId: 325 | MergeFrom: 0xB213F40 | WriteTo: -
 message FOPGGJHJPHH {
 	// Fields
@@ -33352,6 +33301,14 @@ message FPGPLHFMPKE {
 
 // CmdId: 24646 | MergeFrom: 0xB214850 | WriteTo: -
 message FPHDNPIOGOK {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xEE34E10 | WriteTo: 0xEE34B30
+	message PGDJODJJMJJ {
+		// Fields
+		repeated HOHKFAAMMPN NDBGHDNKAKM = 8; // Offset: 0x18
+		uint32 NBDGINFCIIK = 6; // Offset: 0x20
+	}
+
 	// Fields
 	repeated PGDJODJJMJJ LBCNCLMOGIB = 8; // Offset: 0x18
 }
@@ -33361,14 +33318,6 @@ message FPHKFAILCGO {
 	// Fields
 	map<uint32, LDBGANCHLGA> KIGPEOABIOL = 1; // Offset: 0x18
 	uint32 ILJLGHBLKMP = 2; // Offset: 0x20
-}
-
-// CmdId: - | MergeFrom: 0xFC28B80 | WriteTo: 0xFC28740
-message FPHLIPBOGDA {
-	// Fields
-	bool BOGNCPKPKIO = 2; // Offset: 0x18
-	uint32 KKCHDMODGCM = 1; // Offset: 0x1C
-	uint64 OPDLNBKKHDI = 3; // Offset: 0x20
 }
 
 // CmdId: - | MergeFrom: 0x138DC4F0 | WriteTo: 0x138DC5A0
@@ -34503,19 +34452,6 @@ enum GBKODJLMDFK {
 	GBKODJLMDFK_BEYOND_CLIENT_FROGPRINT_NODE_AI_IS_ENTITY_KEEPING_ROLE_STATUS = 4227;
 }
 
-// CmdId: - | MergeFrom: 0x10A271A0 | WriteTo: 0x10A265F0
-message GBKOPEINDIH {
-	// Fields
-	EIAFKKFAHBA OBMLFNPHNAP = 1; // Offset: 0x18
-	uint32 LDCOFJAHKDD = 5; // Offset: 0x20
-	uint32 EOCLLMCEIIM = 3; // Offset: 0x24
-	uint64 OEALLKFIPIN = 8; // Offset: 0x28
-	uint32 MCCBNKLBEBG = 6; // Offset: 0x30
-	uint32 EJMKBOCOCEM = 2; // Offset: 0x34
-	bool OOHFKPMEJPM = 7; // Offset: 0x38
-	bool JGLPLBOPGPL = 4; // Offset: 0x39
-}
-
 // CmdId: - | MergeFrom: 0x138ED2E0 | WriteTo: 0x138ED970
 message GBLCGIJJHKA {
 	// Fields
@@ -34712,6 +34648,15 @@ message GCDGAGDLPJK {
 
 // CmdId: - | MergeFrom: 0x138F2020 | WriteTo: 0x138F2370
 message GCEDHOBDGFL {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xD66A990 | WriteTo: 0xD66A560
+	message JNIDFPBJDEE {
+		// Fields
+		repeated EIAFKKFAHBA CLHPPMPINFP = 1; // Offset: 0x18
+		uint32 DOCNDAEFFME = 2; // Offset: 0x20
+		bool HGDFCCCLEDE = 3; // Offset: 0x24
+	}
+
 	// Fields
 	JNIDFPBJDEE PCPPKLAOBHE = 3; // Offset: 0x18
 	string JPDDCAAGEMJ = 4; // Offset: 0x20
@@ -35275,12 +35220,6 @@ message GDOADDNKLEF {
 	repeated EFABEBGEJGA GOAKAPLIFEF = 1; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0xFBAFB30 | WriteTo: 0xFBAFA20
-message GDOELGEGAJH {
-	// Fields
-	string NDENACOJBGC = 5; // Offset: 0x18
-}
-
 // CmdId: - | MergeFrom: 0x12BEE180 | WriteTo: 0x12BEE550
 message GDOGEOMGPEH {
 	// Fields
@@ -35320,6 +35259,13 @@ message GDPLJPDBDKP {
 
 // CmdId: - | MergeFrom: 0x12061920 | WriteTo: 0x12061280
 message GDPPKKBLPEG {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xC9F18E0 | WriteTo: 0xC9F17A0
+	message JLEBJEHNBPP {
+		// Fields
+		uint64 JIMKMCFKNFM = 1; // Offset: 0x18
+	}
+
 	// Fields
 	string HFMHBICJHNH = 2; // Offset: 0x18
 	string BILCCNNIBJC = 6; // Offset: 0x20
@@ -35556,14 +35502,6 @@ message GEKJDPJPDEN {
 message GELAIBNDKFG {
 	// Fields
 	uint32 EAGFHMLONEN = 1; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0xD5D7340 | WriteTo: 0xD5D6DA0
-message GELFDONGMEO {
-	// Fields
-	int32 HANBICHHGOA = 11; // Offset: 0x18
-	uint32 OLBGFLGJBCI = 4; // Offset: 0x1C
-	uint32 KDHAOJFJFIP = 1; // Offset: 0x20
 }
 
 // CmdId: - | MergeFrom: 0xD6872D0 | WriteTo: 0xD6873E0
@@ -36547,13 +36485,6 @@ message GIBLMPJAFME {
 	int32 LDLIEKOAFBP = 8; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0xCB5A3C0 | WriteTo: 0xCB5A1A0
-message GICGADGAIAI {
-	// Fields
-	repeated JNJANEHBBIJ HIAAPHJMMJE = 1; // Offset: 0x18
-	CEBFELIGDDH GDGNFINHPOG = 2; // Offset: 0x20
-}
-
 // CmdId: - | MergeFrom: 0xA6DE6F0 | WriteTo: 0xA6DE5D0
 message GICGLMJJJMD {
 	// Fields
@@ -37506,20 +37437,6 @@ message GKLKPOBAGAH {
 	uint32 JMHKHAPJADA = 10; // Offset: 0x1C
 }
 
-// CmdId: - | MergeFrom: 0x11D08AB0 | WriteTo: 0x11D07830
-message GKLPAGEHPEN {
-	oneof AEGNKHHCECK {
-		GILCBAFBDGB init_info = 937; // Offset: 0x18
-		NLJLBDFLADP new_member = 1753; // Offset: 0x18
-		GKKKOOPIFFH member_leave_info = 397; // Offset: 0x18
-		NLJLBDFLADP new_captain = 1480; // Offset: 0x18
-		NLJLBDFLADP new_member_info = 1571; // Offset: 0x18
-		JBCHBNKONMM new_config_info = 1253; // Offset: 0x18
-		CCCOFEJBFOJ dungeon_info = 1217; // Offset: 0x18
-		bool is_in_new_beyond_room = 1534; // Offset: 0x18
-	}
-}
-
 enum GKNCLOKKFAF {
 	GKNCLOKKFAF_ADDED = 0;
 	GKNCLOKKFAF_REMOVED = 1;
@@ -38005,23 +37922,6 @@ message GMAFEFOJJPB {
 	repeated uint32 EALOLJKAJCI = 5; // Offset: 0x28
 	uint32 LGEBGCMGAPA = 1; // Offset: 0x30
 	uint32 JKHACNEGNHC = 2; // Offset: 0x34
-}
-
-// CmdId: - | MergeFrom: 0xB989DB0 | WriteTo: 0xB989660
-message GMBCDEOLLKH {
-	// Fields
-	DIKBFLLLCGK IHBCOECDIFB = 14; // Offset: 0x18
-	JHMDEHJDKEN JAFLDJPBOBE = 12; // Offset: 0x20
-	uint32 JNBENCKEMKP = 10; // Offset: 0x28
-	uint32 JCAFNFEJKAC = 5; // Offset: 0x2C
-	uint32 FINBCIKFMFB = 11; // Offset: 0x30
-}
-
-// CmdId: - | MergeFrom: 0x9B7BE30 | WriteTo: 0x9B7BB30
-message GMBMBJAINPM {
-	// Fields
-	repeated uint32 HGFBPFCEACB = 2; // Offset: 0x18
-	uint32 NOEEBKJAFAG = 6; // Offset: 0x20
 }
 
 // CmdId: - | MergeFrom: 0x10742330 | WriteTo: 0x10741DC0
@@ -38792,12 +38692,6 @@ message GOFIBIMELHH {
 message GOFNEFMEFOF {
 }
 
-// CmdId: - | MergeFrom: 0xAE497F0 | WriteTo: 0xAE49700
-message GOGGKKEIHMJ {
-	// Fields
-	JNJANEHBBIJ BPHKDBEAHCP = 1; // Offset: 0x18
-}
-
 // CmdId: 792 | MergeFrom: - | WriteTo: 0x12C7DF20
 message GOGPDAKMHME {
 	// Fields
@@ -39041,7 +38935,7 @@ message GPGAEJKNMNG {
 // CmdId: 23832 | MergeFrom: 0xFAE6D40 | WriteTo: -
 message GPIDANEAMAE {
 	// Fields
-	JOAIMBFJKNP IFOEJKBPDKB = 13; // Offset: 0x18
+	HOBOCPKOIGD.JOAIMBFJKNP IFOEJKBPDKB = 13; // Offset: 0x18
 }
 
 // CmdId: 5236 | MergeFrom: 0x7590800 | WriteTo: -
@@ -39865,12 +39759,6 @@ message HBCIEEINCCJ {
 	uint32 IAHPPLKIIBK = 8; // Offset: 0xA0
 }
 
-// CmdId: - | MergeFrom: 0x1439D740 | WriteTo: 0x1439D600
-message HBDCIKLANNM {
-	// Fields
-	uint64 AAIDJOLBBEI = 1; // Offset: 0x18
-}
-
 // CmdId: - | MergeFrom: 0x9B1DA90 | WriteTo: 0x9B1D7C0
 message HBDJIPAJKHL {
 	// Fields
@@ -40101,6 +39989,14 @@ message HCBCECAMODF {
 
 // CmdId: - | MergeFrom: 0xA754F80 | WriteTo: 0xA754480
 message HCBDBPOOKPL {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x8E59FF0 | WriteTo: 0x8E59DD0
+	message MKFKKGHAMGA {
+		// Fields
+		CEBFELIGDDH GDGNFINHPOG = 2; // Offset: 0x18
+		repeated JNJANEHBBIJ HIAAPHJMMJE = 1; // Offset: 0x20
+	}
+
 	// Fields
 	string BILCCNNIBJC = 6; // Offset: 0x18
 	bytes MBIOMBKBFJM = 5; // Offset: 0x20
@@ -40171,13 +40067,6 @@ message HCFFJJEFPML {
 message HCGGMANECIK {
 	// Fields
 	int32 LDLIEKOAFBP = 10; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: - | WriteTo: -
-message HCHHJGFNEHI {
-	// Fields
-	// !! no tag for DIDIFGDIDDO (NCKOJEOGIIC)  // Offset: 0x20
-	// !! no tag for JDELHFKIALO (uint32)  // Offset: 0x28
 }
 
 // CmdId: - | MergeFrom: 0xBEDBE40 | WriteTo: 0xBEDBBE0
@@ -40329,6 +40218,13 @@ message HCOLGGEMNMP {
 
 // CmdId: - | MergeFrom: 0xB2FDC20 | WriteTo: 0xB2FCD50
 message HCOMHHDLJAL {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xA757C70 | WriteTo: 0xA757B50
+	message NFJIFPDHKFC {
+		// Fields
+		repeated EINBAJMJBOH CLHPPMPINFP = 1; // Offset: 0x18
+	}
+
 	// Fields
 	string JPDDCAAGEMJ = 3; // Offset: 0x18
 	string HFMHBICJHNH = 2; // Offset: 0x20
@@ -40842,13 +40738,6 @@ message HEDJMIABHOM {
 	repeated PFHBAFEJLOH FJLJBOEKBLM = 10; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0x852D580 | WriteTo: 0x852D320
-message HEDOMHDPHMP {
-	// Fields
-	string EOADNJJPBNK = 2; // Offset: 0x18
-	uint64 LPBKPFHNOAI = 1; // Offset: 0x20
-}
-
 // CmdId: - | MergeFrom: 0xB306F80 | WriteTo: 0xB309C10
 message HEEEHEKOJJE {
 	// Fields
@@ -41087,6 +40976,29 @@ message HEPLJIHGBKN {
 
 // CmdId: 21144 | MergeFrom: 0x8E7EBC0 | WriteTo: -
 message HFAPKMKMJPI {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xB3100B0 | WriteTo: 0xB30FEE0
+	message BLMGJOJJMDO {
+		// Fields
+		uint32 OJCDHEEOJIC = 3; // Offset: 0x18
+	}
+
+	// CmdId: - | MergeFrom: 0xB3109E0 | WriteTo: 0xB310540
+	message NHANOIAJINH {
+		// Fields
+		BGDCNKAKGHI JGHCDMJCBMB = 4; // Offset: 0x18
+		uint32 FAOKHAMDBLK = 5; // Offset: 0x20
+		uint32 HKIPDKDCGNB = 8; // Offset: 0x24
+	}
+
+	// CmdId: - | MergeFrom: 0x9B3C8C0 | WriteTo: 0x9B3C3F0
+	message PDBPGLJGMGG {
+		// Fields
+		bytes LOGFJBNJKND = 6; // Offset: 0x18
+		uint32 NGMMFFKKGIE = 1; // Offset: 0x20
+		uint32 GHDLIFIPGEM = 11; // Offset: 0x24
+	}
+
 	oneof KAOPEKHIELG {
 		BLMGJOJJMDO refresh_notify = 6; // Offset: 0x18
 		NHANOIAJINH add_wind_bullet_notify = 7; // Offset: 0x18
@@ -41213,14 +41125,6 @@ message HFGLGNBKEDB {
 	repeated uint32 LFCIMIFHHBB = 3; // Offset: 0x20
 	repeated int32 BNFKGOJDKGD = 2; // Offset: 0x28
 	int32 LCDDFOEJILG = 4; // Offset: 0x30
-}
-
-// CmdId: - | MergeFrom: 0x1089DB30 | WriteTo: 0x1089D5B0
-message HFIEHCOGGDH {
-	// Fields
-	uint32 POHJLPNIGDK = 12; // Offset: 0x18
-	uint32 HKEOABAJBEG = 13; // Offset: 0x1C
-	uint32 PAICLIPMNHL = 9; // Offset: 0x20
 }
 
 // CmdId: - | MergeFrom: 0x11499FC0 | WriteTo: 0x11499630
@@ -41408,12 +41312,6 @@ message HGBIEONPJMA {
 message HGBLMCGGNFM {
 	// Fields
 	PCCNENMODDD FLPGMLOFAKP = 10; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0xF25B2C0 | WriteTo: 0xF25B1A0
-message HGCBONFLHHE {
-	// Fields
-	repeated HEDOMHDPHMP CLHPPMPINFP = 1; // Offset: 0x18
 }
 
 // CmdId: 29560 | MergeFrom: 0xB32DD90 | WriteTo: -
@@ -42068,13 +41966,6 @@ message HHKPBBCBKEL {
 	int32 PJAJDHBBMGB = 4; // Offset: 0x28
 }
 
-// CmdId: - | MergeFrom: 0x144FEEA0 | WriteTo: 0x144FEAF0
-message HHKPGOMNKMH {
-	// Fields
-	uint32 OCIDDOGGNOI = 8; // Offset: 0x18
-	uint32 DKIMEBNMJKI = 15; // Offset: 0x1C
-}
-
 // CmdId: 25716 | MergeFrom: 0x75ED5B0 | WriteTo: -
 message HHMANNGNKBC {
 	// Fields
@@ -42170,31 +42061,6 @@ message HIAKBGEOAIC {
 	uint32 GLBIBJKDOHC = 13; // Offset: 0x38
 	uint32 AEIOLHMBPMJ = 12; // Offset: 0x3C
 	uint32 LKAPEGDDCLM = 15; // Offset: 0x40
-}
-
-// CmdId: - | MergeFrom: 0x10C53430 | WriteTo: 0x10C52910
-message HIANNNGMEFD {
-	// Fields
-	repeated EIAFKKFAHBA CLHPPMPINFP = 1; // Offset: 0x18
-	bool BDAKBIGNOIE = 7; // Offset: 0x20
-	bool PCBIBDICLNL = 5; // Offset: 0x21
-	bool HMDOIDEOKAM = 9; // Offset: 0x22
-	bool MNNMCAAGMAM = 8; // Offset: 0x23
-	bool OINOKDNOOCM = 6; // Offset: 0x24
-	bool HGDFCCCLEDE = 3; // Offset: 0x25
-	uint32 DOCNDAEFFME = 2; // Offset: 0x28
-	uint64 OGNCCMFFJIC = 4; // Offset: 0x30
-}
-
-// CmdId: - | MergeFrom: 0x13DE72E0 | WriteTo: 0x13DE6BD0
-message HIBKAEFHLFE {
-	// Fields
-	repeated uint32 HGFBPFCEACB = 3; // Offset: 0x20
-	string PNCABINPNDN = 1; // Offset: 0x28
-	int64 NOKCEAOIIHD = 2; // Offset: 0x30
-	oneof CMFLLGDCHKF {
-		MLFILEIPCFB tps_mercenaries_record_brief = 1001; // Offset: 0x18
-	}
 }
 
 enum HIDEOGDMHAJ {
@@ -42686,10 +42552,6 @@ message HJPCKBLIOJB {
 	string JPDDCAAGEMJ = 2; // Offset: 0x20
 }
 
-// CmdId: - | MergeFrom: - | WriteTo: -
-message HJPIHHPIFHG {
-}
-
 // CmdId: - | MergeFrom: 0xBF3A4D0 | WriteTo: 0xBF3A000
 message HJPJAPIBMDI {
 	// Fields
@@ -42808,13 +42670,6 @@ message HKICLOIGJMB {
 	uint64 CHPFBEMDPNG = 3; // Offset: 0x18
 	uint32 EELLMJPBKLA = 2; // Offset: 0x20
 	int32 LDLIEKOAFBP = 1; // Offset: 0x24
-}
-
-// CmdId: - | MergeFrom: 0x8B62200 | WriteTo: 0x8B61FA0
-message HKIEJAGGKID {
-	// Fields
-	string MKHJKMHCKDF = 4; // Offset: 0x18
-	uint64 JKJBAOEKNKE = 7; // Offset: 0x20
 }
 
 // CmdId: - | MergeFrom: 0xB34C590 | WriteTo: 0xB34C630
@@ -43029,6 +42884,16 @@ message HLDEBAJBLPD {
 
 // CmdId: - | MergeFrom: 0xD75ADD0 | WriteTo: 0xD75B030
 message HLDGLALNEHM {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xB350340 | WriteTo: 0xB350050
+	message EGPCCKHAGEB {
+		// Fields
+		MNMGKCHHDPJ ENLHKDBILOG = 4; // Offset: 0x18
+		repeated FGIJLNBFILL LHBAAJEMNJM = 3; // Offset: 0x20
+		repeated HDMAHCGDDJB KJFNIKGFECB = 2; // Offset: 0x28
+		repeated HDMAHCGDDJB MMLNHDCIOGM = 1; // Offset: 0x30
+	}
+
 	// Fields
 	EGPCCKHAGEB PCPPKLAOBHE = 4; // Offset: 0x18
 	bytes MBIOMBKBFJM = 5; // Offset: 0x20
@@ -43045,6 +42910,14 @@ message HLDIBKLLCAP {
 		JMDAKMGKCPL_LEVEL = 0;
 		JMDAKMGKCPL_QUEST = 1;
 	}
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x114CAE80 | WriteTo: 0x114CAAD0
+	message EHCOJALFMDH {
+		// Fields
+		uint32 KMOPHDPDFOI = 2; // Offset: 0x18
+		uint32 JPECNOKDFLN = 8; // Offset: 0x1C
+	}
+
 	// Fields
 	JMDAKMGKCPL KFJGFINCDCJ = 11; // Offset: 0x20
 	uint32 INFLFFIJOBD = 12; // Offset: 0x28
@@ -44008,6 +43881,42 @@ message HOBOCPKOIGD {
 		BABNNDPCHCG_ENTERED = 3;
 		BABNNDPCHCG_LEFT = 4;
 	}
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x12D55940 | WriteTo: 0x12D55090
+	message DPECKFJNFLO {
+		// Fields
+		repeated FLMLGIKNGDC HGBBLGPJMOK = 9; // Offset: 0x18
+		repeated uint32 JFDEILGBNJE = 11; // Offset: 0x20
+		repeated uint32 ADODBJCAPJP = 15; // Offset: 0x28
+		bool EBMAOOGCALN = 13; // Offset: 0x30
+		uint32 AAIDJOLBBEI = 3; // Offset: 0x34
+		uint32 GEOHMHKBKIM = 4; // Offset: 0x38
+		uint32 DJCELAIEOLN = 7; // Offset: 0x3C
+	}
+
+	// CmdId: - | MergeFrom: 0xFBAC880 | WriteTo: 0xFBAC4D0
+	message FLMLGIKNGDC {
+		// Fields
+		uint32 PJAJDHBBMGB = 2; // Offset: 0x18
+		uint32 BNIOPDFNOBH = 15; // Offset: 0x1C
+	}
+
+	// CmdId: - | MergeFrom: 0x12D571A0 | WriteTo: 0x12D56030
+	message JOAIMBFJKNP {
+		// Fields
+		repeated uint32 FFBJGNIFOOH = 10; // Offset: 0x18
+		uint32 BNIOPDFNOBH = 13; // Offset: 0x20
+		uint32 BAGMEFHEEFJ = 2; // Offset: 0x24
+		uint32 BJFFEBFCHEG = 8; // Offset: 0x28
+		uint32 MHAIENEPEIP = 11; // Offset: 0x2C
+		uint32 NLNJDCDLHHE = 14; // Offset: 0x30
+		bool HCHGMEHPMKG = 5; // Offset: 0x34
+		uint32 FKEBAILBJEA = 7; // Offset: 0x38
+		uint32 PJAJDHBBMGB = 9; // Offset: 0x3C
+		BABNNDPCHCG EHAGPHPJBDG = 12; // Offset: 0x40
+		uint32 DPOJPAKBNLM = 6; // Offset: 0x44
+	}
+
 	// Fields
 	repeated DPECKFJNFLO FJLJBOEKBLM = 11; // Offset: 0x18
 	repeated JOAIMBFJKNP PLPNCLOFNIC = 7; // Offset: 0x20
@@ -44178,6 +44087,113 @@ message HOHFDJPNBNK {
 
 // CmdId: - | MergeFrom: 0xD790970 | WriteTo: 0xD792130
 message HOHKFAAMMPN {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x9B7B730 | WriteTo: 0x9B7B080
+	message CGKKKNHIMMA {
+		// Fields
+		uint64 IPPDEHFEPHI = 4; // Offset: 0x18
+		uint32 JEIIOJDBOEE = 12; // Offset: 0x20
+		uint32 OIFOGAIDDNN = 6; // Offset: 0x24
+		uint32 NFHEPLAGPHD = 8; // Offset: 0x28
+	}
+
+	// CmdId: - | MergeFrom: 0xEF484E0 | WriteTo: 0xEF47D00
+	message DEKHFGIHCJL {
+		// Fields
+		uint64 AJOCIEEGAIG = 14; // Offset: 0x18
+		uint32 JEIIOJDBOEE = 12; // Offset: 0x20
+		uint32 OIFOGAIDDNN = 6; // Offset: 0x24
+		uint32 NFHEPLAGPHD = 13; // Offset: 0x28
+		uint64 IPPDEHFEPHI = 3; // Offset: 0x30
+	}
+
+	// CmdId: - | MergeFrom: 0x114E1660 | WriteTo: 0x114E1400
+	message ELBDDHAOKBO {
+		// Fields
+		string MKHJKMHCKDF = 4; // Offset: 0x18
+		uint64 JKJBAOEKNKE = 7; // Offset: 0x20
+	}
+
+	// CmdId: - | MergeFrom: 0x12D624A0 | WriteTo: 0x12D61DF0
+	message FONICNGFJBN {
+		// Fields
+		uint64 BBCMCPNEGOC = 6; // Offset: 0x18
+		uint32 FCNLKDJLPEL = 1; // Offset: 0x20
+		uint32 NBDGINFCIIK = 15; // Offset: 0x24
+		uint32 IKIJJCNHBNC = 4; // Offset: 0x28
+	}
+
+	// CmdId: - | MergeFrom: 0xFBAFB30 | WriteTo: 0xFBAFA20
+	message GDOELGEGAJH {
+		// Fields
+		string NDENACOJBGC = 5; // Offset: 0x18
+	}
+
+	// CmdId: - | MergeFrom: 0x9B7BE30 | WriteTo: 0x9B7BB30
+	message GMBMBJAINPM {
+		// Fields
+		repeated uint32 HGFBPFCEACB = 2; // Offset: 0x18
+		uint32 NOEEBKJAFAG = 6; // Offset: 0x20
+	}
+
+	// CmdId: - | MergeFrom: 0x1089DB30 | WriteTo: 0x1089D5B0
+	message HFIEHCOGGDH {
+		// Fields
+		uint32 POHJLPNIGDK = 12; // Offset: 0x18
+		uint32 HKEOABAJBEG = 13; // Offset: 0x1C
+		uint32 PAICLIPMNHL = 9; // Offset: 0x20
+	}
+
+	// CmdId: - | MergeFrom: 0x12D63180 | WriteTo: 0x12D628B0
+	message INBNPNCJEGA {
+		// Fields
+		repeated uint32 FBGKJBJGCPO = 13; // Offset: 0x18
+		uint32 POHJLPNIGDK = 14; // Offset: 0x20
+		uint32 LFMOKBLCELM = 7; // Offset: 0x24
+		uint64 PAICLIPMNHL = 11; // Offset: 0x28
+		uint32 HGIMGHJOLBE = 9; // Offset: 0x30
+		uint64 ODNBHFKMJBH = 1; // Offset: 0x38
+	}
+
+	// CmdId: - | MergeFrom: 0x762B150 | WriteTo: 0x762B030
+	message LKLOCMINMOK {
+		// Fields
+		bytes DGNMHHNGDCA = 3; // Offset: 0x18
+	}
+
+	// CmdId: - | MergeFrom: 0x762B8B0 | WriteTo: 0x762B3F0
+	message NELNNBGNDFA {
+		// Fields
+		string HPGJJPGJHFB = 8; // Offset: 0x18
+		uint32 PENKNGAGFAC = 2; // Offset: 0x20
+		uint32 LLOKNGIOCNO = 13; // Offset: 0x24
+	}
+
+	// CmdId: - | MergeFrom: 0x9B7CD50 | WriteTo: 0x9B7C180
+	message NEOJKCGMBID {
+		// Fields
+		string MKHJKMHCKDF = 3; // Offset: 0x18
+		uint64 PAICLIPMNHL = 12; // Offset: 0x20
+		uint64 JKJBAOEKNKE = 10; // Offset: 0x28
+		uint32 POHJLPNIGDK = 1; // Offset: 0x30
+		uint32 LKAHCNLODAM = 6; // Offset: 0x34
+		uint32 HGCOMMCPKHP = 5; // Offset: 0x38
+		uint32 NFHEPLAGPHD = 14; // Offset: 0x3C
+		uint64 DIOPBEFMPBO = 2; // Offset: 0x40
+	}
+
+	// CmdId: - | MergeFrom: 0x114E23F0 | WriteTo: 0x114E1960
+	message PGAAIKGOECF {
+		// Fields
+		repeated uint32 HNHNHHEDKAG = 9; // Offset: 0x18
+		uint64 IPPDEHFEPHI = 6; // Offset: 0x20
+		uint32 OIFOGAIDDNN = 3; // Offset: 0x28
+		uint32 HOFALNEAOLK = 12; // Offset: 0x2C
+		uint64 EKMLDMIELLP = 13; // Offset: 0x30
+		uint32 NFHEPLAGPHD = 11; // Offset: 0x38
+		uint32 JEIIOJDBOEE = 10; // Offset: 0x3C
+	}
+
 	// Fields
 	string NGHMHALIAIO = 5; // Offset: 0x20
 	uint32 GKODOLODOGC = 11; // Offset: 0x30
@@ -44189,24 +44205,24 @@ message HOHKFAAMMPN {
 	uint32 LKICHNDECKI = 2; // Offset: 0x54
 	bool OILKLKDHMHO = 7; // Offset: 0x5C
 	oneof HBJFILEBGGP {
-		uint32 mentioned_uid = 9; // Offset: 0x18
-		bool is_mention_all = 8; // Offset: 0x18
+		string text = 630; // Offset: 0x18
+		uint32 icon = 323; // Offset: 0x18
+		GMBMBJAINPM system_hint = 1538; // Offset: 0x18
+		PGAAIKGOECF hall_invitation = 1242; // Offset: 0x18
+		CGKKKNHIMMA beyond_team_invitation = 1319; // Offset: 0x18
+		FONICNGFJBN beyond_team_application = 1536; // Offset: 0x18
+		HFIEHCOGGDH beyond_team_recruitment = 836; // Offset: 0x18
+		NELNNBGNDFA beyond_collection_new_captain = 717; // Offset: 0x18
+		DEKHFGIHCJL beyond_room_invitation = 1559; // Offset: 0x18
+		GDOELGEGAJH beyond_gacha_gift = 91; // Offset: 0x18
+		LKLOCMINMOK beyond_costume_share_code = 654; // Offset: 0x18
+		INBNPNCJEGA hall_recruiting_invitation = 366; // Offset: 0x18
+		NEOJKCGMBID beyond_room_recruitment = 2030; // Offset: 0x18
+		ELBDDHAOKBO beyond_level_share = 867; // Offset: 0x18
 	}
 	oneof DNMBAJPMGPK {
-		string text = 630; // Offset: 0x28
-		uint32 icon = 323; // Offset: 0x28
-		GMBMBJAINPM system_hint = 1538; // Offset: 0x28
-		PGAAIKGOECF hall_invitation = 1242; // Offset: 0x28
-		CGKKKNHIMMA beyond_team_invitation = 1319; // Offset: 0x28
-		FONICNGFJBN beyond_team_application = 1536; // Offset: 0x28
-		HFIEHCOGGDH beyond_team_recruitment = 836; // Offset: 0x28
-		NELNNBGNDFA beyond_collection_new_captain = 717; // Offset: 0x28
-		DEKHFGIHCJL beyond_room_invitation = 1559; // Offset: 0x28
-		GDOELGEGAJH beyond_gacha_gift = 91; // Offset: 0x28
-		LKLOCMINMOK beyond_costume_share_code = 654; // Offset: 0x28
-		INBNPNCJEGA hall_recruiting_invitation = 366; // Offset: 0x28
-		NEOJKCGMBID beyond_room_recruitment = 2030; // Offset: 0x28
-		ELBDDHAOKBO beyond_level_share = 867; // Offset: 0x28
+		uint32 mentioned_uid = 9; // Offset: 0x28
+		bool is_mention_all = 8; // Offset: 0x28
 	}
 }
 
@@ -44385,14 +44401,6 @@ message HPCKDEIEONC {
 	// Fields
 	float AGJIEAHJPJC = 11; // Offset: 0x18
 	KCMOHDOBEGK IHHBIFIJHDP = 10; // Offset: 0x1C
-}
-
-// CmdId: - | MergeFrom: 0xE37A020 | WriteTo: 0xE379B60
-message HPCOGMEEBGN {
-	// Fields
-	repeated uint32 HGFBPFCEACB = 8; // Offset: 0x18
-	uint32 BNIOPDFNOBH = 10; // Offset: 0x20
-	int32 FHHICBEALMN = 11; // Offset: 0x24
 }
 
 // CmdId: 27743 | MergeFrom: - | WriteTo: -
@@ -46498,6 +46506,25 @@ message IGGMMCHOMJF {
 
 // CmdId: - | MergeFrom: 0x13A8A970 | WriteTo: 0x13A89FE0
 message IGHBGLOBNHH {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xA81C460 | WriteTo: 0xA81BEE0
+	message ACJCIIPJLCD {
+		// Fields
+		uint32 NLNJDCDLHHE = 1; // Offset: 0x18
+		uint32 MHAIENEPEIP = 12; // Offset: 0x1C
+		uint32 MMLPICELLIF = 11; // Offset: 0x20
+	}
+
+	// CmdId: - | MergeFrom: 0x8F52050 | WriteTo: 0x8F518C0
+	message BEADOCICIMB {
+		// Fields
+		repeated HEAGADFEFBI JGECGMPNGBD = 7; // Offset: 0x18
+		uint32 PBMDMJMEPJK = 2; // Offset: 0x20
+		uint32 NEBKFCHLIJP = 3; // Offset: 0x24
+		bool IHJEGENOPEE = 14; // Offset: 0x28
+		uint32 PGDFOLLCMCD = 12; // Offset: 0x2C
+	}
+
 	// Fields
 	repeated HEAGADFEFBI EJAKPHIOBGP = 13; // Offset: 0x18
 	BEADOCICIMB FBAPIAGGMJA = 9; // Offset: 0x20
@@ -46572,12 +46599,6 @@ message IGILLHPJENJ {
 	// Fields
 	uint32 ANKEOLKBECN = 1; // Offset: 0x18
 	uint32 KLGLGANIAIP = 2; // Offset: 0x1C
-}
-
-// CmdId: - | MergeFrom: 0xC4768B0 | WriteTo: 0xC476790
-message IGIMDEEIGGF {
-	// Fields
-	repeated LADAAMNDBJH KOIEJOHNIPI = 1; // Offset: 0x18
 }
 
 // CmdId: 1377 | MergeFrom: 0xEF74A90 | WriteTo: -
@@ -46676,6 +46697,29 @@ message IGNLHLOOMAM {
 		CCKLHPEOHHE_SETTLE_REASON_SUCC = 1;
 		CCKLHPEOHHE_SETTLE_REASON_PLAYER_NOT_ENOUGH = 2;
 	}
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xE37A020 | WriteTo: 0xE379B60
+	message HPCOGMEEBGN {
+		// Fields
+		repeated uint32 HGFBPFCEACB = 8; // Offset: 0x18
+		uint32 BNIOPDFNOBH = 10; // Offset: 0x20
+		int32 FHHICBEALMN = 11; // Offset: 0x24
+	}
+
+	// CmdId: - | MergeFrom: 0x83F42D0 | WriteTo: 0x83F37D0
+	message IHEFGHMMCGK {
+		// Fields
+		string FKNBPCAPKCJ = 2; // Offset: 0x18
+		repeated uint32 HPEMPMHDEDI = 10; // Offset: 0x20
+		IPCMJMIGNIE KOABCHOAAIC = 15; // Offset: 0x28
+		string BPDJEPAEMIF = 12; // Offset: 0x30
+		string HNNICOEFLAK = 5; // Offset: 0x38
+		repeated DFECFEPOEDK OBKECIBKLMG = 7; // Offset: 0x40
+		uint32 PJAJDHBBMGB = 14; // Offset: 0x48
+		uint32 JNPDDEPMIKA = 8; // Offset: 0x4C
+		uint32 IAHPPLKIIBK = 13; // Offset: 0x50
+	}
+
 	// Fields
 	repeated IHEFGHMMCGK EKOOLMADMIM = 5; // Offset: 0x18
 	repeated uint32 OEBCDNPIFAO = 8; // Offset: 0x20
@@ -46826,22 +46870,18 @@ message IHDHMACIGBH {
 	uint32 IAHPPLKIIBK = 2; // Offset: 0x24
 }
 
-// CmdId: - | MergeFrom: 0x83F42D0 | WriteTo: 0x83F37D0
-message IHEFGHMMCGK {
-	// Fields
-	string FKNBPCAPKCJ = 2; // Offset: 0x18
-	repeated uint32 HPEMPMHDEDI = 10; // Offset: 0x20
-	IPCMJMIGNIE KOABCHOAAIC = 15; // Offset: 0x28
-	string BPDJEPAEMIF = 12; // Offset: 0x30
-	string HNNICOEFLAK = 5; // Offset: 0x38
-	repeated DFECFEPOEDK OBKECIBKLMG = 7; // Offset: 0x40
-	uint32 PJAJDHBBMGB = 14; // Offset: 0x48
-	uint32 JNPDDEPMIKA = 8; // Offset: 0x4C
-	uint32 IAHPPLKIIBK = 13; // Offset: 0x50
-}
-
 // CmdId: - | MergeFrom: 0x9BD01A0 | WriteTo: 0x9BCF780
 message IHELLNJAIND {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x12DBE770 | WriteTo: 0x12DBE510
+	message FJBILHPDJDG {
+		// Fields
+		repeated NFDHINEFPMJ FHFFPELCCAN = 5; // Offset: 0x18
+		repeated GIPGNPEJCDC MGMPMNAOMBG = 1; // Offset: 0x20
+		repeated NFDHINEFPMJ GMGOACCABKK = 6; // Offset: 0x28
+		repeated NFDHINEFPMJ FIPFBBBDIPF = 4; // Offset: 0x30
+	}
+
 	// Fields
 	string BILCCNNIBJC = 6; // Offset: 0x18
 	string HFMHBICJHNH = 2; // Offset: 0x20
@@ -46902,6 +46942,14 @@ message IHEPIDJBLEN {
 
 // CmdId: - | MergeFrom: 0x11536780 | WriteTo: 0x11536980
 message IHFCBHJPPBC {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xCB5A3C0 | WriteTo: 0xCB5A1A0
+	message GICGADGAIAI {
+		// Fields
+		repeated JNJANEHBBIJ HIAAPHJMMJE = 1; // Offset: 0x18
+		CEBFELIGDDH GDGNFINHPOG = 2; // Offset: 0x20
+	}
+
 	// Fields
 	string HFMHBICJHNH = 2; // Offset: 0x18
 	string BILCCNNIBJC = 6; // Offset: 0x20
@@ -46941,13 +46989,6 @@ message IHGANMKCJOM {
 
 // CmdId: 28494 | MergeFrom: - | WriteTo: -
 message IHHADFGHKAG {
-}
-
-// CmdId: - | MergeFrom: 0xF938540 | WriteTo: 0xF938230
-message IHHCGGKFFBE {
-	// Fields
-	uint32 PMJDDDPCBDA = 12; // Offset: 0x18
-	bool JPJKPMFBMCL = 14; // Offset: 0x1C
 }
 
 // CmdId: - | MergeFrom: 0xB3B0A30 | WriteTo: 0xB3B0760
@@ -47206,6 +47247,15 @@ message IICEHBMKNHC {
 
 // CmdId: - | MergeFrom: 0xEF84C00 | WriteTo: 0xEF84510
 message IICFBGJBGPP {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x9BD3280 | WriteTo: 0x9BD2FC0
+	message OPGMNIDEICB {
+		// Fields
+		repeated FEELPGFOBMN ELFIACJBBJM = 2; // Offset: 0x18
+		repeated FEELPGFOBMN DCPKJCJNIDM = 3; // Offset: 0x20
+		uint64 AAIDJOLBBEI = 1; // Offset: 0x28
+	}
+
 	// Fields
 	OPGMNIDEICB PCPPKLAOBHE = 4; // Offset: 0x18
 	string HFMHBICJHNH = 2; // Offset: 0x20
@@ -47763,6 +47813,17 @@ message IJOJNLCJKNH {
 
 // CmdId: - | MergeFrom: 0x13AEC720 | WriteTo: 0x13AECD40
 message IJPBJJDFJLB {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xA839550 | WriteTo: 0xA838FC0
+	message AMLKBLPCBKM {
+		// Fields
+		string FHBJNPFOKGI = 2; // Offset: 0x18
+		CFHPGBGNKOL FHJONLDIBKA = 3; // Offset: 0x20
+		bool HOCLMBEMJPL = 5; // Offset: 0x24
+		bool CMIOAAAJFGD = 4; // Offset: 0x25
+		uint64 AAIDJOLBBEI = 1; // Offset: 0x28
+	}
+
 	// Fields
 	AMLKBLPCBKM BOCPGGBGMIM = 3; // Offset: 0x18
 	map<uint64, uint64> NJCLEEAIDCI = 1; // Offset: 0x20
@@ -47847,14 +47908,6 @@ message IKDGPAGJDJD {
 	uint32 CAPJJKPDFKE = 12; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0x12732F50 | WriteTo: 0x12732C10
-message IKDNNGAMIGF {
-	// Fields
-	repeated AGPCMOENKNG CFPHLJICFGK = 2; // Offset: 0x18
-	BHACNCJDBJG OCGNILBDFNC = 3; // Offset: 0x20
-	uint64 PNEFKEEEJDM = 1; // Offset: 0x28
-}
-
 // CmdId: - | MergeFrom: 0xCB71780 | WriteTo: 0xCB71C50
 message IKDPFDNBGEE {
 	oneof FLPGMLOFAKP {
@@ -47875,10 +47928,6 @@ message IKEBLDNECHK {
 	uint32 AHHCPGBGCMC = 1; // Offset: 0x18
 	uint32 MEDEICMGIHJ = 2; // Offset: 0x1C
 	uint32 NLNJDCDLHHE = 3; // Offset: 0x20
-}
-
-// CmdId: - | MergeFrom: - | WriteTo: -
-message IKEFPEGHFKK {
 }
 
 // CmdId: 9624 | MergeFrom: 0x76F6B60 | WriteTo: -
@@ -48059,13 +48108,6 @@ message IKNHGFFHCMN {
 	bool GNMIAEGLOBC = 8; // Offset: 0x24
 	bool EDGHBLEBKFC = 15; // Offset: 0x25
 	bool LFHOPFLEEEH = 2; // Offset: 0x26
-}
-
-// CmdId: - | MergeFrom: 0x12BB0DF0 | WriteTo: 0x12BB0A20
-message IKNJJHAAIOE {
-	// Fields
-	int32 LDLIEKOAFBP = 7; // Offset: 0x18
-	uint32 PJAJDHBBMGB = 1; // Offset: 0x1C
 }
 
 // CmdId: - | MergeFrom: - | WriteTo: -
@@ -48588,6 +48630,13 @@ message IMDPGGOGMEE {
 
 // CmdId: - | MergeFrom: 0xFC20F70 | WriteTo: 0xFC207E0
 message IMEANDBOCHK {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x13B060A0 | WriteTo: 0x13B05F80
+	message BOMPKPCPHPL {
+		// Fields
+		repeated OEOHFDCIIBC CLHPPMPINFP = 1; // Offset: 0x18
+	}
+
 	// Fields
 	bytes MBIOMBKBFJM = 5; // Offset: 0x18
 	string JPDDCAAGEMJ = 3; // Offset: 0x20
@@ -48634,6 +48683,15 @@ message IMHACAAHEFC {
 
 // CmdId: - | MergeFrom: 0x10914AE0 | WriteTo: 0x10914310
 message IMICAEGBJIK {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xFC28B80 | WriteTo: 0xFC28740
+	message FPHLIPBOGDA {
+		// Fields
+		bool BOGNCPKPKIO = 2; // Offset: 0x18
+		uint32 KKCHDMODGCM = 1; // Offset: 0x1C
+		uint64 OPDLNBKKHDI = 3; // Offset: 0x20
+	}
+
 	// Fields
 	repeated FPHLIPBOGDA KIBAFLLLMKJ = 3; // Offset: 0x18
 	string NDENACOJBGC = 6; // Offset: 0x20
@@ -48763,12 +48821,6 @@ message IMOAMOAMMOL {
 	bool DCIONEIDDDL = 2; // Offset: 0x19
 }
 
-// CmdId: - | MergeFrom: 0x9A01700 | WriteTo: 0x9A015E0
-message IMOHOGHMJEN {
-	// Fields
-	repeated FJAABDKFGPO CLHPPMPINFP = 1; // Offset: 0x18
-}
-
 // CmdId: - | MergeFrom: 0x13B0DF50 | WriteTo: 0x13B0E3D0
 message INACLKMNDEF {
 	// Fields
@@ -48796,17 +48848,6 @@ message INBHFPMGCKA {
 	// Fields
 	repeated KHENODPKHOI BBJLKBMINLM = 2; // Offset: 0x18
 	int32 MACPBIKBLGD = 1; // Offset: 0x20
-}
-
-// CmdId: - | MergeFrom: 0x12D63180 | WriteTo: 0x12D628B0
-message INBNPNCJEGA {
-	// Fields
-	repeated uint32 FBGKJBJGCPO = 13; // Offset: 0x18
-	uint32 POHJLPNIGDK = 14; // Offset: 0x20
-	uint32 LFMOKBLCELM = 7; // Offset: 0x24
-	uint64 PAICLIPMNHL = 11; // Offset: 0x28
-	uint32 HGIMGHJOLBE = 9; // Offset: 0x30
-	uint64 ODNBHFKMJBH = 1; // Offset: 0x38
 }
 
 // CmdId: 110 | MergeFrom: 0xCB7E480 | WriteTo: -
@@ -49443,6 +49484,15 @@ message IPFOLDGPGOP {
 
 // CmdId: 27447 | MergeFrom: 0x13B1DED0 | WriteTo: -
 message IPGKIJBOJID {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x8432E30 | WriteTo: 0x8432B80
+	message KNOCIJGDKOK {
+		// Fields
+		repeated GAKPPEJMMLC KBFBEKODLHN = 2; // Offset: 0x18
+		string BOMHKAGLIAJ = 4; // Offset: 0x20
+		repeated uint32 NCNJEEIOFPG = 1; // Offset: 0x28
+	}
+
 	// Fields
 	repeated KNOCIJGDKOK OJGOJAICLPP = 15; // Offset: 0x18
 }
@@ -49557,12 +49607,6 @@ message IPNDNFFPGHH {
 message IPNHIOOIIFI {
 	// Fields
 	repeated KKDGLHBEPLM JKEPKNBGINO = 1; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0x1114E360 | WriteTo: 0x1114E240
-message IPNOCBNFGAM {
-	// Fields
-	bytes DGNMHHNGDCA = 3; // Offset: 0x18
 }
 
 // CmdId: 32389 | MergeFrom: - | WriteTo: -
@@ -49726,6 +49770,23 @@ message JAEOIPEMHON {
 
 // CmdId: - | MergeFrom: 0xA85F910 | WriteTo: 0xA8600C0
 message JAFGBAELINF {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x10933B70 | WriteTo: 0x109337E0
+	message OCJNFJODHKN {
+		// Nested Messages
+		// CmdId: - | MergeFrom: 0x10934440 | WriteTo: 0x10934210
+		message PJAIMLCFLFF {
+			// Fields
+			string GBPAEGLCKDF = 1; // Offset: 0x18
+			repeated ENJCNMPONJP ELNENHFENNB = 2; // Offset: 0x20
+		}
+
+		// Fields
+		repeated PJAIMLCFLFF PGNADAABLNH = 2; // Offset: 0x18
+		uint64 AAIDJOLBBEI = 1; // Offset: 0x20
+		bool HGDFCCCLEDE = 3; // Offset: 0x28
+	}
+
 	// Fields
 	string BILCCNNIBJC = 6; // Offset: 0x18
 	bytes MBIOMBKBFJM = 5; // Offset: 0x20
@@ -49783,13 +49844,6 @@ message JAGLCMLPPJN {
 	bool DNBAHLBIAHB = 4; // Offset: 0x29
 	uint32 PIHBEMKBJLM = 2; // Offset: 0x2C
 	uint32 OBIJFMLBCLL = 5; // Offset: 0x30
-}
-
-// CmdId: - | MergeFrom: 0xB923B70 | WriteTo: 0xB9237C0
-message JAGMJEAKDCL {
-	// Fields
-	uint32 HKFJOKDMPBI = 12; // Offset: 0x18
-	uint32 PJAJDHBBMGB = 9; // Offset: 0x1C
 }
 
 // CmdId: - | MergeFrom: 0xBFF6A20 | WriteTo: 0xBFF6480
@@ -50232,6 +50286,14 @@ message JBIDCOJJIKE {
 
 // CmdId: 2529 | MergeFrom: 0x1093E9C0 | WriteTo: -
 message JBILEIGGJCH {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xCB97230 | WriteTo: 0xCB97000
+	message JPFMKFGIOII {
+		// Fields
+		repeated HNAFCKKNKCN CEIHIBEEIJD = 1; // Offset: 0x18
+		KOEOMFPFNKK APJJIIACFMC = 3; // Offset: 0x20
+	}
+
 	// Fields
 	repeated JPFMKFGIOII JKPFIMEFBIP = 1; // Offset: 0x18
 	repeated uint32 EJGDCLNDIOO = 12; // Offset: 0x20
@@ -50664,13 +50726,6 @@ message JCPBBKFBDPG {
 	DLNNENOMGGJ LOJDALHNJNM = 3; // Offset: 0x48
 }
 
-// CmdId: - | MergeFrom: 0x11E32AF0 | WriteTo: 0x11E328F0
-message JCPGFFCJGAA {
-	// Fields
-	HNAFCKKNKCN EOEHNBPEELL = 1; // Offset: 0x18
-	KOEOMFPFNKK APJJIIACFMC = 3; // Offset: 0x20
-}
-
 // CmdId: 1023 | MergeFrom: 0x12E11F50 | WriteTo: -
 message JDACOADFBPH {
 	// Fields
@@ -50714,6 +50769,28 @@ message JDCHOBKCMAG {
 
 // CmdId: - | MergeFrom: 0x8FC60E0 | WriteTo: 0x8FC5BE0
 message JDDDHIGLMGJ {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x12274CA0 | WriteTo: 0x122747E0
+	message DFPLPBLIEEK {
+		// Fields
+		map<uint32, uint32> ALNBHHEJLKP = 1; // Offset: 0x18
+		uint32 MNBPLFPCJLG = 3; // Offset: 0x20
+		uint32 PGDAIKELICG = 2; // Offset: 0x24
+	}
+
+	// CmdId: - | MergeFrom: 0xA870410 | WriteTo: 0xA870240
+	message KNNPHAOJMAH {
+		// Fields
+		uint32 BHOHKJOCNOL = 1; // Offset: 0x18
+	}
+
+	// CmdId: - | MergeFrom: 0xE457F70 | WriteTo: 0xE457C70
+	message PEMOFGMDGHP {
+		// Fields
+		map<uint32, uint32> ALNBHHEJLKP = 1; // Offset: 0x18
+		uint32 MNBPLFPCJLG = 2; // Offset: 0x20
+	}
+
 	// Fields
 	bool IJPBJCNCDEC = 1; // Offset: 0x24
 	oneof PNGOHOKGKHP {
@@ -51116,13 +51193,6 @@ message JEKLMAHOPIA {
 message JELDGEHKBPN {
 }
 
-// CmdId: - | MergeFrom: 0x9D333D0 | WriteTo: 0x9D331A0
-message JEMFEHDBNCH {
-	// Fields
-	string DBCJNBDFEOL = 1; // Offset: 0x18
-	string BNJKCHONGGE = 2; // Offset: 0x20
-}
-
 enum JEMNCGOCHGI {
 	JEMNCGOCHGI_NONE = 0;
 	JEMNCGOCHGI_BY_KICK = 1;
@@ -51188,14 +51258,6 @@ message JEOOLHFEAEF {
 message JEPAKDNGNGO {
 	// Fields
 	repeated ICAHLCPLLDI JDCGPEFMDAP = 10; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0xB517190 | WriteTo: 0xB516EA0
-message JEPGIJIBEHI {
-	// Fields
-	KOEOMFPFNKK APJJIIACFMC = 3; // Offset: 0x18
-	repeated JMKLJDDICCA EDCKONIBPAD = 12; // Offset: 0x20
-	KKDLDGEFIDL.OIDJPAPMPEH BBAODGPBJLN = 15; // Offset: 0x28
 }
 
 // CmdId: 21538 | MergeFrom: 0xFC67620 | WriteTo: -
@@ -51935,14 +51997,6 @@ message JHGHGHCIJGA {
 	uint32 PJAJDHBBMGB = 2; // Offset: 0x28
 }
 
-// CmdId: - | MergeFrom: 0x8B564C0 | WriteTo: 0x8B56130
-message JHGHPBKNOEL {
-	// Fields
-	repeated EIAFKKFAHBA CLHPPMPINFP = 2; // Offset: 0x18
-	bool MJKIDOBCCIA = 3; // Offset: 0x20
-	uint64 AAIDJOLBBEI = 1; // Offset: 0x28
-}
-
 // CmdId: - | MergeFrom: - | WriteTo: -
 message JHIAFBJOLKJ {
 }
@@ -52333,6 +52387,13 @@ message JILJCBJEFEN {
 
 // CmdId: - | MergeFrom: 0xB464500 | WriteTo: 0xB464A10
 message JILOLJHPGEH {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xFC969A0 | WriteTo: 0xFC96790
+	message CDBJJIKOIPD {
+		// Fields
+		int32 JGMKPLELKFL = 1; // Offset: 0x18
+	}
+
 	// Fields
 	string JPDDCAAGEMJ = 3; // Offset: 0x18
 	bytes MBIOMBKBFJM = 5; // Offset: 0x20
@@ -52886,6 +52947,13 @@ message JKFHCAFABLF {
 
 // CmdId: - | MergeFrom: 0xF1BB540 | WriteTo: 0xF1BBE60
 message JKFNOHODPGE {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xB46F710 | WriteTo: 0xB46F5F0
+	message BOLOHENDHJJ {
+		// Fields
+		repeated OFPABDCJLHP ENONLOFDEHA = 1; // Offset: 0x18
+	}
+
 	// Fields
 	string BILCCNNIBJC = 6; // Offset: 0x18
 	string JPDDCAAGEMJ = 3; // Offset: 0x20
@@ -53152,12 +53220,6 @@ message JLDPEJDHMBC {
 	uint32 KIPJDJFLCJK = 1; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0xC9F18E0 | WriteTo: 0xC9F17A0
-message JLEBJEHNBPP {
-	// Fields
-	uint64 JIMKMCFKNFM = 1; // Offset: 0x18
-}
-
 // CmdId: 25370 | MergeFrom: - | WriteTo: 0xF1BF9D0
 message JLEKAEDDIFJ {
 	// Fields
@@ -53292,13 +53354,6 @@ message JLIMCIKJHKN {
 	uint32 ANKEOLKBECN = 1; // Offset: 0x24
 }
 
-// CmdId: - | MergeFrom: 0xE9AC7F0 | WriteTo: 0xE9AC440
-message JLJAEHGEOHG {
-	// Fields
-	uint32 PJAJDHBBMGB = 14; // Offset: 0x18
-	uint32 DHFFJFGIKMJ = 6; // Offset: 0x1C
-}
-
 // CmdId: 27486 | MergeFrom: 0xE4DB5E0 | WriteTo: -
 message JLJHKKDEOAF {
 	// Fields
@@ -53390,13 +53445,6 @@ message JLMPBFNIMNL {
 message JLNGEMDKOFM {
 	// Fields
 	int32 BJEKDEJKDDD = 1; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0xE601440 | WriteTo: 0xE6012D0
-message JLNPACJDEKI {
-	// Fields
-	repeated IFDEIOMPIBG ICLDHINPGHF = 2; // Offset: 0x18
-	repeated IFDEIOMPIBG HEICPNIMEID = 1; // Offset: 0x20
 }
 
 // CmdId: - | MergeFrom: 0xE4DC590 | WriteTo: 0xE4DC8B0
@@ -53870,6 +53918,20 @@ message JNCEKCKMHMK {
 
 // CmdId: - | MergeFrom: 0x84ACA60 | WriteTo: 0x84ACFE0
 message JNDNBBPMCNF {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x10A271A0 | WriteTo: 0x10A265F0
+	message GBKOPEINDIH {
+		// Fields
+		EIAFKKFAHBA OBMLFNPHNAP = 1; // Offset: 0x18
+		uint32 LDCOFJAHKDD = 5; // Offset: 0x20
+		uint32 EOCLLMCEIIM = 3; // Offset: 0x24
+		uint64 OEALLKFIPIN = 8; // Offset: 0x28
+		uint32 MCCBNKLBEBG = 6; // Offset: 0x30
+		uint32 EJMKBOCOCEM = 2; // Offset: 0x34
+		bool OOHFKPMEJPM = 7; // Offset: 0x38
+		bool JGLPLBOPGPL = 4; // Offset: 0x39
+	}
+
 	// Fields
 	repeated GBKOPEINDIH KAEFNNJHDNL = 3; // Offset: 0x18
 	repeated GBKOPEINDIH OPIKLODCLMB = 2; // Offset: 0x20
@@ -53958,14 +54020,6 @@ message JNIBACCJAPG {
 	float IKOJKAKEPME = 5; // Offset: 0x5C
 	DGGGIIPEEIF BICMMLKCOIB = 1; // Offset: 0x60
 	uint32 CFALBLDDGHM = 2; // Offset: 0x64
-}
-
-// CmdId: - | MergeFrom: 0xD66A990 | WriteTo: 0xD66A560
-message JNIDFPBJDEE {
-	// Fields
-	repeated EIAFKKFAHBA CLHPPMPINFP = 1; // Offset: 0x18
-	uint32 DOCNDAEFFME = 2; // Offset: 0x20
-	bool HGDFCCCLEDE = 3; // Offset: 0x24
 }
 
 // CmdId: 26412 | MergeFrom: 0xB4903B0 | WriteTo: -
@@ -54141,22 +54195,6 @@ message JNPPAPPNGDN {
 	bool ILCHJAPKPOK = 12; // Offset: 0x21
 }
 
-// CmdId: - | MergeFrom: 0x12D571A0 | WriteTo: 0x12D56030
-message JOAIMBFJKNP {
-	// Fields
-	repeated uint32 FFBJGNIFOOH = 10; // Offset: 0x18
-	uint32 BNIOPDFNOBH = 13; // Offset: 0x20
-	uint32 BAGMEFHEEFJ = 2; // Offset: 0x24
-	uint32 BJFFEBFCHEG = 8; // Offset: 0x28
-	uint32 MHAIENEPEIP = 11; // Offset: 0x2C
-	uint32 NLNJDCDLHHE = 14; // Offset: 0x30
-	bool HCHGMEHPMKG = 5; // Offset: 0x34
-	uint32 FKEBAILBJEA = 7; // Offset: 0x38
-	uint32 PJAJDHBBMGB = 9; // Offset: 0x3C
-	HOBOCPKOIGD.BABNNDPCHCG EHAGPHPJBDG = 12; // Offset: 0x40
-	uint32 DPOJPAKBNLM = 6; // Offset: 0x44
-}
-
 // CmdId: - | MergeFrom: 0x13BDA9C0 | WriteTo: 0x13BDABA0
 message JOAMJGPGAAO {
 	// Fields
@@ -54289,12 +54327,6 @@ message JOJBLPAOILN {
 	// Fields
 	uint32 LLHEBIHGDAE = 15; // Offset: 0x18
 	uint32 GALICIBPGOB = 11; // Offset: 0x1C
-}
-
-// CmdId: - | MergeFrom: 0x1333EE60 | WriteTo: 0x1333ED40
-message JOJIEEOJMKI {
-	// Fields
-	repeated JHBCDMAPPLJ JHFOAAFHION = 1; // Offset: 0x18
 }
 
 // CmdId: 4034 | MergeFrom: 0xB4991C0 | WriteTo: -
@@ -54553,13 +54585,6 @@ message JPFAFODFBJG {
 	BGDCNKAKGHI HHAFHFEPLPD = 2; // Offset: 0x20
 	uint32 ADLFOOJNEHJ = 1; // Offset: 0x28
 	uint32 ILOCEAMPELE = 4; // Offset: 0x2C
-}
-
-// CmdId: - | MergeFrom: 0xCB97230 | WriteTo: 0xCB97000
-message JPFMKFGIOII {
-	// Fields
-	repeated HNAFCKKNKCN CEIHIBEEIJD = 1; // Offset: 0x18
-	KOEOMFPFNKK APJJIIACFMC = 3; // Offset: 0x20
 }
 
 // CmdId: 29003 | MergeFrom: 0xFCDF100 | WriteTo: -
@@ -55027,6 +55052,14 @@ message KAMOEJCGCKB {
 
 // CmdId: 5260 | MergeFrom: - | WriteTo: 0xC08E3D0
 message KANFGFMEPKG {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x9056D90 | WriteTo: 0x9056AB0
+	message PJDCKPLPLPN {
+		// Fields
+		repeated uint32 MFCENHPKEHD = 14; // Offset: 0x18
+		uint32 JPGHMHALJGJ = 9; // Offset: 0x20
+	}
+
 	// Fields
 	repeated PJDCKPLPLPN JCIKEIJLEJB = 11; // Offset: 0x18
 	bool NNJJCFPGKPJ = 4; // Offset: 0x20
@@ -55172,13 +55205,6 @@ message KBFCEGACOBH {
 message KBFHCFOADDG {
 	// Fields
 	int32 LDLIEKOAFBP = 11; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0x84FDA80 | WriteTo: 0x84FD6D0
-message KBFKGDDLLMO {
-	// Fields
-	uint32 OLBGFLGJBCI = 6; // Offset: 0x18
-	uint32 KDHAOJFJFIP = 9; // Offset: 0x1C
 }
 
 // CmdId: - | MergeFrom: 0xA8FBFD0 | WriteTo: 0xA8FCB70
@@ -56882,14 +56908,6 @@ enum KGOLKBNBMNM {
 	KGOLKBNBMNM_READY = 2;
 }
 
-// CmdId: - | MergeFrom: 0x123DBBA0 | WriteTo: 0x123DB760
-message KGONKJPPGCA {
-	// Fields
-	uint32 KKCHDMODGCM = 1; // Offset: 0x18
-	bool BOGNCPKPKIO = 2; // Offset: 0x1C
-	uint64 OPDLNBKKHDI = 3; // Offset: 0x20
-}
-
 // CmdId: - | MergeFrom: 0x116DAA50 | WriteTo: 0x116DA980
 message KGPEHDFPDKI {
 	// Fields
@@ -57009,6 +57027,13 @@ message KHCPBIAIOIN {
 
 // CmdId: - | MergeFrom: 0xC0D9270 | WriteTo: 0xC0D9B40
 message KHDBFFGGNJN {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xCC9F4C0 | WriteTo: 0xCC9F3D0
+	message FLMKHLEOHHO {
+		// Fields
+		JNJANEHBBIJ BPHKDBEAHCP = 1; // Offset: 0x18
+	}
+
 	// Fields
 	string JPDDCAAGEMJ = 3; // Offset: 0x18
 	string BILCCNNIBJC = 5; // Offset: 0x20
@@ -57169,6 +57194,15 @@ message KHJPMEILBDC {
 
 // CmdId: - | MergeFrom: 0xE546AD0 | WriteTo: 0xE546530
 message KHKDBFPHHJJ {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xE547E10 | WriteTo: 0xE547900
+	message EPGBKFJIJFB {
+		// Fields
+		repeated EIAFKKFAHBA CLHPPMPINFP = 1; // Offset: 0x18
+		uint32 DOCNDAEFFME = 2; // Offset: 0x20
+		bool HGDFCCCLEDE = 3; // Offset: 0x24
+	}
+
 	// Fields
 	string HFMHBICJHNH = 2; // Offset: 0x18
 	string JPDDCAAGEMJ = 4; // Offset: 0x20
@@ -57278,6 +57312,21 @@ message KHOAIKIMOIH {
 
 // CmdId: - | MergeFrom: 0xF21ABE0 | WriteTo: 0xF21B200
 message KHOIBHPEKOH {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xF21B8A0 | WriteTo: 0xF21B4F0
+	message BDKPPNIMOOH {
+		// Fields
+		uint32 OLBGFLGJBCI = 4; // Offset: 0x18
+		uint32 KDHAOJFJFIP = 1; // Offset: 0x1C
+	}
+
+	// CmdId: - | MergeFrom: 0x84FDA80 | WriteTo: 0x84FD6D0
+	message KBFKGDDLLMO {
+		// Fields
+		uint32 OLBGFLGJBCI = 6; // Offset: 0x18
+		uint32 KDHAOJFJFIP = 9; // Offset: 0x1C
+	}
+
 	oneof GDBAICELECI {
 		BDKPPNIMOOH pair_op = 11; // Offset: 0x18
 		KBFKGDDLLMO unpair_op = 10; // Offset: 0x18
@@ -57289,13 +57338,6 @@ message KHOKCHBFFPN {
 	// Fields
 	int32 LDLIEKOAFBP = 1; // Offset: 0x18
 	uint32 ANKEOLKBECN = 2; // Offset: 0x1C
-}
-
-// CmdId: - | MergeFrom: 0xA1A5B50 | WriteTo: 0xA1A57A0
-message KHOMOLDOGBG {
-	// Fields
-	uint32 AANCEPCPHKJ = 9; // Offset: 0x18
-	uint32 OLBGFLGJBCI = 6; // Offset: 0x1C
 }
 
 enum KHPNBIKHCPH {
@@ -57331,6 +57373,14 @@ message KIBFGHBKMKK {
 
 // CmdId: - | MergeFrom: 0x90F7E30 | WriteTo: 0x90F8150
 message KIBGGJCHBFK {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x9D333D0 | WriteTo: 0x9D331A0
+	message JEMFEHDBNCH {
+		// Fields
+		string DBCJNBDFEOL = 1; // Offset: 0x18
+		string BNJKCHONGGE = 2; // Offset: 0x20
+	}
+
 	// Fields
 	string OAEOIHCDAKC = 11; // Offset: 0x18
 	string FANOIJAHMKN = 4; // Offset: 0x20
@@ -57639,6 +57689,15 @@ enum KJAAKJMFIAG {
 
 // CmdId: - | MergeFrom: 0xA9A4E50 | WriteTo: 0xA9A5A40
 message KJADCADPDGC {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x123DBBA0 | WriteTo: 0x123DB760
+	message KGONKJPPGCA {
+		// Fields
+		uint32 KKCHDMODGCM = 1; // Offset: 0x18
+		bool BOGNCPKPKIO = 2; // Offset: 0x1C
+		uint64 OPDLNBKKHDI = 3; // Offset: 0x20
+	}
+
 	// Fields
 	repeated KGONKJPPGCA KIBAFLLLMKJ = 3; // Offset: 0x18
 	string NDENACOJBGC = 6; // Offset: 0x20
@@ -57893,6 +57952,16 @@ message KJPKGEHFBCJ {
 
 // CmdId: - | MergeFrom: 0xFD291D0 | WriteTo: 0xFD29A10
 message KJPLEMJKBOB {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x10B0D5E0 | WriteTo: 0x10B0CF70
+	message CCLFADDKCJE {
+		// Fields
+		JOCFDGNABEJ MMLPICELLIF = 7; // Offset: 0x18
+		uint32 HEJGKMPNNIM = 4; // Offset: 0x1C
+		uint32 NLNJDCDLHHE = 9; // Offset: 0x20
+		uint32 MHAIENEPEIP = 12; // Offset: 0x24
+	}
+
 	// Fields
 	repeated uint32 MENJJLDBJHM = 7; // Offset: 0x18
 	repeated CCLFADDKCJE LOOIEGJCOOJ = 9; // Offset: 0x20
@@ -57994,6 +58063,15 @@ message KKDLDGEFIDL {
 		OIDJPAPMPEH_RENT_LIMIT = 1;
 		OIDJPAPMPEH_RENT_REPEATED = 2;
 	}
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xB517190 | WriteTo: 0xB516EA0
+	message JEPGIJIBEHI {
+		// Fields
+		KOEOMFPFNKK APJJIIACFMC = 3; // Offset: 0x18
+		repeated JMKLJDDICCA EDCKONIBPAD = 12; // Offset: 0x20
+		OIDJPAPMPEH BBAODGPBJLN = 15; // Offset: 0x28
+	}
+
 	// Fields
 	repeated JEPGIJIBEHI CMEDNEOGJBD = 15; // Offset: 0x18
 	int32 LDLIEKOAFBP = 11; // Offset: 0x20
@@ -58004,13 +58082,6 @@ message KKDNJOIICGG {
 	// Fields
 	uint32 CEJNLFNIKDB = 3; // Offset: 0x18
 	int32 LDLIEKOAFBP = 13; // Offset: 0x1C
-}
-
-// CmdId: - | MergeFrom: 0x136619B0 | WriteTo: 0x13661710
-message KKDOLJIPMCF {
-	// Fields
-	int64 IGGMPAPFLCD = 1; // Offset: 0x18
-	int64 ENCACKMPDAI = 2; // Offset: 0x20
 }
 
 // CmdId: - | MergeFrom: 0x123F3A30 | WriteTo: 0x123F3470
@@ -58297,6 +58368,18 @@ message KKOKAKLNENF {
 		FOBNJAPAHMM_UPDATE = 1;
 		FOBNJAPAHMM_FINISH = 2;
 	}
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xE56E450 | WriteTo: 0xE56D940
+	message CJMNGEOHLGM {
+		// Fields
+		uint32 EPBMJOOFNEG = 9; // Offset: 0x18
+		uint32 JPKOINPDNAL = 10; // Offset: 0x1C
+		uint32 CPFHAFCPIFP = 8; // Offset: 0x20
+		uint32 POGOCJNAOIM = 4; // Offset: 0x24
+		uint32 EPJJGGHIGNO = 12; // Offset: 0x28
+		uint32 KKFPAIHIJNN = 13; // Offset: 0x2C
+	}
+
 	// Fields
 	repeated CJMNGEOHLGM PGCCFLPIIDB = 7; // Offset: 0x18
 	FOBNJAPAHMM NOEEBKJAFAG = 9; // Offset: 0x20
@@ -59118,12 +59201,6 @@ message KNLKIJHEILP {
 	bool IHHEIOOHHHH = 3; // Offset: 0x1D
 }
 
-// CmdId: - | MergeFrom: 0xE91B410 | WriteTo: 0xE91B2D0
-message KNMHCLNDEPM {
-	// Fields
-	bool EFJANMPHCGB = 1; // Offset: 0x18
-}
-
 // CmdId: - | MergeFrom: 0x916F5B0 | WriteTo: 0x916F4F0
 message KNMKJGPGPDB {
 	// Fields
@@ -59164,20 +59241,6 @@ message KNNMGNJMOPH {
 	// Fields
 	uint32 AAIDJOLBBEI = 2; // Offset: 0x18
 	int32 LDLIEKOAFBP = 1; // Offset: 0x1C
-}
-
-// CmdId: - | MergeFrom: 0xA870410 | WriteTo: 0xA870240
-message KNNPHAOJMAH {
-	// Fields
-	uint32 BHOHKJOCNOL = 1; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0x8432E30 | WriteTo: 0x8432B80
-message KNOCIJGDKOK {
-	// Fields
-	repeated GAKPPEJMMLC KBFBEKODLHN = 2; // Offset: 0x18
-	string BOMHKAGLIAJ = 4; // Offset: 0x20
-	repeated uint32 NCNJEEIOFPG = 1; // Offset: 0x28
 }
 
 // CmdId: 1568 | MergeFrom: - | WriteTo: 0x852CA00
@@ -59247,6 +59310,21 @@ message KOCGINOLKGM {
 
 // CmdId: - | MergeFrom: 0xE5885E0 | WriteTo: 0xE587F50
 message KODFMIPPPCH {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xF25B2C0 | WriteTo: 0xF25B1A0
+	message HGCBONFLHHE {
+		// Nested Messages
+		// CmdId: - | MergeFrom: 0x852D580 | WriteTo: 0x852D320
+		message HEDOMHDPHMP {
+			// Fields
+			string EOADNJJPBNK = 2; // Offset: 0x18
+			uint64 LPBKPFHNOAI = 1; // Offset: 0x20
+		}
+
+		// Fields
+		repeated HEDOMHDPHMP CLHPPMPINFP = 1; // Offset: 0x18
+	}
+
 	// Fields
 	string BILCCNNIBJC = 6; // Offset: 0x18
 	HGCBONFLHHE PCPPKLAOBHE = 4; // Offset: 0x20
@@ -59378,7 +59456,7 @@ message KOHBOMDDFCB {
 	string GPFPMHJGKFH = 345; // Offset: 0x20
 	string IJANGEDLOMK = 1785; // Offset: 0x28
 	string OOGECEEANJA = 1868; // Offset: 0x30
-	// !! no tag for KOKJAFONGAN (bytes)  // Offset: 0x38
+	bytes KOKJAFONGAN = 1105; // Offset: 0x38
 	string PLOBPNJINMB = 891; // Offset: 0x40
 	string ECAEIDMALFM = 2; // Offset: 0x48
 	string KALFFFLADGM = 213; // Offset: 0x50
@@ -59399,8 +59477,8 @@ message KOHBOMDDFCB {
 	string LCNMJGGNIND = 9; // Offset: 0xC8
 	string HNNICOEFLAK = 1492; // Offset: 0xD0
 	string MCCMLHDDHAJ = 1; // Offset: 0xD8
-	// !! no tag for LJGEIHAKLHH (bytes)  // Offset: 0xE0
-	// !! no tag for DAGAIOINCOO (bytes)  // Offset: 0xE8
+	bytes LJGEIHAKLHH = 552; // Offset: 0xE0
+	bytes DAGAIOINCOO = 415; // Offset: 0xE8
 	PBBDOCEDNIE PJFPOHEKNEF = 1295; // Offset: 0xF0
 	string FKNBPCAPKCJ = 165; // Offset: 0xF8
 	string NGHMHALIAIO = 190; // Offset: 0x100
@@ -59593,13 +59671,13 @@ message KONNNOHDKDN {
 // CmdId: - | MergeFrom: 0x9188720 | WriteTo: 0x91881A0
 message KOOAGEGEPAD {
 	// Nested Enums
-	enum MCIOONPFFCH {
-		MCIOONPFFCH_OFFLINE = 0;
-		MCIOONPFFCH_ONLINE = 1;
-	}
 	enum BDGBCLCCEAH {
 		BDGBCLCCEAH_TEYVAT = 0;
 		BDGBCLCCEAH_BEYOND = 1;
+	}
+	enum MCIOONPFFCH {
+		MCIOONPFFCH_OFFLINE = 0;
+		MCIOONPFFCH_ONLINE = 1;
 	}
 	// Fields
 	MCIOONPFFCH FHCMLBEDGJC = 2; // Offset: 0x24
@@ -59878,15 +59956,6 @@ message KPIMOOLFILM {
 	float BGDEGJPGIMA = 4; // Offset: 0x2C
 }
 
-// CmdId: - | MergeFrom: 0x10C2ACF0 | WriteTo: 0x10C2A660
-message KPJBCIFMPFE {
-	// Fields
-	uint32 BJOEKCAHEPP = 2; // Offset: 0x18
-	fixed32 IDJGKGECPFH = 10; // Offset: 0x1C
-	uint32 FGHFNOADCGF = 13; // Offset: 0x20
-	uint32 FPBBPLLAGKH = 14; // Offset: 0x24
-}
-
 // CmdId: - | MergeFrom: 0xF265430 | WriteTo: 0xF2657B0
 message KPJFNNHBEBK {
 	// Fields
@@ -60036,16 +60105,6 @@ message LABPIPECGGL {
 	// Fields
 	repeated LKOMNGDNJAD PLPNCLOFNIC = 2; // Offset: 0x18
 	MHJEFPNJEBN HHLHCODKHDM = 1; // Offset: 0x20
-}
-
-// CmdId: - | MergeFrom: 0x10E41000 | WriteTo: 0x10E408A0
-message LADAAMNDBJH {
-	// Fields
-	JHMDEHJDKEN JAFLDJPBOBE = 4; // Offset: 0x18
-	DIKBFLLLCGK IHBCOECDIFB = 1; // Offset: 0x20
-	uint32 JCAFNFEJKAC = 5; // Offset: 0x28
-	uint32 JNBENCKEMKP = 3; // Offset: 0x2C
-	uint32 FINBCIKFMFB = 2; // Offset: 0x30
 }
 
 // CmdId: 29519 | MergeFrom: - | WriteTo: 0xE596CB0
@@ -60566,6 +60625,21 @@ message LBJLOKBPHLI {
 
 // CmdId: 25792 | MergeFrom: 0xFD605A0 | WriteTo: -
 message LBKFCONGICG {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xCD0C1C0 | WriteTo: 0xCD0B460
+	message ODLPJCAICLE {
+		oneof AEGNKHHCECK {
+			GILCBAFBDGB init_info = 12; // Offset: 0x18
+			NLJLBDFLADP new_member = 5; // Offset: 0x18
+			GKKKOOPIFFH member_leave_info = 13; // Offset: 0x18
+			NLJLBDFLADP new_captain = 1; // Offset: 0x18
+			NLJLBDFLADP new_member_info = 11; // Offset: 0x18
+			HCFAAHGNOMK new_config = 10; // Offset: 0x18
+			EEMMMNENLCE team_extra_info = 3; // Offset: 0x18
+			bool is_in_new_beyond_team = 8; // Offset: 0x18
+		}
+	}
+
 	// Fields
 	repeated ODLPJCAICLE IKCNEIPHPFB = 8; // Offset: 0x18
 	uint64 OBPKIAFCBGA = 6; // Offset: 0x20
@@ -60980,12 +61054,6 @@ message LCOKIKKCMDH {
 	uint32 NDKEJIMNCFG = 12; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0xBD0EEB0 | WriteTo: 0xBD0ECA0
-message LCOKNHPEEEB {
-	// Fields
-	int32 PMICOGBINHE = 1; // Offset: 0x18
-}
-
 // CmdId: 3285 | MergeFrom: 0xC1A9F50 | WriteTo: -
 message LCPENHKLAOF {
 	// Fields
@@ -61236,12 +61304,6 @@ message LDJKAOPOIIG {
 	float LIPPENGFELF = 6; // Offset: 0x2C
 }
 
-// CmdId: - | MergeFrom: 0x731CDD0 | WriteTo: 0x731CCC0
-message LDJNEMGKFCP {
-	// Fields
-	repeated uint32 NOAAKEBKBDC = 9; // Offset: 0x18
-}
-
 // CmdId: - | MergeFrom: - | WriteTo: -
 message LDJOKBLGODC {
 }
@@ -61455,12 +61517,6 @@ message LEEJCMCHLNE {
 	uint32 AGOAHEFOCKG = 5; // Offset: 0x24
 	uint32 ALEONIAIIBO = 1; // Offset: 0x28
 	uint32 NEBKFCHLIJP = 2; // Offset: 0x2C
-}
-
-// CmdId: - | MergeFrom: - | WriteTo: -
-message LEELJJDKBHA {
-	// Fields
-	// !! no tag for AGANGOCJKEM (HCHHJGFNEHI)  // Offset: 0x20
 }
 
 // CmdId: - | MergeFrom: 0x91DB3F0 | WriteTo: 0x91DB1A0
@@ -62004,12 +62060,6 @@ message LGBDPIGFCAJ {
 	repeated uint32 HJBPILJAPFM = 15; // Offset: 0x20
 }
 
-// CmdId: - | MergeFrom: 0xADB4240 | WriteTo: 0xADB4120
-message LGBHKLEFIAC {
-	// Fields
-	repeated AGNHNGOLJMD ELBMEKODEFN = 1; // Offset: 0x18
-}
-
 // CmdId: - | MergeFrom: 0x857E2D0 | WriteTo: 0x857E4D0
 message LGBOCKAACBN {
 	// Fields
@@ -62041,16 +62091,6 @@ message LGCHMJMANKK {
 	uint32 KHPFBNILAGN = 8; // Offset: 0x18
 	uint32 PBIBHHJEOPE = 1; // Offset: 0x1C
 	uint32 HJALHNMDKBC = 11; // Offset: 0x20
-}
-
-// CmdId: - | MergeFrom: 0xAAEA930 | WriteTo: 0xAAEA400
-message LGCOKIGPMJC {
-	// Fields
-	string MGPOHJCGBPP = 4; // Offset: 0x18
-	string OKDLHHPJOLA = 2; // Offset: 0x20
-	string EOADNJJPBNK = 3; // Offset: 0x28
-	uint64 ANKEOLKBECN = 1; // Offset: 0x30
-	GDNHCLMHFDC IJAHKNOHHEA = 5; // Offset: 0x38
 }
 
 // CmdId: - | MergeFrom: 0x12F375B0 | WriteTo: 0x12F37A00
@@ -62100,13 +62140,6 @@ message LGFMHCHEFIN {
 	uint32 LPFPFEAHCNC = 11; // Offset: 0x18
 	int32 LDLIEKOAFBP = 1; // Offset: 0x1C
 	uint32 AIDLKPEFGFE = 12; // Offset: 0x20
-}
-
-// CmdId: - | MergeFrom: 0xB8D77D0 | WriteTo: 0xB8D7660
-message LGGAFMKFKLF {
-	// Fields
-	repeated uint64 LAFFAIBLIAA = 2; // Offset: 0x18
-	repeated EIAFKKFAHBA CLHPPMPINFP = 1; // Offset: 0x20
 }
 
 // CmdId: - | MergeFrom: - | WriteTo: -
@@ -63165,13 +63198,6 @@ message LJKBHCAJCJE {
 	bool CLJMCPGLIAP = 13; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0x9F094C0 | WriteTo: 0x9F09350
-message LJKCFCIENJG {
-	// Fields
-	repeated uint32 PFEPEACPMDD = 11; // Offset: 0x18
-	repeated KOEOMFPFNKK HOFNGIBBCHD = 2; // Offset: 0x20
-}
-
 // CmdId: - | MergeFrom: 0xAA41790 | WriteTo: 0xAA41A70
 message LJKEAGOJPGE {
 	// Fields
@@ -63513,12 +63539,6 @@ message LKLMBDHCHNI {
 	uint32 JPDDCAAGEMJ = 11; // Offset: 0x1C
 }
 
-// CmdId: - | MergeFrom: 0x762B150 | WriteTo: 0x762B030
-message LKLOCMINMOK {
-	// Fields
-	bytes DGNMHHNGDCA = 3; // Offset: 0x18
-}
-
 // CmdId: - | MergeFrom: - | WriteTo: -
 message LKLOJHLBCLI {
 }
@@ -63637,6 +63657,16 @@ message LLDOAFFGIHE {
 
 // CmdId: 28056 | MergeFrom: 0x85A2A40 | WriteTo: -
 message LLDOHCGKOII {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x12480840 | WriteTo: 0x124800F0
+	message MBGLCGCHKAI {
+		// Fields
+		uint32 PJAJDHBBMGB = 9; // Offset: 0x18
+		uint32 CNHNIHNHHJI = 11; // Offset: 0x1C
+		uint32 CMAFDGGJDNK = 14; // Offset: 0x20
+		uint32 PHMNHBGJFNN = 12; // Offset: 0x24
+	}
+
 	// Fields
 	repeated MBGLCGCHKAI PLPNCLOFNIC = 6; // Offset: 0x18
 	int32 LDLIEKOAFBP = 5; // Offset: 0x20
@@ -63689,6 +63719,15 @@ message LLHIOALKONJ {
 
 // CmdId: 7610 | MergeFrom: 0xAA601E0 | WriteTo: -
 message LLHMIHNEJAA {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x12481350 | WriteTo: 0x12480E70
+	message PGMCHENCOLN {
+		// Fields
+		bool GEHOJIGGPME = 6; // Offset: 0x18
+		uint32 IGLFOKKPEEO = 13; // Offset: 0x1C
+		uint32 PJAJDHBBMGB = 9; // Offset: 0x20
+	}
+
 	// Fields
 	repeated PGMCHENCOLN ELNBBOIJILM = 10; // Offset: 0x18
 }
@@ -64071,13 +64110,6 @@ message LMPEKPPIKGK {
 message LMPFGBOMMJO {
 }
 
-// CmdId: - | MergeFrom: 0xE9C97C0 | WriteTo: 0xE9C95B0
-message LMPGCEDIFAN {
-	// Fields
-	KOEOMFPFNKK APJJIIACFMC = 7; // Offset: 0x18
-	repeated JKNGEPBJGDB DLHMEJEEBCA = 11; // Offset: 0x20
-}
-
 // CmdId: - | MergeFrom: 0x85AC0F0 | WriteTo: 0x85AC590
 message LNAGBEKGCCF {
 	// Fields
@@ -64228,6 +64260,14 @@ message LNFFKHHBFPF {
 
 // CmdId: - | MergeFrom: 0x12FD2180 | WriteTo: 0x12FD22D0
 message LNGBDMIHICI {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x13D7C610 | WriteTo: 0x13D7C300
+	message BEIAMFCCAPM {
+		// Fields
+		bool KEDLCEFHLLF = 2; // Offset: 0x18
+		uint32 BBCENEIONJO = 1; // Offset: 0x1C
+	}
+
 	// Fields
 	BEIAMFCCAPM HJCDHLFEEDA = 2; // Offset: 0x18
 	OGDENMMFANL OKPLHCCGHPA = 1; // Offset: 0x20
@@ -64573,6 +64613,13 @@ message LOFIEMLJHKA {
 
 // CmdId: - | MergeFrom: 0x78FF2E0 | WriteTo: 0x78FE850
 message LOFJJBOGHEE {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x11838020 | WriteTo: 0x11837F30
+	message OMEHJGMDILG {
+		// Fields
+		JNJANEHBBIJ BPHKDBEAHCP = 1; // Offset: 0x18
+	}
+
 	// Fields
 	OMEHJGMDILG PCPPKLAOBHE = 4; // Offset: 0x18
 	string JPDDCAAGEMJ = 3; // Offset: 0x20
@@ -64861,12 +64908,6 @@ message LPCOHLBFICC {
 	uint32 AIDLKPEFGFE = 1; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0xB7168A0 | WriteTo: 0xB7167B0
-message LPDNGHMLLCL {
-	// Fields
-	IDIKDCMEBBH JNGMEHJEIHA = 1; // Offset: 0x18
-}
-
 // CmdId: - | MergeFrom: 0xC250210 | WriteTo: 0xC250720
 message LPDPJGBIAKO {
 	oneof FLPGMLOFAKP {
@@ -64924,6 +64965,16 @@ message LPFCAMAJFJL {
 
 // CmdId: 25452 | MergeFrom: 0x124A0CD0 | WriteTo: -
 message LPFEEJMIDJC {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x10C2ACF0 | WriteTo: 0x10C2A660
+	message KPJBCIFMPFE {
+		// Fields
+		uint32 BJOEKCAHEPP = 2; // Offset: 0x18
+		fixed32 IDJGKGECPFH = 10; // Offset: 0x1C
+		uint32 FGHFNOADCGF = 13; // Offset: 0x20
+		uint32 FPBBPLLAGKH = 14; // Offset: 0x24
+	}
+
 	// Fields
 	repeated KPJBCIFMPFE MJEDNBLEDJB = 5; // Offset: 0x18
 	int32 LDLIEKOAFBP = 9; // Offset: 0x20
@@ -65094,6 +65145,14 @@ message LPOKEOGENAF {
 
 // CmdId: - | MergeFrom: 0x9241F00 | WriteTo: 0x92426E0
 message LPOMNLCBDKN {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xE601440 | WriteTo: 0xE6012D0
+	message JLNPACJDEKI {
+		// Fields
+		repeated IFDEIOMPIBG ICLDHINPGHF = 2; // Offset: 0x18
+		repeated IFDEIOMPIBG HEICPNIMEID = 1; // Offset: 0x20
+	}
+
 	// Fields
 	string CHEBCGDCPLM = 1; // Offset: 0x18
 	string JKKIFNCDIMC = 2; // Offset: 0x20
@@ -65524,15 +65583,6 @@ message MBGJBIBBCBJ {
 	bool GOIMHKHACBC = 3; // Offset: 0x28
 	uint32 AAHHCNFMADB = 2; // Offset: 0x2C
 	uint32 FJGHCJMLBGM = 5; // Offset: 0x30
-}
-
-// CmdId: - | MergeFrom: 0x12480840 | WriteTo: 0x124800F0
-message MBGLCGCHKAI {
-	// Fields
-	uint32 PJAJDHBBMGB = 9; // Offset: 0x18
-	uint32 CNHNIHNHHJI = 11; // Offset: 0x1C
-	uint32 CMAFDGGJDNK = 14; // Offset: 0x20
-	uint32 PHMNHBGJFNN = 12; // Offset: 0x24
 }
 
 // CmdId: - | MergeFrom: 0xB6C1A00 | WriteTo: 0xB6C1C90
@@ -66346,12 +66396,6 @@ enum MCDADHOEDOA {
 	MCDADHOEDOA_MONSTER_V_2 = 4;
 }
 
-// CmdId: - | MergeFrom: 0x1371FE30 | WriteTo: 0x1371FD20
-message MCDCBPDPODB {
-	// Fields
-	string KHOFKKJEPMJ = 1; // Offset: 0x18
-}
-
 // CmdId: 449 | MergeFrom: 0x13083800 | WriteTo: -
 message MCDCHDCACIM {
 	// Fields
@@ -66850,6 +66894,21 @@ message MDOMPOGNFGJ {
 
 // CmdId: - | MergeFrom: 0x9EC6B40 | WriteTo: 0x9EC65A0
 message MDOPNFJMAJL {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x10C53430 | WriteTo: 0x10C52910
+	message HIANNNGMEFD {
+		// Fields
+		repeated EIAFKKFAHBA CLHPPMPINFP = 1; // Offset: 0x18
+		bool BDAKBIGNOIE = 7; // Offset: 0x20
+		bool PCBIBDICLNL = 5; // Offset: 0x21
+		bool HMDOIDEOKAM = 9; // Offset: 0x22
+		bool MNNMCAAGMAM = 8; // Offset: 0x23
+		bool OINOKDNOOCM = 6; // Offset: 0x24
+		bool HGDFCCCLEDE = 3; // Offset: 0x25
+		uint32 DOCNDAEFFME = 2; // Offset: 0x28
+		uint64 OGNCCMFFJIC = 4; // Offset: 0x30
+	}
+
 	// Fields
 	string JPDDCAAGEMJ = 4; // Offset: 0x18
 	HIANNNGMEFD PCPPKLAOBHE = 3; // Offset: 0x20
@@ -67432,6 +67491,13 @@ message MFNGLCGDCFN {
 
 // CmdId: - | MergeFrom: 0x10C808F0 | WriteTo: 0x10C800D0
 message MFNHIGDIFBK {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xB7168A0 | WriteTo: 0xB7167B0
+	message LPDNGHMLLCL {
+		// Fields
+		IDIKDCMEBBH JNGMEHJEIHA = 1; // Offset: 0x18
+	}
+
 	// Fields
 	string HFMHBICJHNH = 2; // Offset: 0x18
 	string JPDDCAAGEMJ = 3; // Offset: 0x20
@@ -67604,13 +67670,6 @@ message MGFBBEBONGG {
 	// Fields
 	uint32 LCIOKKMCLFP = 2; // Offset: 0x18
 	int32 LDLIEKOAFBP = 1; // Offset: 0x1C
-}
-
-// CmdId: - | MergeFrom: 0x9E08F00 | WriteTo: 0x9E08CC0
-message MGFKKBLOENO {
-	// Fields
-	repeated KIBGGJCHBFK BCOOEGCDHKK = 1; // Offset: 0x18
-	string FBLKPHOCBIK = 2; // Offset: 0x20
 }
 
 // CmdId: 7832 | MergeFrom: 0x1309B9C0 | WriteTo: -
@@ -68857,13 +68916,6 @@ message MJOKKLADJBG {
 	int32 LDLIEKOAFBP = 6; // Offset: 0x1C
 }
 
-// CmdId: - | MergeFrom: 0x7C67DA0 | WriteTo: 0x7C679F0
-message MJPLPBMOCCN {
-	// Fields
-	uint32 NEBKFCHLIJP = 11; // Offset: 0x18
-	uint32 KDBLHFFGAJL = 4; // Offset: 0x1C
-}
-
 // CmdId: 4014 | MergeFrom: - | WriteTo: 0xCE47D90
 message MKAAJDCJEEO {
 	// Fields
@@ -68941,6 +68993,17 @@ message MKEBFKCCDKK {
 
 // CmdId: - | MergeFrom: 0x125253D0 | WriteTo: 0x12524F80
 message MKEOAAHGAFM {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xAAEA930 | WriteTo: 0xAAEA400
+	message LGCOKIGPMJC {
+		// Fields
+		string MGPOHJCGBPP = 4; // Offset: 0x18
+		string OKDLHHPJOLA = 2; // Offset: 0x20
+		string EOADNJJPBNK = 3; // Offset: 0x28
+		uint64 ANKEOLKBECN = 1; // Offset: 0x30
+		GDNHCLMHFDC IJAHKNOHHEA = 5; // Offset: 0x38
+	}
+
 	// Fields
 	repeated LGCOKIGPMJC CLHPPMPINFP = 1; // Offset: 0x18
 	uint64 HCFAMKMFECG = 2; // Offset: 0x20
@@ -68955,18 +69018,23 @@ message MKFCDFEEAAL {
 
 // CmdId: - | MergeFrom: 0x130E89C0 | WriteTo: 0x130E8470
 message MKFKIOGKBMK {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x13DE72E0 | WriteTo: 0x13DE6BD0
+	message HIBKAEFHLFE {
+		// Fields
+		repeated uint32 HGFBPFCEACB = 3; // Offset: 0x20
+		string PNCABINPNDN = 1; // Offset: 0x28
+		int64 NOKCEAOIIHD = 2; // Offset: 0x30
+		oneof CMFLLGDCHKF {
+			MLFILEIPCFB tps_mercenaries_record_brief = 1001; // Offset: 0x18
+		}
+	}
+
 	// Fields
 	string CCFPBJGKMAI = 2; // Offset: 0x18
 	repeated HIBKAEFHLFE ADADGGFNLFI = 3; // Offset: 0x20
 	repeated ACKLNJCFBJE OLOCDCHGCDO = 4; // Offset: 0x28
 	uint32 CKIDKGLDJFF = 1; // Offset: 0x30
-}
-
-// CmdId: - | MergeFrom: 0x8E59FF0 | WriteTo: 0x8E59DD0
-message MKFKKGHAMGA {
-	// Fields
-	CEBFELIGDDH GDGNFINHPOG = 2; // Offset: 0x18
-	repeated JNJANEHBBIJ HIAAPHJMMJE = 1; // Offset: 0x20
 }
 
 // CmdId: 948 | MergeFrom: - | WriteTo: 0xAAEAA60
@@ -69317,6 +69385,23 @@ message MLFILEIPCFB {
 
 // CmdId: 7965 | MergeFrom: 0xF3ABE40 | WriteTo: -
 message MLGCFPEPOLG {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x9F094C0 | WriteTo: 0x9F09350
+	message LJKCFCIENJG {
+		// Fields
+		repeated uint32 PFEPEACPMDD = 11; // Offset: 0x18
+		repeated KOEOMFPFNKK HOFNGIBBCHD = 2; // Offset: 0x20
+	}
+
+	// CmdId: - | MergeFrom: 0x795FBE0 | WriteTo: 0x795F9A0
+	message MOLNFGOJMOG {
+		// Fields
+		repeated uint32 BPNHDCBBAFP = 3; // Offset: 0x18
+		repeated KOEOMFPFNKK HOFNGIBBCHD = 13; // Offset: 0x20
+		repeated uint32 MGFOFHGAOKH = 7; // Offset: 0x28
+		repeated uint32 NLGAOJIKHBJ = 10; // Offset: 0x30
+	}
+
 	// Fields
 	EPFKPEGEGKE FKAJHDJOHAE = 4; // Offset: 0x20
 	uint32 NFEKCIDABNN = 15; // Offset: 0x28
@@ -69448,6 +69533,15 @@ message MLLFOMLCKGL {
 
 // CmdId: - | MergeFrom: 0x12538B80 | WriteTo: 0x12539110
 message MLLOEJEFNGB {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x93DA6A0 | WriteTo: 0x93DA330
+	message EKKAOHFEIJH {
+		// Fields
+		repeated FGIJLNBFILL CLHPPMPINFP = 1; // Offset: 0x18
+		string NEMLEPPCKMG = 2; // Offset: 0x20
+		uint64 GKEOMLMJDBB = 3; // Offset: 0x28
+	}
+
 	// Fields
 	string HFMHBICJHNH = 2; // Offset: 0x18
 	EKKAOHFEIJH PCPPKLAOBHE = 4; // Offset: 0x20
@@ -69538,13 +69632,13 @@ message MLNOPDCEMMM {
 	uint32 IOIIDBDDBGO = 12; // Offset: 0x48
 	uint32 NJAGFJINHMA = 5; // Offset: 0x4C
 	oneof KBHGJCOOJLD {
-		LNGBDMIHICI gadget = 13; // Offset: 0x28
+		uint32 monster_id = 1; // Offset: 0x28
+		uint32 npc_id = 2; // Offset: 0x28
+		uint32 gadget_id = 3; // Offset: 0x28
+		uint32 item_id = 4; // Offset: 0x28
 	}
 	oneof LCJLFNAMNJL {
-		uint32 monster_id = 1; // Offset: 0x30
-		uint32 npc_id = 2; // Offset: 0x30
-		uint32 gadget_id = 3; // Offset: 0x30
-		uint32 item_id = 4; // Offset: 0x30
+		LNGBDMIHICI gadget = 13; // Offset: 0x30
 	}
 }
 
@@ -69728,12 +69822,6 @@ message MMFGCKGKPDK {
 	// Fields
 	uint32 BHMKDDGBIHB = 15; // Offset: 0x18
 	uint32 LHGMODAJAJC = 4; // Offset: 0x1C
-}
-
-// CmdId: - | MergeFrom: 0xB9CEDC0 | WriteTo: 0xB9CECA0
-message MMGCIJEBEKC {
-	// Fields
-	repeated CDLILBANPKE HKJCNBPEDHI = 1; // Offset: 0x18
 }
 
 // CmdId: - | MergeFrom: 0x10CB2E30 | WriteTo: 0x10CB3330
@@ -69956,6 +70044,19 @@ message MNCFLFIHOMK {
 
 // CmdId: - | MergeFrom: 0xAB0D970 | WriteTo: 0xAB0D6C0
 message MNCKHKPFOIG {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xB74D180 | WriteTo: 0xB74CFB0
+	message DAPJCDHKNEG {
+		// Fields
+		uint32 LLHEBIHGDAE = 9; // Offset: 0x18
+	}
+
+	// CmdId: - | MergeFrom: 0x9F141B0 | WriteTo: 0x9F13FE0
+	message FKPEPENPHEA {
+		// Fields
+		uint32 LLHEBIHGDAE = 6; // Offset: 0x18
+	}
+
 	oneof GDBAICELECI {
 		DAPJCDHKNEG absorb_op = 5; // Offset: 0x18
 		FKPEPENPHEA throw_op = 4; // Offset: 0x18
@@ -70420,15 +70521,6 @@ message MOLDMOOPMJA {
 	uint32 AGNINNCKBIG = 3; // Offset: 0x2C
 }
 
-// CmdId: - | MergeFrom: 0x795FBE0 | WriteTo: 0x795F9A0
-message MOLNFGOJMOG {
-	// Fields
-	repeated uint32 BPNHDCBBAFP = 3; // Offset: 0x18
-	repeated KOEOMFPFNKK HOFNGIBBCHD = 13; // Offset: 0x20
-	repeated uint32 MGFOFHGAOKH = 7; // Offset: 0x28
-	repeated uint32 NLGAOJIKHBJ = 10; // Offset: 0x30
-}
-
 // CmdId: - | MergeFrom: - | WriteTo: -
 message MOLPCBDGHPG {
 }
@@ -70875,6 +70967,23 @@ message NAAIDJCKNOJ {
 		MAPHHDPLNFG_BEYOND_PERFORMANCE_LIMIT_SANDBOX_PENALTY_SCORE = 9;
 		MAPHHDPLNFG_BEYOND_PERFORMANCE_LIMIT_SANDBOX_MEMORY = 10;
 	}
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xC4768B0 | WriteTo: 0xC476790
+	message IGIMDEEIGGF {
+		// Fields
+		repeated LADAAMNDBJH KOIEJOHNIPI = 1; // Offset: 0x18
+	}
+
+	// CmdId: - | MergeFrom: 0x10E41000 | WriteTo: 0x10E408A0
+	message LADAAMNDBJH {
+		// Fields
+		JHMDEHJDKEN JAFLDJPBOBE = 4; // Offset: 0x18
+		DIKBFLLLCGK IHBCOECDIFB = 1; // Offset: 0x20
+		uint32 JCAFNFEJKAC = 5; // Offset: 0x28
+		uint32 JNBENCKEMKP = 3; // Offset: 0x2C
+		uint32 FINBCIKFMFB = 2; // Offset: 0x30
+	}
+
 	// Fields
 	uint64 PAGKDLOKOBI = 2; // Offset: 0x20
 	MAPHHDPLNFG FHAJABNAAJC = 1; // Offset: 0x28
@@ -70890,7 +70999,7 @@ message NAAIDJCKNOJ {
 message NAALIELJILH {
 	// Fields
 	repeated IJCEPPNOCNM NKBMECCPKPJ = 2; // Offset: 0x18
-	bytes BBHDLEGOLPI = 9; // Offset: 0x20
+	PDMIPOPOEFC BBHDLEGOLPI = 9; // Offset: 0x20
 	uint32 OJPFPILNCIC = 1; // Offset: 0x24
 }
 
@@ -71618,11 +71727,15 @@ message NCEDGBOLGAO {
 	uint32 LHGMODAJAJC = 1; // Offset: 0x28
 	NNNCBKMMCIM AAFFEONPOCE = 14; // Offset: 0x2C
 	ECPCIMOBPPM DANKKDPNDHJ = 11; // Offset: 0x34
-	// unresolved (oneof DLENANBPGFM, type unknown): music_brief_info = 1740;
-	// unresolved (oneof DLENANBPGFM, type unknown): lan_v_5_card_brief_info = 2034;
-	// unresolved (oneof CMFLLGDCHKF, type unknown): music_record = 5;
-	// unresolved (oneof CMFLLGDCHKF, type unknown): lan_v_5_card_record = 9;
-	// unresolved (oneof CMFLLGDCHKF, type unknown): short_video_record = 10;
+	oneof DLENANBPGFM {
+		OBNHJGIDIAB music_record = 5; // Offset: 0x18
+		FLMKHGHAJPB lan_v_5_card_record = 9; // Offset: 0x18
+		JAKHAPFPMBL short_video_record = 10; // Offset: 0x18
+	}
+	oneof CMFLLGDCHKF {
+		JPNHGEIHBCC music_brief_info = 1740; // Offset: 0x20
+		OLBNBAHFKGJ lan_v_5_card_brief_info = 2034; // Offset: 0x20
+	}
 }
 
 // CmdId: - | MergeFrom: 0xA067AA0 | WriteTo: 0xA067630
@@ -72335,14 +72448,6 @@ message NEFKEIOMBDD {
 	int32 LDLIEKOAFBP = 11; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0xCDC80A0 | WriteTo: 0xCDC7BE0
-message NEFLEBOBAAB {
-	oneof FLPGMLOFAKP {
-		uint32 mist_trial_avatar_id = 6; // Offset: 0x18
-		uint64 formal_avatar_guid = 1; // Offset: 0x18
-	}
-}
-
 // CmdId: - | MergeFrom: 0x11A76C10 | WriteTo: 0x11A768C0
 message NEFOADOAEKA {
 	// Fields
@@ -72466,14 +72571,6 @@ message NELLPPLLGGM {
 	int32 LDLIEKOAFBP = 14; // Offset: 0x30
 }
 
-// CmdId: - | MergeFrom: 0x762B8B0 | WriteTo: 0x762B3F0
-message NELNNBGNDFA {
-	// Fields
-	string HPGJJPGJHFB = 8; // Offset: 0x18
-	uint32 PENKNGAGFAC = 2; // Offset: 0x20
-	uint32 LLOKNGIOCNO = 13; // Offset: 0x24
-}
-
 // CmdId: - | MergeFrom: 0xE825A40 | WriteTo: 0xE8258F0
 message NEMIHKIJIPK {
 	// Fields
@@ -72522,19 +72619,6 @@ message NEOHNOIFOGM {
 	uint32 OEMDGNCCCON = 2; // Offset: 0x18
 	uint32 PHMEOLPBBJM = 1; // Offset: 0x1C
 	uint32 IONFMFPIKMH = 3; // Offset: 0x20
-}
-
-// CmdId: - | MergeFrom: 0x9B7CD50 | WriteTo: 0x9B7C180
-message NEOJKCGMBID {
-	// Fields
-	string MKHJKMHCKDF = 3; // Offset: 0x18
-	uint64 PAICLIPMNHL = 12; // Offset: 0x20
-	uint64 JKJBAOEKNKE = 10; // Offset: 0x28
-	uint32 POHJLPNIGDK = 1; // Offset: 0x30
-	uint32 LKAHCNLODAM = 6; // Offset: 0x34
-	uint32 HGCOMMCPKHP = 5; // Offset: 0x38
-	uint32 NFHEPLAGPHD = 14; // Offset: 0x3C
-	uint64 DIOPBEFMPBO = 2; // Offset: 0x40
 }
 
 // CmdId: - | MergeFrom: 0x13308960 | WriteTo: 0x13308B60
@@ -72771,12 +72855,6 @@ message NFIPAGNLCFH {
 message NFJDHAPIFON {
 }
 
-// CmdId: - | MergeFrom: 0xA757C70 | WriteTo: 0xA757B50
-message NFJIFPDHKFC {
-	// Fields
-	repeated EINBAJMJBOH CLHPPMPINFP = 1; // Offset: 0x18
-}
-
 // CmdId: - | MergeFrom: 0xAC6EC00 | WriteTo: 0xAC6E3B0
 message NFJLJEJECPC {
 	// Fields
@@ -72792,14 +72870,6 @@ message NFJNGHHCBNL {
 	// Fields
 	AFHGLENPPDJ BJNLNGFBHOO = 10; // Offset: 0x18
 	int32 LDLIEKOAFBP = 3; // Offset: 0x20
-}
-
-// CmdId: - | MergeFrom: 0xE9423E0 | WriteTo: 0xE942090
-message NFKKJNKPLLC {
-	// Fields
-	repeated FKIHKOGDENA ENONLOFDEHA = 1; // Offset: 0x18
-	string NEMLEPPCKMG = 3; // Offset: 0x20
-	bool MGJGPBCAFBP = 2; // Offset: 0x28
 }
 
 // CmdId: 21064 | MergeFrom: - | WriteTo: 0xE8319C0
@@ -73191,14 +73261,6 @@ message NHACOHHJKFD {
 message NHALDAJCGEL {
 }
 
-// CmdId: - | MergeFrom: 0xB3109E0 | WriteTo: 0xB310540
-message NHANOIAJINH {
-	// Fields
-	BGDCNKAKGHI JGHCDMJCBMB = 4; // Offset: 0x18
-	uint32 FAOKHAMDBLK = 5; // Offset: 0x20
-	uint32 HKIPDKDCGNB = 8; // Offset: 0x24
-}
-
 // CmdId: 958 | MergeFrom: 0x100A12C0 | WriteTo: -
 message NHBCGMEFEMG {
 	// Fields
@@ -73391,6 +73453,13 @@ message NHICBKOOKEL {
 
 // CmdId: - | MergeFrom: 0x7B03520 | WriteTo: 0x7B03840
 message NHINHFPHAHN {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x1333EE60 | WriteTo: 0x1333ED40
+	message JOJIEEOJMKI {
+		// Fields
+		repeated JHBCDMAPPLJ JHFOAAFHION = 1; // Offset: 0x18
+	}
+
 	// Fields
 	string HFMHBICJHNH = 2; // Offset: 0x18
 	string BILCCNNIBJC = 6; // Offset: 0x20
@@ -73883,14 +73952,6 @@ message NJAKLCLNKAB {
 	fixed32 AMLBGPGIJBD = 7; // Offset: 0x24
 }
 
-// CmdId: - | MergeFrom: 0x7BE26F0 | WriteTo: 0x7BE23C0
-message NJBEOKEDFIJ {
-	// Fields
-	string DBCJNBDFEOL = 1; // Offset: 0x18
-	string BNJKCHONGGE = 2; // Offset: 0x20
-	string HKFKICCGPEL = 3; // Offset: 0x28
-}
-
 // CmdId: - | MergeFrom: 0xB8D4E50 | WriteTo: 0xB8D4FF0
 message NJBJKIAMGHH {
 	// Fields
@@ -73960,6 +74021,14 @@ message NJDMHGILPCG {
 
 // CmdId: - | MergeFrom: 0xD005F70 | WriteTo: 0xD005310
 message NJDOGNOGFHO {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xB8D77D0 | WriteTo: 0xB8D7660
+	message LGGAFMKFKLF {
+		// Fields
+		repeated uint64 LAFFAIBLIAA = 2; // Offset: 0x18
+		repeated EIAFKKFAHBA CLHPPMPINFP = 1; // Offset: 0x20
+	}
+
 	// Fields
 	LGGAFMKFKLF PCPPKLAOBHE = 4; // Offset: 0x18
 	string BILCCNNIBJC = 6; // Offset: 0x20
@@ -74095,13 +74164,6 @@ message NJJFFPNEPDI {
 message NJJPFICHBBH {
 	// Fields
 	repeated BNJKBGPIJGM FEJNEIKCHHL = 1; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0xA366580 | WriteTo: 0xA3661A0
-message NJKOGGMLCDA {
-	// Fields
-	int32 FHHICBEALMN = 1; // Offset: 0x18
-	uint32 BNIOPDFNOBH = 11; // Offset: 0x1C
 }
 
 // CmdId: - | MergeFrom: 0xD011C50 | WriteTo: 0xD0119E0
@@ -74728,12 +74790,6 @@ message NLNPCPAHCCC {
 	bool KNNAPNMMGIL = 14; // Offset: 0x1C
 }
 
-// CmdId: - | MergeFrom: 0xBDF4F20 | WriteTo: 0xBDF4E00
-message NLOHCKJEABJ {
-	// Fields
-	repeated MPLHBDPLGDA CLHPPMPINFP = 1; // Offset: 0x18
-}
-
 // CmdId: - | MergeFrom: 0xF5C3C10 | WriteTo: 0xF5C3EC0
 message NLOOELMIJNJ {
 	// Fields
@@ -74759,14 +74815,6 @@ message NMABGAJEKGD {
 	// Fields
 	int32 LDLIEKOAFBP = 6; // Offset: 0x18
 	uint32 BNFDJHEIHHP = 2; // Offset: 0x1C
-}
-
-// CmdId: - | MergeFrom: 0x143A6F70 | WriteTo: 0x143A6C30
-message NMANFNGNPBP {
-	// Fields
-	string FHBJNPFOKGI = 2; // Offset: 0x18
-	GIPGNPEJCDC MCNBALALEFM = 3; // Offset: 0x20
-	uint64 AAIDJOLBBEI = 1; // Offset: 0x28
 }
 
 // CmdId: 8208 | MergeFrom: - | WriteTo: -
@@ -75364,13 +75412,6 @@ message NODBCNOIEBP {
 	uint32 NHIBJIMHCIF = 2; // Offset: 0x1C
 }
 
-// CmdId: - | MergeFrom: 0x8914F40 | WriteTo: 0x8914CF0
-message NOEHGFLENHK {
-	// Fields
-	repeated EIAFKKFAHBA CLHPPMPINFP = 2; // Offset: 0x18
-	uint64 AAIDJOLBBEI = 1; // Offset: 0x20
-}
-
 enum NOEKDDBDBKI {
 	NOEKDDBDBKI_NONE = 0;
 	NOEKDDBDBKI_PIN_VISIBILITY_CONTROLLER_V_2 = 1;
@@ -75522,6 +75563,23 @@ message NOLDGBKKAHK {
 		CIOGIJIIAAF_BEYOND_PERFORMANCE_LIMIT_SANDBOX_PENALTY_SCORE = 9;
 		CIOGIJIIAAF_BEYOND_PERFORMANCE_LIMIT_SANDBOX_MEMORY = 10;
 	}
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xF5E21F0 | WriteTo: 0xF5E20D0
+	message ALKFHPHCJFD {
+		// Fields
+		repeated GMBCDEOLLKH KOIEJOHNIPI = 11; // Offset: 0x18
+	}
+
+	// CmdId: - | MergeFrom: 0xB989DB0 | WriteTo: 0xB989660
+	message GMBCDEOLLKH {
+		// Fields
+		DIKBFLLLCGK IHBCOECDIFB = 14; // Offset: 0x18
+		JHMDEHJDKEN JAFLDJPBOBE = 12; // Offset: 0x20
+		uint32 JNBENCKEMKP = 10; // Offset: 0x28
+		uint32 JCAFNFEJKAC = 5; // Offset: 0x2C
+		uint32 FINBCIKFMFB = 11; // Offset: 0x30
+	}
+
 	// Fields
 	uint64 PAGKDLOKOBI = 10; // Offset: 0x20
 	uint64 ADGHAKNBCEP = 4; // Offset: 0x28
@@ -76538,12 +76596,6 @@ message OCAJMAGDEHB {
 	int32 LDLIEKOAFBP = 1; // Offset: 0x1C
 }
 
-// CmdId: - | MergeFrom: 0x123B4AD0 | WriteTo: 0x123B4900
-message OCANIFCKENO {
-	// Fields
-	uint32 OLBGFLGJBCI = 6; // Offset: 0x18
-}
-
 // CmdId: - | MergeFrom: 0x7B68530 | WriteTo: 0x7B68710
 message OCBCKFAMIPF {
 	// Fields
@@ -76605,19 +76657,6 @@ message OCFBJJNOKDL {
 	int32 LDLIEKOAFBP = 14; // Offset: 0x20
 }
 
-// CmdId: - | MergeFrom: 0x104E27F0 | WriteTo: 0x104E1AE0
-message OCGGDHKCJOI {
-	// Fields
-	string BPDJEPAEMIF = 12; // Offset: 0x18
-	uint32 GECBAHPPMDI = 5; // Offset: 0x20
-	uint32 JCPNFEFNHCF = 10; // Offset: 0x24
-	uint32 CKMPIKBPFJP = 13; // Offset: 0x28
-	bool HCHGMEHPMKG = 14; // Offset: 0x2C
-	uint32 MHAIENEPEIP = 2; // Offset: 0x30
-	uint32 PJAJDHBBMGB = 9; // Offset: 0x34
-	uint32 NLNJDCDLHHE = 11; // Offset: 0x38
-}
-
 // CmdId: - | MergeFrom: 0x141E3020 | WriteTo: 0x141E2A50
 message OCHOBGBKBPN {
 	oneof FLPGMLOFAKP {
@@ -76630,14 +76669,6 @@ message OCHOBGBKBPN {
 message OCJGAONILID {
 	// Fields
 	repeated int32 BOMMCOHCCNC = 1; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0x10933B70 | WriteTo: 0x109337E0
-message OCJNFJODHKN {
-	// Fields
-	repeated PJAIMLCFLFF PGNADAABLNH = 2; // Offset: 0x18
-	uint64 AAIDJOLBBEI = 1; // Offset: 0x20
-	bool HGDFCCCLEDE = 3; // Offset: 0x28
 }
 
 // CmdId: - | MergeFrom: 0x88C5EA0 | WriteTo: 0x88C58B0
@@ -76977,20 +77008,6 @@ message ODLLLACDJCF {
 	uint32 FKNJMHPHGMP = 1; // Offset: 0x30
 }
 
-// CmdId: - | MergeFrom: 0xCD0C1C0 | WriteTo: 0xCD0B460
-message ODLPJCAICLE {
-	oneof AEGNKHHCECK {
-		GILCBAFBDGB init_info = 12; // Offset: 0x18
-		NLJLBDFLADP new_member = 5; // Offset: 0x18
-		GKKKOOPIFFH member_leave_info = 13; // Offset: 0x18
-		NLJLBDFLADP new_captain = 1; // Offset: 0x18
-		NLJLBDFLADP new_member_info = 11; // Offset: 0x18
-		HCFAAHGNOMK new_config = 10; // Offset: 0x18
-		EEMMMNENLCE team_extra_info = 3; // Offset: 0x18
-		bool is_in_new_beyond_team = 8; // Offset: 0x18
-	}
-}
-
 // CmdId: - | MergeFrom: 0xE8EF8B0 | WriteTo: 0xE8F0430
 message ODMIHAMEADL {
 	// Fields
@@ -77004,6 +77021,15 @@ message ODMIHAMEADL {
 
 // CmdId: - | MergeFrom: 0x127315C0 | WriteTo: 0x127317C0
 message ODNFJACKHFM {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x12732F50 | WriteTo: 0x12732C10
+	message IKDNNGAMIGF {
+		// Fields
+		repeated AGPCMOENKNG CFPHLJICFGK = 2; // Offset: 0x18
+		BHACNCJDBJG OCGNILBDFNC = 3; // Offset: 0x20
+		uint64 PNEFKEEEJDM = 1; // Offset: 0x28
+	}
+
 	// Fields
 	bytes MBIOMBKBFJM = 5; // Offset: 0x18
 	string JPDDCAAGEMJ = 3; // Offset: 0x20
@@ -77185,6 +77211,18 @@ message OELAILAOJKF {
 
 // CmdId: - | MergeFrom: 0x1273E300 | WriteTo: 0x1273DD00
 message OELCFNBFJDL {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x13401B20 | WriteTo: 0x13401460
+	message PFCHDDLHLCO {
+		// Fields
+		FEDLAJPIADG FKIIMDNGJDH = 4; // Offset: 0x18
+		string KLHAIEPKCFE = 3; // Offset: 0x20
+		bool PCBIBDICLNL = 2; // Offset: 0x28
+		uint64 JAEBJPIGDLD = 5; // Offset: 0x30
+		uint64 OPICGIFPBHB = 6; // Offset: 0x38
+		uint64 OGNCCMFFJIC = 1; // Offset: 0x40
+	}
+
 	// Fields
 	string BILCCNNIBJC = 6; // Offset: 0x18
 	bytes MBIOMBKBFJM = 5; // Offset: 0x20
@@ -77252,8 +77290,6 @@ message OENGJHKAHMO {
 message OEOBGPLLMMB {
 	// Fields
 	repeated GOJIHPDAEGC NGGMBAPMCLH = 1; // Offset: 0x18
-	// !! no tag for AGDFBHNDDGD (System.Action)  // Offset: 0x20
-	// !! no tag for BJDHANJJJEH (CGEJFNJGPPJ)  // Offset: 0x28
 }
 
 // CmdId: - | MergeFrom: 0x1273F040 | WriteTo: 0x1273E9E0
@@ -77598,6 +77634,42 @@ message OFNEDBDCCMC {
 
 // CmdId: - | MergeFrom: 0xE91AA70 | WriteTo: 0xE919B10
 message OFOBKIGKAJI {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x88E0B20 | WriteTo: 0x88E0950
+	message CDCNEKMCIKM {
+		// Fields
+		uint32 PGMEIJHLDBI = 1; // Offset: 0x18
+	}
+
+	// CmdId: - | MergeFrom: 0xAD11060 | WriteTo: 0xAD10D60
+	message EKFILGEBGNF {
+		// Fields
+		repeated uint32 ECKEFPGEGJN = 1; // Offset: 0x18
+		uint32 CNLCIBODPKN = 2; // Offset: 0x20
+	}
+
+	// CmdId: - | MergeFrom: - | WriteTo: -
+	message IKEFPEGHFKK {
+	}
+
+	// CmdId: - | MergeFrom: 0xE91B410 | WriteTo: 0xE91B2D0
+	message KNMHCLNDEPM {
+		// Fields
+		bool EFJANMPHCGB = 1; // Offset: 0x18
+	}
+
+	// CmdId: - | MergeFrom: 0xB9CEDC0 | WriteTo: 0xB9CECA0
+	message MMGCIJEBEKC {
+		// Fields
+		repeated CDLILBANPKE HKJCNBPEDHI = 1; // Offset: 0x18
+	}
+
+	// CmdId: - | MergeFrom: 0xC5E5AC0 | WriteTo: 0xC5E59D0
+	message PPAHNHNCBKG {
+		// Fields
+		OGPBOKNKEEB FAJGLPCKIBH = 1; // Offset: 0x18
+	}
+
 	oneof GDBAICELECI {
 		EKFILGEBGNF invite_op = 1; // Offset: 0x18
 		IKEFPEGHFKK leave_op = 2; // Offset: 0x18
@@ -78746,6 +78818,15 @@ message OJDLCHOKAKM {
 
 // CmdId: - | MergeFrom: 0xD092E90 | WriteTo: 0xD0934A0
 message OJDLPGHHLBD {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xE9423E0 | WriteTo: 0xE942090
+	message NFKKJNKPLLC {
+		// Fields
+		repeated FKIHKOGDENA ENONLOFDEHA = 1; // Offset: 0x18
+		string NEMLEPPCKMG = 3; // Offset: 0x20
+		bool MGJGPBCAFBP = 2; // Offset: 0x28
+	}
+
 	// Fields
 	string JPDDCAAGEMJ = 3; // Offset: 0x18
 	string HFMHBICJHNH = 2; // Offset: 0x20
@@ -79485,6 +79566,14 @@ message OLEMMDKNLDP {
 
 // CmdId: - | MergeFrom: 0x12809F90 | WriteTo: 0x128099F0
 message OLGGAFJDONE {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x8914F40 | WriteTo: 0x8914CF0
+	message NOEHGFLENHK {
+		// Fields
+		repeated EIAFKKFAHBA CLHPPMPINFP = 2; // Offset: 0x18
+		uint64 AAIDJOLBBEI = 1; // Offset: 0x20
+	}
+
 	// Fields
 	string BILCCNNIBJC = 6; // Offset: 0x18
 	string HFMHBICJHNH = 2; // Offset: 0x20
@@ -79700,12 +79789,6 @@ message OMEACAECMFK {
 enum OMEHHCLIEHF {
 	OMEHHCLIEHF_MATERIAL_DELETE_RETURN_BAG = 0;
 	OMEHHCLIEHF_MATERIAL_DELETE_RETURN_SEED = 1;
-}
-
-// CmdId: - | MergeFrom: 0x11838020 | WriteTo: 0x11837F30
-message OMEHJGMDILG {
-	// Fields
-	JNJANEHBBIJ BPHKDBEAHCP = 1; // Offset: 0x18
 }
 
 // CmdId: - | MergeFrom: 0x142205C0 | WriteTo: 0x14221200
@@ -80263,6 +80346,38 @@ message ONPAGIKAGGI {
 
 // CmdId: - | MergeFrom: 0x11BE3EC0 | WriteTo: 0x11BE3500
 message ONPFEBHJJEF {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xADB4240 | WriteTo: 0xADB4120
+	message LGBHKLEFIAC {
+		// Nested Messages
+		// CmdId: - | MergeFrom: 0x89338A0 | WriteTo: 0x8933510
+		message AGNHNGOLJMD {
+			// Fields
+			repeated NJBEOKEDFIJ PPGONCCAPFJ = 3; // Offset: 0x18
+			repeated CKOIALJPCCC GAECIBOCHJL = 4; // Offset: 0x20
+			PBECBAEJAHC PKJBPNOLHJH = 2; // Offset: 0x28
+			int64 FOMKGAIGOMP = 1; // Offset: 0x30
+		}
+
+		// CmdId: - | MergeFrom: 0x96D8120 | WriteTo: 0x96D7D70
+		message CKOIALJPCCC {
+			// Fields
+			uint32 KOCFLGMCFJF = 2; // Offset: 0x18
+			uint32 PJAJDHBBMGB = 1; // Offset: 0x1C
+		}
+
+		// CmdId: - | MergeFrom: 0x7BE26F0 | WriteTo: 0x7BE23C0
+		message NJBEOKEDFIJ {
+			// Fields
+			string DBCJNBDFEOL = 1; // Offset: 0x18
+			string BNJKCHONGGE = 2; // Offset: 0x20
+			string HKFKICCGPEL = 3; // Offset: 0x28
+		}
+
+		// Fields
+		repeated AGNHNGOLJMD ELBMEKODEFN = 1; // Offset: 0x18
+	}
+
 	// Fields
 	string JPDDCAAGEMJ = 3; // Offset: 0x18
 	bytes MBIOMBKBFJM = 5; // Offset: 0x20
@@ -80709,14 +80824,6 @@ message OPEBFGFMNAG {
 message OPECMJPMJHA {
 }
 
-// CmdId: - | MergeFrom: 0x9BD3280 | WriteTo: 0x9BD2FC0
-message OPGMNIDEICB {
-	// Fields
-	repeated FEELPGFOBMN ELFIACJBBJM = 2; // Offset: 0x18
-	repeated FEELPGFOBMN DCPKJCJNIDM = 3; // Offset: 0x20
-	uint64 AAIDJOLBBEI = 1; // Offset: 0x28
-}
-
 // CmdId: - | MergeFrom: 0xC635C80 | WriteTo: 0xC636150
 message OPHEFKEJNEH {
 	// Fields
@@ -80777,21 +80884,6 @@ message OPKFLHONNJP {
 message OPKHBBMKBFP {
 	// Fields
 	bool GFAFNFMJBIK = 6; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0xC798F40 | WriteTo: 0xC798560
-message OPLLFDENECB {
-	// Fields
-	HDDOPECENAF AOIGKFJIMLN = 4; // Offset: 0x18
-	FLFGGHMOAIK OHCANNMPPLO = 9; // Offset: 0x20
-	EGKMDIMFHMC MGIBLEKCNOP = 2; // Offset: 0x28
-	FBGOMEJGKFM HKHOJKKJHME = 3; // Offset: 0x30
-	ONLADJEKBJI LEIKFDLHEKM = 1; // Offset: 0x38
-	MKEOAAHGAFM BDGIFFNIJMF = 10; // Offset: 0x40
-	NBOPBILPMDN LJHCBLFFAHM = 8; // Offset: 0x48
-	bool FPGHDNHOPDC = 5; // Offset: 0x50
-	bool CGACMKMMKFE = 6; // Offset: 0x51
-	bool FOOLJKAIOPG = 7; // Offset: 0x52
 }
 
 // CmdId: - | MergeFrom: 0xE97DB30 | WriteTo: 0xE97D770
@@ -81029,6 +81121,13 @@ message PAMGPPLMCEA {
 
 // CmdId: - | MergeFrom: 0x13509F50 | WriteTo: 0x13509950
 message PAMHKBGOPIG {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xADCC150 | WriteTo: 0xADCC040
+	message FNBIGKGKIGM {
+		// Fields
+		string BFOFKNFHPJN = 1; // Offset: 0x18
+	}
+
 	// Fields
 	FNBIGKGKIGM PCPPKLAOBHE = 4; // Offset: 0x18
 	string HFMHBICJHNH = 2; // Offset: 0x20
@@ -81192,6 +81291,21 @@ message PBDLCGFLBEE {
 
 // CmdId: - | MergeFrom: 0x11C004B0 | WriteTo: 0x11C00930
 message PBDMDGMKBFI {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x14256D10 | WriteTo: 0x14256960
+	message DCDCMEEBLPM {
+		// Fields
+		uint32 OLBGFLGJBCI = 4; // Offset: 0x18
+		uint32 AANCEPCPHKJ = 1; // Offset: 0x1C
+	}
+
+	// CmdId: - | MergeFrom: 0xA1A5B50 | WriteTo: 0xA1A57A0
+	message KHOMOLDOGBG {
+		// Fields
+		uint32 AANCEPCPHKJ = 9; // Offset: 0x18
+		uint32 OLBGFLGJBCI = 6; // Offset: 0x1C
+	}
+
 	oneof GDBAICELECI {
 		DCDCMEEBLPM pair_op = 10; // Offset: 0x18
 		KHOMOLDOGBG unpair_op = 1; // Offset: 0x18
@@ -81820,14 +81934,6 @@ message PDBOEGCJGBG {
 	int32 JJEHBNGPDGE = 503; // Offset: 0x20
 }
 
-// CmdId: - | MergeFrom: 0x9B3C8C0 | WriteTo: 0x9B3C3F0
-message PDBPGLJGMGG {
-	// Fields
-	bytes LOGFJBNJKND = 6; // Offset: 0x18
-	uint32 NGMMFFKKGIE = 1; // Offset: 0x20
-	uint32 GHDLIFIPGEM = 11; // Offset: 0x24
-}
-
 // CmdId: - | MergeFrom: - | WriteTo: -
 message PDCAPCAGIIA {
 }
@@ -82002,13 +82108,6 @@ message PDLCANPAPHN {
 	repeated uint32 ANNHIGCFMBD = 4; // Offset: 0x40
 	repeated uint32 MNOLCCPABIK = 2; // Offset: 0x48
 	uint32 BOIJOOLJPFE = 8; // Offset: 0x50
-}
-
-// CmdId: - | MergeFrom: 0x7323560 | WriteTo: 0x7323160
-message PDLEOAELFLJ {
-	// Fields
-	int32 LCIHMJAOAGE = 2; // Offset: 0x18
-	int32 DFFMDAMGKLF = 3; // Offset: 0x1C
 }
 
 // CmdId: 9854 | MergeFrom: 0xA1B97C0 | WriteTo: -
@@ -82329,13 +82428,6 @@ message PEMADOPCNDP {
 	int32 LDLIEKOAFBP = 5; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0xE457F70 | WriteTo: 0xE457C70
-message PEMOFGMDGHP {
-	// Fields
-	map<uint32, uint32> ALNBHHEJLKP = 1; // Offset: 0x18
-	uint32 MNBPLFPCJLG = 2; // Offset: 0x20
-}
-
 enum PENMBPFHEEM {
 	PENMBPFHEEM_DUNGEON_TEAM_BUILDER_PLAYER_LEAVE_NONE = 0;
 	PENMBPFHEEM_DUNGEON_TEAM_BUILDER_PLAYER_LEAVE_NORMAL = 1;
@@ -82508,17 +82600,6 @@ message PFCDODDLDIM {
 	uint32 IBNBGDMMJKJ = 1; // Offset: 0x18
 	PGOABJNJDNA FHHGBICKIHG = 2; // Offset: 0x1C
 	uint32 CLAHCBMGCHC = 3; // Offset: 0x20
-}
-
-// CmdId: - | MergeFrom: 0x13401B20 | WriteTo: 0x13401460
-message PFCHDDLHLCO {
-	// Fields
-	FEDLAJPIADG FKIIMDNGJDH = 4; // Offset: 0x18
-	string KLHAIEPKCFE = 3; // Offset: 0x20
-	bool PCBIBDICLNL = 2; // Offset: 0x28
-	uint64 JAEBJPIGDLD = 5; // Offset: 0x30
-	uint64 OPICGIFPBHB = 6; // Offset: 0x38
-	uint64 OGNCCMFFJIC = 1; // Offset: 0x40
 }
 
 // CmdId: - | MergeFrom: 0xC6860C0 | WriteTo: 0xC686290
@@ -82808,18 +82889,6 @@ message PFPIGFADKLL {
 	uint64 FBLKPHOCBIK = 3; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0x114E23F0 | WriteTo: 0x114E1960
-message PGAAIKGOECF {
-	// Fields
-	repeated uint32 HNHNHHEDKAG = 9; // Offset: 0x18
-	uint64 IPPDEHFEPHI = 6; // Offset: 0x20
-	uint32 OIFOGAIDDNN = 3; // Offset: 0x28
-	uint32 HOFALNEAOLK = 12; // Offset: 0x2C
-	uint64 EKMLDMIELLP = 13; // Offset: 0x30
-	uint32 NFHEPLAGPHD = 11; // Offset: 0x38
-	uint32 JEIIOJDBOEE = 10; // Offset: 0x3C
-}
-
 // CmdId: 24052 | MergeFrom: 0x10232BE0 | WriteTo: -
 message PGAJGPDNCJE {
 	// Fields
@@ -82857,13 +82926,6 @@ message PGDHIIHMBGA {
 	uint32 BPPNIGHOPNB = 5; // Offset: 0x28
 	bool ICMFFOLOBDL = 3; // Offset: 0x2C
 	bool GGNHCDDNGJH = 2; // Offset: 0x2D
-}
-
-// CmdId: - | MergeFrom: 0xEE34E10 | WriteTo: 0xEE34B30
-message PGDJODJJMJJ {
-	// Fields
-	repeated HOHKFAAMMPN NDBGHDNKAKM = 8; // Offset: 0x18
-	uint32 NBDGINFCIIK = 6; // Offset: 0x20
 }
 
 // CmdId: 8047 | MergeFrom: 0x12865550 | WriteTo: -
@@ -82971,14 +83033,6 @@ message PGLBIBOBAGP {
 	uint32 FBDKOKIAABL = 12; // Offset: 0x1C
 }
 
-// CmdId: - | MergeFrom: 0x12481350 | WriteTo: 0x12480E70
-message PGMCHENCOLN {
-	// Fields
-	bool GEHOJIGGPME = 6; // Offset: 0x18
-	uint32 IGLFOKKPEEO = 13; // Offset: 0x1C
-	uint32 PJAJDHBBMGB = 9; // Offset: 0x20
-}
-
 // CmdId: 25590 | MergeFrom: 0x12866480 | WriteTo: -
 message PGMGBAMEPLK {
 	// Fields
@@ -83035,6 +83089,14 @@ message PGOOKFNEOOB {
 
 // CmdId: 29667 | MergeFrom: 0x12869F40 | WriteTo: -
 message PGPEJHILIBO {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xE9AC7F0 | WriteTo: 0xE9AC440
+	message JLJAEHGEOHG {
+		// Fields
+		uint32 PJAJDHBBMGB = 14; // Offset: 0x18
+		uint32 DHFFJFGIKMJ = 6; // Offset: 0x1C
+	}
+
 	// Fields
 	repeated JLJAEHGEOHG KPNFCCAMMAB = 8; // Offset: 0x18
 	uint32 NPOCLBJGDBO = 4; // Offset: 0x20
@@ -83211,6 +83273,14 @@ message PHHAJOEOMHA {
 
 // CmdId: - | MergeFrom: 0xBA5DD80 | WriteTo: 0xBA5DA20
 message PHHIINIFPEM {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0x7C67DA0 | WriteTo: 0x7C679F0
+	message MJPLPBMOCCN {
+		// Fields
+		uint32 NEBKFCHLIJP = 11; // Offset: 0x18
+		uint32 KDBLHFFGAJL = 4; // Offset: 0x1C
+	}
+
 	oneof FLPGMLOFAKP {
 		MJPLPBMOCCN ley_line_challenge_detail = 6758; // Offset: 0x18
 	}
@@ -83679,13 +83749,6 @@ message PJADOAPGACA {
 message PJAIKLPOIBD {
 }
 
-// CmdId: - | MergeFrom: 0x10934440 | WriteTo: 0x10934210
-message PJAIMLCFLFF {
-	// Fields
-	string GBPAEGLCKDF = 1; // Offset: 0x18
-	repeated ENJCNMPONJP ELNENHFENNB = 2; // Offset: 0x20
-}
-
 // CmdId: 22063 | MergeFrom: 0x11C4BA20 | WriteTo: -
 message PJBBJBKOLAI {
 	// Fields
@@ -83704,13 +83767,6 @@ message PJBOFFKHLBG {
 message PJCBGEOIBBK {
 	// Fields
 	repeated GJGNMDFLCLC LOOIEGJCOOJ = 1; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0x9056D90 | WriteTo: 0x9056AB0
-message PJDCKPLPLPN {
-	// Fields
-	repeated uint32 MFCENHPKEHD = 14; // Offset: 0x18
-	uint32 JPGHMHALJGJ = 9; // Offset: 0x20
 }
 
 // CmdId: 9501 | MergeFrom: 0xF6EE540 | WriteTo: -
@@ -84826,6 +84882,14 @@ message PMHDPMNPHEM {
 
 // CmdId: 9294 | MergeFrom: 0xE9C8D00 | WriteTo: -
 message PMHNJCAEGFL {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xE9C97C0 | WriteTo: 0xE9C95B0
+	message LMPGCEDIFAN {
+		// Fields
+		KOEOMFPFNKK APJJIIACFMC = 7; // Offset: 0x18
+		repeated JKNGEPBJGDB DLHMEJEEBCA = 11; // Offset: 0x20
+	}
+
 	// Fields
 	repeated LMPGCEDIFAN DFJAFOPCDNO = 6; // Offset: 0x18
 	int32 LDLIEKOAFBP = 11; // Offset: 0x20
@@ -84912,6 +84976,13 @@ message PMLMLFGDKLC {
 
 // CmdId: - | MergeFrom: 0x1026D780 | WriteTo: 0x1026CC00
 message PMMACFOGMEH {
+	// Nested Messages
+	// CmdId: - | MergeFrom: 0xAE497F0 | WriteTo: 0xAE49700
+	message GOGGKKEIHMJ {
+		// Fields
+		JNJANEHBBIJ BPHKDBEAHCP = 1; // Offset: 0x18
+	}
+
 	// Fields
 	GOGGKKEIHMJ PCPPKLAOBHE = 6; // Offset: 0x18
 	string JPDDCAAGEMJ = 3; // Offset: 0x20
@@ -85483,13 +85554,6 @@ message POFNEIOFPLI {
 	FHOEEHMDHGC DHOBJOJAIHN = 2; // Offset: 0x18
 }
 
-// CmdId: - | MergeFrom: 0x80D9220 | WriteTo: 0x80D8FD0
-message POGKNHHPMML {
-	// Fields
-	repeated string GBPPAPMAOJP = 1; // Offset: 0x18
-	bool FPGHDNHOPDC = 2; // Offset: 0x20
-}
-
 // CmdId: 9625 | MergeFrom: - | WriteTo: 0x10290500
 message POGOOOHKIAA {
 	// Fields
@@ -85663,13 +85727,13 @@ message PONBJAEKDDO {
 	DEKDLPINMJK NFMPFBMFFME = 30; // Offset: 0x4C
 	HOGFKDBLHFN FHFDFNBGDIA = 24; // Offset: 0x50
 	oneof ALNBMMGDGGL {
-		BGDCNKAKGHI rotation = 21; // Offset: 0x18
-		AEMKMPCCLOE rotation_speed = 22; // Offset: 0x18
-		AEMKMPCCLOE axis_speed = 23; // Offset: 0x18
+		float velocity = 11; // Offset: 0x18
+		float time = 12; // Offset: 0x18
 	}
 	oneof IMHPIPGMMNI {
-		float velocity = 11; // Offset: 0x28
-		float time = 12; // Offset: 0x28
+		BGDCNKAKGHI rotation = 21; // Offset: 0x28
+		AEMKMPCCLOE rotation_speed = 22; // Offset: 0x28
+		AEMKMPCCLOE axis_speed = 23; // Offset: 0x28
 	}
 }
 
@@ -85700,12 +85764,6 @@ message POPKHJMLAHC {
 message POPPHDOEFLC {
 	// Fields
 	uint32 PKAPPDJFIAC = 4; // Offset: 0x18
-}
-
-// CmdId: - | MergeFrom: 0xC5E5AC0 | WriteTo: 0xC5E59D0
-message PPAHNHNCBKG {
-	// Fields
-	OGPBOKNKEEB FAJGLPCKIBH = 1; // Offset: 0x18
 }
 
 // CmdId: 29535 | MergeFrom: - | WriteTo: 0xE9E9F80
@@ -86017,12 +86075,6 @@ message PPNBEEOLLKO {
 	float DDHJFJFCDLD = 2; // Offset: 0x30
 	int32 EKBOOEHCHOM = 4; // Offset: 0x34
 	int32 AHHOLHIKCAG = 1; // Offset: 0x38
-}
-
-// CmdId: - | MergeFrom: 0x7DFC480 | WriteTo: 0x7DFC2B0
-message PPNFADGLEGK {
-	// Fields
-	uint32 LLHEBIHGDAE = 1; // Offset: 0x18
 }
 
 // CmdId: 6688 | MergeFrom: 0x142C6A50 | WriteTo: -
